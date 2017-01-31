@@ -1,0 +1,1331 @@
+#HMO
+
+# DATA
+ID	CONCEPT	LANGUAGE	IPA
+#
+1	all 	Western Xiangxi	sa5
+2	all 	Eastern Xiangxi	xa31
+3	all 	Qiandong	sɛ4
+4	all 	Chuanqiandian	təu1
+5	all 	Diandongbei	tu5
+6	all 	Hmong Daw	hu3
+7	all 	Hmong Njua	cɨ6
+8	all 	Bunu	tu5
+9	all 	Baonao	kou5
+10	all 	Numao	tey4
+11	all 	Longhua Jiongnai	tu44
+12	all 	Liuxiang Jiongnai	tu44
+13	all 	Xiaozhai Younuo	tou33
+14	all 	Huangluo Younuo	tu33
+15	all 	Northern Pa-Hng	tɔ33
+16	all 	Southern Pa-Hng	tɦɔ33
+17	all 	Hm-Nai	ki̯ei55 
+18	ashes 	Western Xiangxi	ʆi3
+19	ashes 	Eastern Xiangxi	pʰi55
+20	ashes 	Qiandong	ʆʰu3
+21	ashes 	Chuanqiandian	c̢ʰəu3
+22	ashes 	Diandongbei	c̢ʰao3
+23	ashes 	Hmong Daw	čʰɔw3
+24	ashes 	Hmong Njua	čʰau2
+25	ashes 	Bunu	sʰa3
+26	ashes 	Baonao	sʰi̯a3
+27	ashes 	Numao	ʆu3
+28	ashes 	Longhua Jiongnai	θe53
+29	ashes 	Liuxiang Jiongnai	θey35
+30	ashes 	Xiaozhai Younuo	cʰɔ22
+31	ashes 	Huangluo Younuo	cʰɔ22
+32	ashes 	Northern Pa-Hng	si22
+33	ashes 	Southern Pa-Hng	ʆe31
+34	ashes 	Hm-Nai	ʆi13
+35	big	Western Xiangxi	li̯o2
+36	big	Eastern Xiangxi	ʎ̥ʰɔ53 
+37	big	Qiandong	 l̥ʰiǝ1
+38	big	Chuanqiandian	lo2
+39	big	Diandongbei	laɯ4
+40	big	Hmong Daw	lɔ2
+41	big	Hmong Njua	lu5
+42	big	Bunu	laŋ8
+43	big	Baonao	lʰi̯uɔ1
+44	big	Numao	lo8
+45	big	Longhua Jiongnai	l̥i̯eu44
+46	big	Liuxiang Jiongnai	 l̥i̯eu44
+47	big	Xiaozhai Younuo	liu33
+48	big	Huangluo Younuo	liu33
+49	big	Northern Pa-Hng	 l̥i̯o35
+50	big	Southern Pa-Hng	 l̥i̯o35
+51	big	Hm-Nai	 l̥i̯o35
+52	bird 	Western Xiangxi	nu6
+53	bird 	Eastern Xiangxi	nɔ11
+54	bird 	Qiandong	nəu6
+55	bird 	Chuanqiandian	noŋ6
+56	bird 	Diandongbei	nao6
+57	bird 	Hmong Daw	nõ6
+58	bird 	Hmong Njua	noŋ6
+59	bird 	Bunu	naŋ6
+60	bird 	Baonao	nuɔ6
+61	bird 	Numao	nou6
+62	bird 	Longhua Jiongnai	nɔuŋ22
+63	bird 	Liuxiang Jiongnai	nɔ21
+64	bird 	Xiaozhai Younuo	noŋ31
+65	bird 	Huangluo Younuo	noŋ22
+66	bird 	Northern Pa-Hng	moŋ44
+67	bird 	Southern Pa-Hng	mõ44
+68	bird 	Hm-Nai	nuŋ31
+69	black 	Western Xiangxi	qu̯e1
+70	black 	Eastern Xiangxi	qwe53
+71	black 	Qiandong	ɬɛ1
+72	black 	Chuanqiandian	tlo1
+73	black 	Diandongbei	ƛu1
+74	black 	Hmong Daw	ʼdu1
+75	black 	Hmong Njua	ƛu1
+76	black 	Bunu	ƛuŋ1
+77	black 	Baonao	ƛi̯ɔ1
+78	black 	Numao	ƛi̯uŋ1
+79	black 	Longhua Jiongnai	klaŋ44
+80	black 	Liuxiang Jiongnai	klã44
+81	black 	Xiaozhai Younuo	kuŋ33
+82	black 	Huangluo Younuo	ku33
+83	black 	Northern Pa-Hng	kwaŋ33
+84	black 	Southern Pa-Hng	kɦwɔ̃33
+85	black 	Hm-Nai	quŋ31
+86	blood 	Western Xiangxi	ɲɕʰin3
+87	blood 	Eastern Xiangxi	cʰe55
+88	blood 	Qiandong	ʃʰaŋ3
+89	blood 	Chuanqiandian	nc̢ʰaŋ3
+90	blood 	Diandongbei	ɳc̢aɯ3
+91	blood 	Hmong Daw	nčʰa3
+92	blood 	Hmong Njua	ɲčʰaŋ2
+93	blood 	Bunu	ncʰəŋ3
+94	blood 	Baonao	ncʰɒ3
+95	blood 	Numao	ncʰi̯ɑn3 
+96	blood 	Longhua Jiongnai	θi53
+97	blood 	Liuxiang Jiongnai	θi35
+98	blood 	Xiaozhai Younuo	cʰun22
+99	blood 	Huangluo Younuo	cʰun22
+100	blood 	Northern Pa-Hng	ɲ̥ei22
+101	blood 	Southern Pa-Hng	ɲ̥ɕe31
+102	blood 	Hm-Nai	 ɲ̥ɕʰei13
+103	bone 	Western Xiangxi	soŋ3
+104	bone 	Eastern Xiangxi	sɤ55
+105	bone 	Qiandong	cʰaɯ5
+106	bone 	Chuanqiandian	sʰoŋ3
+107	bone 	Diandongbei	cʰaɯ5
+108	bone 	Hmong Daw	cʰa4
+109	bone 	Hmong Njua	cʰaŋ3
+110	bone 	Bunu	θʰɔŋ3
+111	bone 	Baonao	tθʰɒ3
+112	bone 	Numao	soŋ3
+113	bone 	Longhua Jiongnai	θaŋ53
+114	bone 	Liuxiang Jiongnai	θaŋ35
+115	bone 	Xiaozhai Younuo	tʰəŋ22
+116	bone 	Huangluo Younuo	tʰaŋ22
+117	bone 	Northern Pa-Hng	soŋ22
+118	bone 	Southern Pa-Hng	sõ31
+119	bone 	Hm-Nai	suŋ13
+120	burn tr. 	Western Xiangxi	ɔ1
+121	burn tr. 	Eastern Xiangxi	ɔ53
+122	burn tr. 	Qiandong	tio3
+123	burn tr. 	Chuanqiandian	fau3
+124	burn tr. 	Diandongbei	ƛao3
+125	burn tr. 	Hmong Daw	 l̥ǝw3
+126	burn tr. 	Hmong Njua	ɬaʉ2
+127	burn tr. 	Bunu	ʈa3
+128	burn tr. 	Baonao	ɕa3
+129	burn tr. 	Numao	ti̯u3
+130	burn tr. 	Longhua Jiongnai	v̥a53
+131	burn tr. 	Liuxiang Jiongnai	hwa35
+132	burn tr. 	Xiaozhai Younuo	tʰou22
+133	burn tr. 	Huangluo Younuo	tʰou22
+134	burn tr. 	Northern Pa-Hng	pʰo22
+135	burn tr. 	Southern Pa-Hng	pʰo31
+136	burn tr. 	Hm-Nai	ti̯aŋ35
+137	cold 	Western Xiangxi	cɛ̃4
+138	cold 	Eastern Xiangxi	ʒɛ35
+139	cold 	Qiandong	sei4
+140	cold 	Chuanqiandian	ʒa6
+141	cold 	Diandongbei	ɕie4
+142	cold 	Hmong Daw	ci̯a5
+143	cold 	Hmong Njua	ca6
+144	cold 	Bunu	θəŋ4 
+145	cold 	Baonao	tθey4
+146	cold 	Numao	ncɑn6 
+147	cold 	Longhua Jiongnai	naŋ35
+148	cold 	Liuxiang Jiongnai	naŋ22
+149	cold 	Xiaozhai Younuo	naŋ35
+150	cold 	Huangluo Younuo	naŋ53
+151	cold 	Northern Pa-Hng	ɲaŋ55
+152	cold 	Southern Pa-Hng	ɲɔ̃55
+153	cold 	Hm-Nai	ɲaŋ55
+154	come 	Western Xiangxi	lo4
+155	come 	Eastern Xiangxi	lɔ33
+156	come 	Qiandong	ta2
+157	come 	Chuanqiandian	tua2
+158	come 	Diandongbei	ta2
+159	come 	Hmong Daw	tu̯ǝ2
+160	come 	Hmong Njua	tu̯a5
+161	come 	Bunu	lɔ4
+162	come 	Baonao	tuɔ2
+163	come 	Numao	lɑu4
+164	come 	Longhua Jiongnai	lɔu31
+165	come 	Liuxiang Jiongnai	lo53
+166	come 	Xiaozhai Younuo	tɔ13
+167	come 	Huangluo Younuo	tɔ13
+168	come 	Northern Pa-Hng	tei33
+169	come 	Southern Pa-Hng	tɦe33
+170	come 	Hm-Nai	te33
+171	dog 	Western Xiangxi	qu̯ɯ3
+172	dog 	Eastern Xiangxi	qʋ55
+173	dog 	Qiandong	ɬa3
+174	dog 	Chuanqiandian	tle3
+175	dog 	Diandongbei	ƛa3
+176	dog 	Hmong Daw	ʼde3
+177	dog 	Hmong Njua	ƛe2
+178	dog 	Bunu	ƛe3
+179	dog 	Baonao	ƛey3
+180	dog 	Numao	ƛi̯ɑ3
+181	dog 	Longhua Jiongnai	kla53
+182	dog 	Liuxiang Jiongnai	kla35
+183	dog 	Xiaozhai Younuo	kou22
+184	dog 	Huangluo Younuo	kou22
+185	dog 	Northern Pa-Hng	li̯aŋ53
+186	dog 	Southern Pa-Hng	li̯ɔ̃53
+187	dog 	Hm-Nai	li̯aŋ53
+188	drink 	Western Xiangxi	xu3
+189	drink 	Eastern Xiangxi	xɔ35
+190	drink 	Qiandong	həu7
+191	drink 	Chuanqiandian	heu7
+192	drink 	Diandongbei	hao7
+193	drink 	Hmong Daw	hɔw5
+194	drink 	Hmong Njua	hau4
+195	drink 	Bunu	hu7
+196	drink 	Baonao	hau7
+197	drink 	Numao	xɤ7
+198	drink 	Longhua Jiongnai	xɔ43
+199	drink 	Liuxiang Jiongnai	həu43
+200	drink 	Xiaozhai Younuo	hɔ31
+201	drink 	Huangluo Younuo	hɔ31
+202	drink 	Northern Pa-Hng	hɔ53
+203	drink 	Southern Pa-Hng	hɔ53
+204	drink 	Hm-Nai	hau53
+205	dry 	Western Xiangxi	qʰä3
+206	dry 	Eastern Xiangxi	qʰɛ55
+207	dry 	Qiandong	ŋa6
+208	dry 	Chuanqiandian	qʰua3
+209	dry 	Diandongbei	nqʰa1
+210	dry 	Hmong Daw	qʰu̯ǝ3
+211	dry 	Hmong Njua	qʰu̯a2
+212	dry 	Bunu	ŋkʰen3
+213	dry 	Baonao	ɕẽ5
+214	dry 	Numao	ŋkʰɑn3
+215	dry 	Longhua Jiongnai	ŋkʰey44
+216	dry 	Liuxiang Jiongnai	ŋkay44
+217	dry 	Xiaozhai Younuo	kʰey22
+218	dry 	Huangluo Younuo	kʰey22
+219	dry 	Northern Pa-Hng	qʰei22
+220	dry 	Southern Pa-Hng	qʰe31
+221	dry 	Hm-Nai	qʰe13
+222	ear 	Western Xiangxi	mɹɯ2
+223	ear 	Eastern Xiangxi	mi̯ɯ31
+224	ear 	Qiandong	nɛ2
+225	ear 	Chuanqiandian	c̢e2
+226	ear 	Diandongbei	mpǝ2
+227	ear 	Hmong Daw	nǯe2
+228	ear 	Hmong Njua	ɲǯe5
+229	ear 	Bunu	mpi̯e2
+230	ear 	Baonao	mpce2
+231	ear 	Numao	mpi̯ey2
+232	ear 	Longhua Jiongnai	mpi̯a33
+233	ear 	Liuxiang Jiongnai	mpi̯a31
+234	ear 	Xiaozhai Younuo	mi̯e13
+235	ear 	Huangluo Younuo	muy13
+236	ear 	Northern Pa-Hng	ni̯o33
+237	ear 	Southern Pa-Hng	mpɦi̯ɔ33
+238	ear 	Hm-Nai	mpi̯au31
+239	earth 	Western Xiangxi	lu5
+240	earth 	Eastern Xiangxi	la11
+241	earth 	Qiandong	ta1
+242	earth 	Chuanqiandian	lua2
+243	earth 	Diandongbei	la2 
+244	earth 	Hmong Daw	a3
+245	earth 	Hmong Njua	ʔaŋ2
+246	earth 	Bunu	te1
+247	earth 	Baonao	tei1
+248	earth 	Numao	tɑ1
+249	earth 	Longhua Jiongnai	ta44
+250	earth 	Liuxiang Jiongnai	ta44
+251	earth 	Xiaozhai Younuo	tou33
+252	earth 	Huangluo Younuo	tou33
+253	earth 	Northern Pa-Hng	lei33
+254	earth 	Southern Pa-Hng	lɦe33
+255	earth 	Hm-Nai	l̥ai13
+256	eat 	Western Xiangxi	noŋ2
+257	eat 	Eastern Xiangxi	naŋ31
+258	eat 	Qiandong	noŋ2
+259	eat 	Chuanqiandian	nao2
+260	eat 	Diandongbei	na2
+261	eat 	Hmong Daw	nɔ2
+262	eat 	Hmong Njua	nao5
+263	eat 	Bunu	nɔŋ2
+264	eat 	Baonao	nɒ2
+265	eat 	Numao	nou2
+266	eat 	Longhua Jiongnai	naŋ33
+267	eat 	Liuxiang Jiongnai	naŋ31
+268	eat 	Xiaozhai Younuo	naŋ13
+269	eat 	Huangluo Younuo	naŋ13
+270	eat 	Northern Pa-Hng	naŋ33
+271	eat 	Southern Pa-Hng	nɦɔ33
+272	eat 	Hm-Nai	naŋ33
+273	egg 	Western Xiangxi	nɯ6
+274	egg 	Eastern Xiangxi	qu11
+275	egg 	Qiandong	ki5
+276	egg 	Chuanqiandian	qe5
+277	egg 	Diandongbei	qa5
+278	egg 	Hmong Daw	qe4
+279	egg 	Hmong Njua	qay3
+280	egg 	Bunu	ki̯e5
+281	egg 	Baonao	ɕe5
+282	egg 	Numao	ki̯ey5
+283	egg 	Longhua Jiongnai	ki̯a35
+284	egg 	Liuxiang Jiongnai	ki̯a22
+285	egg 	Xiaozhai Younuo	kou35
+286	egg 	Huangluo Younuo	kou35
+287	egg 	Northern Pa-Hng	qo55
+288	egg 	Southern Pa-Hng	qo55
+289	egg 	Hm-Nai	qo55
+290	fire 	Western Xiangxi	tɤ4
+291	fire 	Eastern Xiangxi	ʎɔ31
+292	fire 	Qiandong	tu4
+293	fire 	Chuanqiandian	deu4
+294	fire 	Diandongbei	toey4
+295	fire 	Hmong Daw	tǝw5
+296	fire 	Hmong Njua	taʉ6
+297	fire 	Bunu	to4
+298	fire 	Baonao	tiu4
+299	fire 	Numao	to4
+300	fire 	Longhua Jiongnai	tau31
+301	fire 	Liuxiang Jiongnai	tɔ53
+302	fire 	Xiaozhai Younuo	to22
+303	fire 	Huangluo Younuo	tou22
+304	fire 	Northern Pa-Hng	tou22
+305	fire 	Southern Pa-Hng	tɦɤ31
+306	fire 	Hm-Nai	tou22
+307	fish 	Western Xiangxi	mɹɯ4
+308	fish 	Eastern Xiangxi	myɯ33
+309	fish 	Qiandong	nəu8
+310	fish 	Chuanqiandian	ɳᶚe4
+311	fish 	Diandongbei	mpə4
+312	fish 	Hmong Daw	nǯe5
+313	fish 	Hmong Njua	ɲ̌ǯe6
+314	fish 	Bunu	mpi̯e4
+315	fish 	Baonao	mpci4
+316	fish 	Numao	mpi̯ey4
+317	fish 	Longhua Jiongnai	mpi̯a31
+318	fish 	Liuxiang Jiongnai	mpi̯a53
+319	fish 	Xiaozhai Younuo	mi̯e22
+320	fish 	Huangluo Younuo	muy22
+321	fish 	Northern Pa-Hng	ni̯o2
+322	fish 	Southern Pa-Hng	mpɦi̯o31
+323	fish 	Hm-Nai	mpi̯o22
+324	foot 	Western Xiangxi	l̥ɔ1
+325	foot 	Eastern Xiangxi	ta33
+326	foot 	Qiandong	lo1
+327	foot 	Chuanqiandian	teu44
+328	foot 	Diandongbei	toey5
+329	foot 	Hmong Daw	tǝw4
+330	foot 	Hmong Njua	taʉ3
+331	foot 	Bunu	lau1
+332	foot 	Baonao	tou5
+333	foot 	Numao	to5
+334	foot 	Longhua Jiongnai	l̥ey44
+335	foot 	Liuxiang Jiongnai	l̥ay44
+336	foot 	Xiaozhai Younuo	tu35
+337	foot 	Huangluo Younuo	tou53
+338	foot 	Northern Pa-Hng	lu35
+339	foot 	Southern Pa-Hng	lʉ35
+340	foot 	Hm-Nai	haŋ35
+341	full 	Western Xiangxi	pe3
+342	full 	Eastern Xiangxi	pe55
+343	full 	Qiandong	pɛ3
+344	full 	Chuanqiandian	po3
+345	full 	Diandongbei	pu3
+346	full 	Hmong Daw	pu3
+347	full 	Hmong Njua	pu2
+348	full 	Bunu	puŋ3
+349	full 	Baonao	lay6
+350	full 	Numao	puŋ3
+351	full 	Longhua Jiongnai	paŋ53
+352	full 	Liuxiang Jiongnai	pã35
+353	full 	Xiaozhai Younuo	puŋ22
+354	full 	Huangluo Younuo	pou22
+355	full 	Northern Pa-Hng	paŋ22
+356	full 	Southern Pa-Hng	pɔ̃31
+357	full 	Hm-Nai	paŋ13
+358	good 	Western Xiangxi	ʐu5
+359	good 	Eastern Xiangxi	ʋ31
+360	good 	Qiandong	ɣu5
+361	good 	Chuanqiandian	ʐoŋ5
+362	good 	Diandongbei	zao5
+363	good 	Hmong Daw	žõ4
+364	good 	Hmong Njua	žoŋ3
+365	good 	Bunu	ɣaŋ5
+366	good 	Baonao	ɣɔŋ5
+367	good 	Numao	ɣou5
+368	good 	Longhua Jiongnai	ŋɔuŋ35
+369	good 	Liuxiang Jiongnai	ŋɔ22
+370	good 	Xiaozhai Younuo	ŋ̩35
+371	good 	Huangluo Younuo	ŋ̩53
+372	good 	Northern Pa-Hng	nɛ44
+373	good 	Southern Pa-Hng	ntɦɛ44
+374	good 	Hm-Nai	yaŋ55
+375	green 	Western Xiangxi	li̯o4
+376	green 	Eastern Xiangxi	ʎɔ35
+377	green 	Qiandong	niu4
+378	green 	Chuanqiandian	nc̢ua1
+379	green 	Diandongbei	nca1
+380	green 	Hmong Daw	nǯu̯ǝ1
+381	green 	Hmong Njua	ɲǯu̯a1
+382	green 	Bunu	mpi̯u2
+383	green 	Baonao	mpcau2
+384	green 	Numao	mpi̯ɤ2
+385	green 	Longhua Jiongnai	mpʰɔ44
+386	green 	Liuxiang Jiongnai	wo21hu43
+387	green 	Xiaozhai Younuo	li̯e31
+388	green 	Huangluo Younuo	li̯u31
+389	green 	Northern Pa-Hng	ni̯o35
+390	green 	Southern Pa-Hng	mpi̯o35
+391	green 	Hm-Nai	mpi̯o35
+392	hand 	Western Xiangxi	tɯ4
+393	hand 	Eastern Xiangxi	dɯ35
+394	hand 	Qiandong	pi4
+395	hand 	Chuanqiandian	dʰe4
+396	hand 	Diandongbei	ti4
+397	hand 	Hmong Daw	te5
+398	hand 	Hmong Njua	te6
+399	hand 	Bunu	pe4
+400	hand 	Baonao	pey4
+401	hand 	Numao	pɑ4
+402	hand 	Longhua Jiongnai	ča31
+403	hand 	Liuxiang Jiongnai	ča53
+404	hand 	Xiaozhai Younuo	tʰou22
+405	hand 	Huangluo Younuo	tʰou22
+406	hand 	Northern Pa-Hng	pʋ22
+407	hand 	Southern Pa-Hng	pɦʉ31
+408	hand 	Hm-Nai	pu22
+409	head 	Western Xiangxi	pɹei3
+410	head 	Eastern Xiangxi	pɹei55
+411	head 	Qiandong	qʰo1
+412	head 	Chuanqiandian	həu5
+413	head 	Diandongbei	fao3
+414	head 	Hmong Daw	hɔw4
+415	head 	Hmong Njua	hau3
+416	head 	Bunu	fa3
+417	head 	Baonao	vɦi̯a3
+418	head 	Numao	kʰɑn1
+419	head 	Longhua Jiongnai	ŋkau53
+420	head 	Liuxiang Jiongnai	ŋkɔ35
+421	head 	Xiaozhai Younuo	kʰɔ53
+422	head 	Huangluo Younuo	kʰɔ53
+423	head 	Northern Pa-Hng	toŋ33
+424	head 	Southern Pa-Hng	ɕʉ55
+425	head 	Hm-Nai	naŋ35
+426	hear 	Western Xiangxi	toŋ5
+427	hear 	Eastern Xiangxi	tʰɤ53
+428	hear 	Qiandong	coŋ1
+429	hear 	Chuanqiandian	noŋ6
+430	hear 	Diandongbei	nao6
+431	hear 	Hmong Daw	n̥ɔ3
+432	hear 	Hmong Njua	nao2
+433	hear 	Bunu	ɕəŋ5
+434	hear 	Baonao	n̥i̯a3
+435	hear 	Numao	n̥ey3
+436	hear 	Longhua Jiongnai	n̥aŋ53
+437	hear 	Liuxiang Jiongnai	n̥aŋ35
+438	hear 	Xiaozhai Younuo	ɲuy35
+439	hear 	Huangluo Younuo	ɲuy53
+440	hear 	Northern Pa-Hng	n̥oŋ22
+441	hear 	Southern Pa-Hng	n̥õ31
+442	hear 	Hm-Nai	ma55
+443	horn	Western Xiangxi	ki̯e1
+444	horn	Eastern Xiangxi	kɯ53
+445	horn	Qiandong	ki1
+446	horn	Chuanqiandian	qǝu7
+447	horn	Diandongbei	ku1
+448	horn	Hmong Daw	ku1
+449	horn	Hmong Njua	ku1
+450	horn	Bunu	ki̯uŋ1
+451	horn	Baonao	ɕɔ1
+452	horn	Numao	kuŋ1
+453	horn	Longhua Jiongnai	ki̯aŋ44
+454	horn	Liuxiang Jiongnai	ki̯ã44
+455	horn	Xiaozhai Younuo	kuŋ33
+456	horn	Huangluo Younuo	ku33
+457	horn	Northern Pa-Hng	qaŋ35
+458	horn	Southern Pa-Hng	qɔ̃35
+459	horn	Hm-Nai	qaŋ35
+460	I 	Western Xiangxi	we4
+461	I 	Eastern Xiangxi	we55
+462	I 	Qiandong	vi4
+463	I 	Chuanqiandian	ko3
+464	I 	Diandongbei	ku3
+465	I 	Hmong Daw	ku3
+466	I 	Hmong Njua	ku2
+467	I 	Bunu	ɕuŋ3
+468	I 	Baonao	kou3
+469	I 	Numao	ɕuŋ3
+470	I 	Longhua Jiongnai	va31
+471	I 	Liuxiang Jiongnai	wa53
+472	I 	Xiaozhai Younuo	vɔ22
+473	I 	Huangluo Younuo	vɔ22
+474	I 	Northern Pa-Hng	vaŋ22
+475	I 	Southern Pa-Hng	vɦ31
+476	I 	Hm-Nai	waŋ22
+477	kill 	Western Xiangxi	ta5 
+478	kill 	Eastern Xiangxi	ta31
+479	kill 	Qiandong	ta5
+480	kill 	Chuanqiandian	tua5
+481	kill 	Diandongbei	ta5
+482	kill 	Hmong Daw	tu̯ǝ4
+483	kill 	Hmong Njua	tu̯a3
+484	kill 	Bunu	tɔ5
+485	kill 	Baonao	tu5
+486	kill 	Numao	puŋ6
+487	kill 	Longhua Jiongnai	ta35
+488	kill 	Liuxiang Jiongnai	ta22
+489	kill 	Xiaozhai Younuo	tɔ35
+490	kill 	Huangluo Younuo	tɔ53
+491	kill 	Northern Pa-Hng	ta55
+492	kill 	Southern Pa-Hng	ta55
+493	kill 	Hm-Nai	ta55
+494	know 	Western Xiangxi	ni̯ɛ̃4
+495	know 	Eastern Xiangxi	pi53
+496	know 	Qiandong	pu1
+497	know 	Chuanqiandian	pəu1
+498	know 	Diandongbei	pao1
+499	know 	Hmong Daw	pɔw1
+500	know 	Hmong Njua	pau1
+501	know 	Bunu	pa1
+502	know 	Baonao	pi̯a1
+503	know 	Numao	pu1
+504	know 	Longhua Jiongnai	pe44
+505	know 	Liuxiang Jiongnai	pey44
+506	know 	Xiaozhai Younuo	pɔ33
+507	know 	Huangluo Younuo	pɔ33
+508	know 	Northern Pa-Hng	pi35
+509	know 	Southern Pa-Hng	pı35
+510	know 	Hm-Nai	pi35
+511	leaf 	Western Xiangxi	nu2
+512	leaf 	Eastern Xiangxi	nu31
+513	leaf 	Qiandong	nǝu2
+514	leaf 	Chuanqiandian	mploŋ2
+515	leaf 	Diandongbei	nƛao2
+516	leaf 	Hmong Daw	mblõ2
+517	leaf 	Hmong Njua	mbloŋ5
+518	leaf 	Bunu	nƛaŋ2
+519	leaf 	Baonao	nƛɔŋ2
+520	leaf 	Numao	ƛi̯ou2
+521	leaf 	Longhua Jiongnai	mplɔŋ33
+522	leaf 	Liuxiang Jiongnai	mplaŋ31
+523	leaf 	Xiaozhai Younuo	mi̯oŋ13
+524	leaf 	Huangluo Younuo	mi̯oŋ13
+525	leaf 	Northern Pa-Hng	ni̯aŋ33
+526	leaf 	Southern Pa-Hng	mpɦi̯o33
+527	leaf 	Hm-Nai	nuŋ33
+528	long 	Western Xiangxi	ntɯ3
+529	long 	Eastern Xiangxi	du55
+530	long 	Qiandong	ta3
+531	long 	Chuanqiandian	nte3
+532	long 	Diandongbei	nti3
+533	long 	Hmong Daw	nte3
+534	long 	Hmong Njua	nde2
+535	long 	Bunu	nte3
+536	long 	Baonao	ntey3
+537	long 	Numao	ntɑ3
+538	long 	Longhua Jiongnai	ða53
+539	long 	Liuxiang Jiongnai	la35
+540	long 	Xiaozhai Younuo	nou22
+541	long 	Huangluo Younuo	nau22
+542	long 	Northern Pa-Hng	to22
+543	long 	Southern Pa-Hng	to31
+544	long 	Hm-Nai	to13
+545	louse 	Western Xiangxi	te3
+546	louse 	Eastern Xiangxi	te55
+547	louse 	Qiandong	ɕhu3
+548	louse 	Chuanqiandian	to3
+549	louse 	Diandongbei	ɳc̢ʰao3
+550	louse 	Hmong Daw	nčʰɔw3
+551	louse 	Hmong Njua	ɲčʰau2
+552	louse 	Bunu	tuŋ3
+553	louse 	Baonao	tɔ3
+554	louse 	Numao	tuŋ3
+555	louse 	Longhua Jiongnai	taŋ53
+556	louse 	Liuxiang Jiongnai	tã35
+557	louse 	Xiaozhai Younuo	tuŋ22
+558	louse 	Huangluo Younuo	tuŋ22
+559	louse 	Northern Pa-Hng	naŋ22
+560	louse 	Southern Pa-Hng	nɔ̃31
+561	louse 	Hm-Nai	ntaŋ13
+562	many 	Western Xiangxi	l̥i̯o1
+563	many 	Eastern Xiangxi	ɕɯ53
+564	many 	Qiandong	no5
+565	many 	Chuanqiandian	ntəu5
+566	many 	Diandongbei	ɕao1
+567	many 	Hmong Daw	ndɔw4
+568	many 	Hmong Njua	ndau3
+569	many 	Bunu	ntau5
+570	many 	Baonao	ntaə5
+571	many 	Numao	ntöy5
+572	many 	Longhua Jiongnai	ntey35
+573	many 	Liuxiang Jiongnai	ntay22
+574	many 	Xiaozhai Younuo	tʰeŋ33
+575	many 	Huangluo Younuo	au53
+576	many 	Northern Pa-Hng	ɕaŋ35
+577	many 	Southern Pa-Hng	ɕɔ̃35
+578	many 	Hm-Nai	ɕuŋ35
+579	meat 	Western Xiangxi	ni̯ä2
+580	meat 	Eastern Xiangxi	ŋa31
+581	meat 	Qiandong	ŋi2
+582	meat 	Chuanqiandian	nqa2
+583	meat 	Diandongbei	qay2
+584	meat 	Hmong Daw	nqay2
+585	meat 	Hmong Njua	ŋɢa5
+586	meat 	Bunu	ŋka2
+587	meat 	Baonao	ŋki̯a2
+588	meat 	Numao	ŋkɑ2
+589	meat 	Longhua Jiongnai	ŋkay33
+590	meat 	Liuxiang Jiongnai	ŋkɛ31
+591	meat 	Xiaozhai Younuo	pe33
+592	meat 	Huangluo Younuo	pe33
+593	meat 	Northern Pa-Hng	ŋɛ33
+594	meat 	Southern Pa-Hng	ɴqɦɛ33
+595	meat 	Hm-Nai	ɴqai33
+596	moon 	Western Xiangxi	l̥a4
+597	moon 	Eastern Xiangxi	ɭ̥ʰa31
+598	moon 	Qiandong	l̥ʰa5
+599	moon 	Chuanqiandian	ɬi5
+600	moon 	Diandongbei	l̥i7
+601	moon 	Hmong Daw	l̥i4
+602	moon 	Hmong Njua	ɬi3
+603	moon 	Bunu	ɬo5
+604	moon 	Baonao	lʰou5
+605	moon 	Numao	l̥o5
+606	moon 	Longhua Jiongnai	l̥e35 
+607	moon 	Liuxiang Jiongnai	l̥ei22
+608	moon 	Xiaozhai Younuo	la35
+609	moon 	Huangluo Younuo	la53
+610	moon 	Northern Pa-Hng	l̥a55qa22
+611	moon 	Southern Pa-Hng	l̥a55
+612	moon 	Hm-Nai	l̥a55
+613	mouth 	Western Xiangxi	lo5
+614	mouth 	Eastern Xiangxi	pa35
+615	mouth 	Qiandong	lo5
+616	mouth 	Chuanqiandian	nɕəu2
+617	mouth 	Diandongbei	ɕao2
+618	mouth 	Hmong Daw	ɲʓɔw2
+619	mouth 	Hmong Njua	ɲʓau5
+620	mouth 	Bunu	nɕu2
+621	mouth 	Baonao	ɲɕau2
+622	mouth 	Numao	lɑu5
+623	mouth 	Longhua Jiongnai	nti̯ɔ33
+624	mouth 	Liuxiang Jiongnai	nti̯eu31
+625	mouth 	Xiaozhai Younuo	li̯o33
+626	mouth 	Huangluo Younuo	li̯o33
+627	mouth 	Northern Pa-Hng	la55
+628	mouth 	Southern Pa-Hng	la55
+629	mouth 	Hm-Nai	la55
+630	name 	Western Xiangxi	mpu5
+631	name 	Eastern Xiangxi	bu31
+632	name 	Qiandong	pi5
+633	name 	Chuanqiandian	mpe5
+634	name 	Diandongbei	nci5
+635	name 	Hmong Daw	mbe4
+636	name 	Hmong Njua	mbe3
+637	name 	Bunu	mpe5
+638	name 	Baonao	mpey5
+639	name 	Numao	mpɑ5
+640	name 	Longhua Jiongnai	mpa35
+641	name 	Liuxiang Jiongnai	mpa22
+642	name 	Xiaozhai Younuo	mu53
+643	name 	Huangluo Younuo	mu53
+644	name 	Northern Pa-Hng	mu55
+645	name 	Southern Pa-Hng	mpo55
+646	name 	Hm-Nai	mi̯aŋ33
+647	new 	Western Xiangxi	 ʆɛ̃1
+648	new 	Eastern Xiangxi	se53
+649	new 	Qiandong	xhi1
+650	new 	Chuanqiandian	c̢ʰa1
+651	new 	Diandongbei	c̢ʰie1
+652	new 	Hmong Daw	čʰi̯a1
+653	new 	Hmong Njua	čʰa1
+654	new 	Bunu	sʰiŋ1
+655	new 	Baonao	sʰay1
+656	new 	Numao	ʆi1
+657	new 	Longhua Jiongnai	ŋkʰeŋ44
+658	new 	Liuxiang Jiongnai	heŋ44
+659	new 	Xiaozhai Younuo	sən33
+660	new 	Huangluo Younuo	l̥ǝn53
+661	new 	Northern Pa-Hng	mu55
+662	new 	Southern Pa-Hng	sẽ35
+663	new 	Hm-Nai	ʆiŋ35
+664	nose 	Western Xiangxi	mɹɤ6
+665	nose 	Eastern Xiangxi	mi̯a11
+666	nose 	Qiandong	nɛ6
+667	nose 	Chuanqiandian	ɳᶚu6
+668	nose 	Diandongbei	mpü6
+669	nose 	Hmong Daw	nǯɨ6
+670	nose 	Hmong Njua	ɲǯʉ6
+671	nose 	Bunu	mpi̯au6
+672	nose 	Baonao	mpcǝ6
+673	nose 	Numao	mpü6
+674	nose 	Longhua Jiongnai	mpi̯au22
+675	nose 	Liuxiang Jiongnai	mpi̯ɔ21
+676	nose 	Xiaozhai Younuo	muy31
+677	nose 	Huangluo Younuo	muy22
+678	nose 	Northern Pa-Hng	ni̯ɔ44
+679	nose 	Southern Pa-Hng	mpɦi̯ɔ44
+680	nose 	Hm-Nai	mpi̯au31
+681	not 	Western Xiangxi	ɕe2
+682	not 	Eastern Xiangxi	a35
+683	not 	Qiandong	a2
+684	not 	Chuanqiandian	c̢i5
+685	not 	Diandongbei	hi5
+686	not 	Hmong Daw	či5
+687	not 	Hmong Njua	čɨ3
+688	not 	Bunu	ma2
+689	not 	Baonao	maə2
+690	not 	Numao	moŋ2
+691	not 	Longhua Jiongnai	ŋ̩53
+692	not 	Liuxiang Jiongnai	m̩35
+693	not 	Xiaozhai Younuo	mɔ22
+694	not 	Huangluo Younuo	mɔ22
+695	not 	Northern Pa-Hng	ŋ̩35
+696	not 	Southern Pa-Hng	ŋ̩ɦ33
+697	not 	Hm-Nai	a53
+698	one 	Western Xiangxi	a3
+699	one 	Eastern Xiangxi	a55
+700	one 	Qiandong	i1
+701	one 	Chuanqiandian	ʔi1
+702	one 	Diandongbei	i1
+703	one 	Hmong Daw	i1
+704	one 	Hmong Njua	ʔi1
+705	one 	Bunu	i1
+706	one 	Baonao	i1
+707	one 	Numao	ɕü1
+708	one 	Longhua Jiongnai	i53
+709	one 	Liuxiang Jiongnai	i35
+710	one 	Xiaozhai Younuo	ʑe22
+711	one 	Huangluo Younuo	ʑe22
+712	one 	Northern Pa-Hng	yi22
+713	one 	Southern Pa-Hng	yɦʉ31
+714	one 	Hm-Nai	i13
+715	person 	Western Xiangxi	ne2
+716	person 	Eastern Xiangxi	ne31
+717	person 	Qiandong	nɛ2
+718	person 	Chuanqiandian	nen1
+719	person 	Diandongbei	nɯ1
+720	person 	Hmong Daw	nɤ̃6
+721	person 	Hmong Njua	neŋ5
+722	person 	Bunu	no2
+723	person 	Baonao	nou2
+724	person 	Numao	nu2
+725	person 	Longhua Jiongnai	nay33
+726	person 	Liuxiang Jiongnai	nɛ31
+727	person 	Xiaozhai Younuo	nɔ13
+728	person 	Huangluo Younuo	nɔ13
+729	person 	Northern Pa-Hng	ni̯ɛ33
+730	person 	Southern Pa-Hng	mɦi̯ɛ33
+731	person 	Hm-Nai	nai33
+732	rain 	Western Xiangxi	noŋ6
+733	rain 	Eastern Xiangxi	naŋ35
+734	rain 	Qiandong	noŋ6
+735	rain 	Chuanqiandian	naŋ6
+736	rain 	Diandongbei	naɯ6
+737	rain 	Hmong Daw	na6
+738	rain 	Hmong Njua	naŋ6
+739	rain 	Bunu	nɔŋ6
+740	rain 	Baonao	nɒ6
+741	rain 	Numao	noŋ6
+742	rain 	Longhua Jiongnai	naŋ22
+743	rain 	Liuxiang Jiongnai	naŋ21
+744	rain 	Xiaozhai Younuo	ŋa31
+745	rain 	Huangluo Younuo	ŋa22
+746	rain 	Northern Pa-Hng	moŋ44
+747	rain 	Southern Pa-Hng	mõ44
+748	rain 	Hm-Nai	nuŋ31
+749	red 	Western Xiangxi	ɲɕʰin5
+750	red 	Eastern Xiangxi	cʰe31
+751	red 	Qiandong	ʃo7
+752	red 	Chuanqiandian	la1
+753	red 	Diandongbei	lie1
+754	red 	Hmong Daw	li̯a1
+755	red 	Hmong Njua	la1
+756	red 	Bunu	ləŋ1
+757	red 	Baonao	lɒ1
+758	red 	Numao	lɑn1
+759	red 	Longhua Jiongnai	θi35
+760	red 	Liuxiang Jiongnai	θi22
+761	red 	Xiaozhai Younuo	cʰun35
+762	red 	Huangluo Younuo	cʰun53
+763	red 	Northern Pa-Hng	tai44
+764	red 	Southern Pa-Hng	tɦɤ44
+765	red 	Hm-Nai	tai31
+766	road 	Western Xiangxi	kɯ3
+767	road 	Eastern Xiangxi	kʋ55
+768	road 	Qiandong	ki3
+769	road 	Chuanqiandian	ke3
+770	road 	Diandongbei	ɕi3
+771	road 	Hmong Daw	ke3
+772	road 	Hmong Njua	ke2
+773	road 	Bunu	ki̯e3
+774	road 	Baonao	ɕe3
+775	road 	Numao	ki̯ey3
+776	road 	Longhua Jiongnai	ki̯a53
+777	road 	Liuxiang Jiongnai	ki̯a35
+778	road 	Xiaozhai Younuo	kou22
+779	road 	Huangluo Younuo	kou22
+780	road 	Northern Pa-Hng	qo22
+781	road 	Southern Pa-Hng	qo31
+782	road 	Hm-Nai	qo13
+783	root 	Western Xiangxi	ɕoŋ2
+784	root 	Eastern Xiangxi	gɯ33
+785	root 	Qiandong	ɕoŋ2
+786	root 	Chuanqiandian	ɕaŋ2
+787	root 	Diandongbei	ɕaɯ1
+788	root 	Hmong Daw	ɕa6
+789	root 	Hmong Njua	ɕaŋ6
+790	root 	Bunu	ɕɔŋ2
+791	root 	Baonao	ɕo2
+792	root 	Numao	ɕoŋ2
+793	root 	Longhua Jiongnai	ka44
+794	root 	Liuxiang Jiongnai	čaŋ31
+795	root 	Xiaozhai Younuo	ti̯aŋ13
+796	root 	Huangluo Younuo	ti̯aŋ13
+797	root 	Northern Pa-Hng	ti̯a35
+798	root 	Southern Pa-Hng	pi̯a35
+799	root 	Hm-Nai	ca35
+800	see 	Western Xiangxi	qɛ̃6
+801	see 	Eastern Xiangxi	ʆaŋ31
+802	see 	Qiandong	poŋ8
+803	see 	Chuanqiandian	po8
+804	see 	Diandongbei	po8
+805	see 	Hmong Daw	pɔ7
+806	see 	Hmong Njua	pu7
+807	see 	Bunu	pɔ8
+808	see 	Baonao	puɔ8
+809	see 	Numao	pəu8
+810	see 	Longhua Jiongnai	pu32
+811	see 	Liuxiang Jiongnai	pu32
+812	see 	Xiaozhai Younuo	cʰu22
+813	see 	Huangluo Younuo	cʰo22
+814	see 	Northern Pa-Hng	pa31
+815	see 	Southern Pa-Hng	pɦa31
+816	see 	Hm-Nai	pʰa31
+817	seed 	Western Xiangxi	ɳu1
+818	seed 	Eastern Xiangxi	ɲɯ53
+819	seed 	Qiandong	n̥ʰiu1
+820	seed 	Chuanqiandian	noŋ1
+821	seed 	Diandongbei	c̢aɯ3
+822	seed 	Hmong Daw	nõ1
+823	seed 	Hmong Njua	noŋ1
+824	seed 	Bunu	n̥aŋ1
+825	seed 	Baonao	ɲ̥uɔ1
+826	seed 	Numao	ɲ̥ɑu1
+827	seed 	Longhua Jiongnai	nɔuŋ44
+828	seed 	Liuxiang Jiongnai	nɔ44
+829	seed 	Xiaozhai Younuo	pən35
+830	seed 	Huangluo Younuo	pən13
+831	seed 	Northern Pa-Hng	ɲoŋ35
+832	seed 	Southern Pa-Hng	ɲõ35
+833	seed 	Hm-Nai	ɲuŋ35
+834	sit 	Western Xiangxi	ɕoŋ5
+835	sit 	Eastern Xiangxi	tʰɛ55
+836	sit 	Qiandong	niaŋ1
+837	sit 	Chuanqiandian	ɲao1
+838	sit 	Diandongbei	nio1
+839	sit 	Hmong Daw	žɔw7
+840	sit 	Hmong Njua	ɲao3
+841	sit 	Bunu	ɲi1
+842	sit 	Baonao	ɲa1
+843	sit 	Numao	ɲe1
+844	sit 	Longhua Jiongnai	ɲaŋ44
+845	sit 	Liuxiang Jiongnai	ɲaŋ44
+846	sit 	Xiaozhai Younuo	ti̯aŋ35
+847	sit 	Huangluo Younuo	ti̯aŋ53
+848	sit 	Northern Pa-Hng	ɲoŋ35
+849	sit 	Southern Pa-Hng	ɲõ35
+850	sit 	Hm-Nai	ɲɕo31
+851	skin 	Western Xiangxi	ki̯ɔ5
+852	skin 	Eastern Xiangxi	ɕɔ31
+853	skin 	Qiandong	tu3
+854	skin 	Chuanqiandian	teu5
+855	skin 	Diandongbei	toey3
+856	skin 	Hmong Daw	təw3
+857	skin 	Hmong Njua	taʉ2
+858	skin 	Bunu	ƛau5
+859	skin 	Baonao	ƛaǝ5
+860	skin 	Numao	ƛü5
+861	skin 	Longhua Jiongnai	ki̯eu35
+862	skin 	Liuxiang Jiongnai	ki̯eu22
+863	skin 	Xiaozhai Younuo	ku35
+864	skin 	Huangluo Younuo	ku53
+865	skin 	Northern Pa-Hng	li̯u55
+866	skin 	Southern Pa-Hng	li̯ʉ55
+867	skin 	Hm-Nai	qʰau35
+868	sleep 	Western Xiangxi	pɤ5
+869	sleep 	Eastern Xiangxi	pa31
+870	sleep 	Qiandong	pi5
+871	sleep 	Chuanqiandian	pu5
+872	sleep 	Diandongbei	pu5
+873	sleep 	Hmong Daw	ndu1
+874	sleep 	Hmong Njua	pʉ3
+875	sleep 	Bunu	pau5
+876	sleep 	Baonao	paə5
+877	sleep 	Numao	puey5
+878	sleep 	Longhua Jiongnai	pau35
+879	sleep 	Liuxiang Jiongnai	pɔ22
+880	sleep 	Xiaozhai Younuo	puy35
+881	sleep 	Huangluo Younuo	puy53
+882	sleep 	Northern Pa-Hng	vaŋ35
+883	sleep 	Southern Pa-Hng	pɤ55
+884	sleep 	Hm-Nai	pei55
+885	stone 	Western Xiangxi	ʐɯ1
+886	stone 	Eastern Xiangxi	qu53
+887	stone 	Qiandong	ɣi1
+888	stone 	Chuanqiandian	ʐe1
+889	stone 	Diandongbei	vǝ1
+890	stone 	Hmong Daw	že1
+891	stone 	Hmong Njua	že1
+892	stone 	Bunu	ɣe1
+893	stone 	Baonao	ɣey1
+894	stone 	Numao	ɣey1
+895	stone 	Longhua Jiongnai	ŋki̯a44
+896	stone 	Liuxiang Jiongnai	ʑa44
+897	stone 	Xiaozhai Younuo	vi̯e33
+898	stone 	Huangluo Younuo	vey33
+899	stone 	Northern Pa-Hng	yo35
+900	stone 	Southern Pa-Hng	yo35
+901	stone 	Hm-Nai	yo35
+902	sun 	Western Xiangxi	n̥e1
+903	sun 	Eastern Xiangxi	n̥ʰe53
+904	sun 	Qiandong	n̥ʰɛ1
+905	sun 	Chuanqiandian	n̥o1
+906	sun 	Diandongbei	n̥u1
+907	sun 	Hmong Daw	n̥u1
+908	sun 	Hmong Njua	nu1
+909	sun 	Bunu	n̥ɔŋ1
+910	sun 	Baonao	n̥ɒ1
+911	sun 	Numao	ŋkau1
+912	sun 	Longhua Jiongnai	ntoŋ22
+913	sun 	Liuxiang Jiongnai	ntoŋ21
+914	sun 	Xiaozhai Younuo	nɔ33
+915	sun 	Huangluo Younuo	nɔ33
+916	sun 	Northern Pa-Hng	n̥ei35
+917	sun 	Southern Pa-Hng	n̥ei35
+918	sun 	Hm-Nai	n̥e35
+919	tail 	Western Xiangxi	tɤ3
+920	tail 	Eastern Xiangxi	ta33
+921	tail 	Qiandong	tɛ3
+922	tail 	Chuanqiandian	du3
+923	tail 	Diandongbei	caɯ4
+924	tail 	Hmong Daw	tɨ4
+925	tail 	Hmong Njua	tʉ2
+926	tail 	Bunu	tau3
+927	tail 	Baonao	cǝ3
+928	tail 	Numao	töy3
+929	tail 	Longhua Jiongnai	ðau53
+930	tail 	Liuxiang Jiongnai	lɔ35
+931	tail 	Xiaozhai Younuo	te22
+932	tail 	Huangluo Younuo	te22
+933	tail 	Northern Pa-Hng	tai22
+934	tail 	Southern Pa-Hng	tɤ31
+935	tail 	Hm-Nai	tei13
+936	that1	Western Xiangxi	ä3
+937	that1	Eastern Xiangxi	ɛ55
+938	that1	Qiandong	i3
+939	that1	Chuanqiandian	ʔi3
+940	that1	Diandongbei	tʰao5
+941	that1	Hmong Daw	ndəw8
+942	that1	Hmong Njua	ndaʉ7
+943	that1	Bunu	uŋ1
+944	that1	Baonao	ɔ1
+945	that1	Numao	yi4
+946	that1	Longhua Jiongnai	mi44
+947	that1	Liuxiang Jiongnai	mi44
+948	that1	Xiaozhai Younuo	ni31
+949	that1	Huangluo Younuo	ni22
+950	that1	Northern Pa-Hng	ŋ̩55
+951	that1	Southern Pa-Hng	ŋ̩55
+952	that1	Hm-Nai	wo55
+953	this 	Western Xiangxi	nen3
+954	this 	Eastern Xiangxi	ne55
+955	this 	Qiandong	noŋ3
+956	this 	Chuanqiandian	na3
+957	this 	Diandongbei	ni3
+958	this 	Hmong Daw	nɔ4
+959	this 	Hmong Njua	nu̯a2
+960	this 	Bunu	nɔŋ3
+961	this 	Baonao	naə3
+962	this 	Numao	ney3
+963	this 	Longhua Jiongnai	ne53
+964	this 	Liuxiang Jiongnai	ni35
+965	this 	Xiaozhai Younuo	no22
+966	this 	Huangluo Younuo	no22
+967	this 	Northern Pa-Hng	ŋ̩22
+968	this 	Southern Pa-Hng	ŋ̩31
+969	this 	Hm-Nai	ne13
+970	thou 	Western Xiangxi	mɯ2
+971	thou 	Eastern Xiangxi	mu31
+972	thou 	Qiandong	moŋ2
+973	thou 	Chuanqiandian	ne2
+974	thou 	Diandongbei	ɕü6
+975	thou 	Hmong Daw	kɔ2
+976	thou 	Hmong Njua	kao5
+977	thou 	Bunu	kau2
+978	thou 	Baonao	kə2
+979	thou 	Numao	köy2
+980	thou 	Longhua Jiongnai	maŋ33
+981	thou 	Liuxiang Jiongnai	məŋ31
+982	thou 	Xiaozhai Younuo	ŋ̩13
+983	thou 	Huangluo Younuo	ŋ̩13
+984	thou 	Northern Pa-Hng	mu33
+985	thou 	Southern Pa-Hng	mɦʉ33
+986	thou 	Hm-Nai	m̩31
+987	tongue 	Western Xiangxi	mi̯a4
+988	tongue 	Eastern Xiangxi	mi̯a35
+989	tongue 	Qiandong	ni8
+990	tongue 	Chuanqiandian	bla6
+991	tongue 	Diandongbei	nƛay4
+992	tongue 	Hmong Daw	mblay6
+993	tongue 	Hmong Njua	mblay6
+994	tongue 	Bunu	nƛa8
+995	tongue 	Baonao	nƛi̯a8
+996	tongue 	Numao	nƛi̯ey8
+997	tongue 	Longhua Jiongnai	mpli32
+998	tongue 	Liuxiang Jiongnai	mpli32
+999	tongue 	Xiaozhai Younuo	mi31
+1000	tongue 	Huangluo Younuo	mi31
+1001	tongue 	Northern Pa-Hng	ni̯ei31
+1002	tongue 	Southern Pa-Hng	mpɦı31
+1003	tongue 	Hm-Nai	ntʰei31
+1004	tooth 	Western Xiangxi	ʆɛ̃3
+1005	tooth 	Eastern Xiangxi	sɛ55
+1006	tooth 	Qiandong	m̥ʰi3
+1007	tooth 	Chuanqiandian	na3
+1008	tooth 	Diandongbei	n̥ie3
+1009	tooth 	Hmong Daw	n̥i̯a3
+1010	tooth 	Hmong Njua	na2
+1011	tooth 	Bunu	m̥iŋ3
+1012	tooth 	Baonao	m̥ay3
+1013	tooth 	Numao	m̥ɑy3
+1014	tooth 	Longhua Jiongnai	m̥ay53
+1015	tooth 	Liuxiang Jiongnai	m̥ɛ35
+1016	tooth 	Xiaozhai Younuo	fun22
+1017	tooth 	Huangluo Younuo	fun22
+1018	tooth 	Northern Pa-Hng	ɲ̥i22
+1019	tooth 	Southern Pa-Hng	m̥ı31
+1020	tooth 	Hm-Nai	m̥iŋ13
+1021	tree 	Western Xiangxi	ntu5
+1022	tree 	Eastern Xiangxi	dɔ31
+1023	tree 	Qiandong	təu5
+1024	tree 	Chuanqiandian	ntoŋ5
+1025	tree 	Diandongbei	ntao5
+1026	tree 	Hmong Daw	ndõ4
+1027	tree 	Hmong Njua	ndoŋ3
+1028	tree 	Bunu	ntaŋ5
+1029	tree 	Baonao	ntɔŋ5
+1030	tree 	Numao	ntou5
+1031	tree 	Longhua Jiongnai	ntɔuŋ35
+1032	tree 	Liuxiang Jiongnai	ntaŋ22
+1033	tree 	Xiaozhai Younuo	fɔ33
+1034	tree 	Huangluo Younuo	fɔ33
+1035	tree 	Northern Pa-Hng	ti̯a35
+1036	tree 	Southern Pa-Hng	pi̯a35
+1037	tree 	Hm-Nai	ca35
+1038	two 	Western Xiangxi	ɯ1
+1039	two 	Eastern Xiangxi	ʋ53
+1040	two 	Qiandong	o1
+1041	two 	Chuanqiandian	ʔao1
+1042	two 	Diandongbei	a1
+1043	two 	Hmong Daw	o1
+1044	two 	Hmong Njua	ʔao1
+1045	two 	Bunu	au1
+1046	two 	Baonao	uɔ1
+1047	two 	Numao	öy1
+1048	two 	Longhua Jiongnai	u44
+1049	two 	Liuxiang Jiongnai	u44
+1050	two 	Xiaozhai Younuo	u33
+1051	two 	Huangluo Younuo	u33
+1052	two 	Northern Pa-Hng	va35
+1053	two 	Southern Pa-Hng	va35
+1054	two 	Hm-Nai	wa53
+1055	walk (go) 	Western Xiangxi	moŋ4
+1056	walk (go) 	Eastern Xiangxi	maŋ33
+1057	walk (go) 	Qiandong	moŋ4
+1058	walk (go) 	Chuanqiandian	moŋ4
+1059	walk (go) 	Diandongbei	mao4
+1060	walk (go) 	Hmong Daw	mu5
+1061	walk (go) 	Hmong Njua	moŋ6
+1062	walk (go) 	Bunu	muŋ4
+1063	walk (go) 	Baonao	mu4
+1064	walk (go) 	Numao	muŋ4
+1065	walk (go) 	Longhua Jiongnai	ŋ̥ŋ31
+1066	walk (go) 	Liuxiang Jiongnai	ŋ̥ŋ53
+1067	walk (go) 	Xiaozhai Younuo	ŋ̩22
+1068	walk (go) 	Huangluo Younuo	ŋ̩22
+1069	walk (go) 	Northern Pa-Hng	ɲi33
+1070	walk (go) 	Southern Pa-Hng	ɲɦı33
+1071	walk (go) 	Hm-Nai	m̩33
+1072	water 	Western Xiangxi	u1
+1073	water 	Eastern Xiangxi	ʋ53
+1074	water 	Qiandong	əu1
+1075	water 	Chuanqiandian	tle2
+1076	water 	Diandongbei	ao1
+1077	water 	Hmong Daw	ʼde2
+1078	water 	Hmong Njua	ƛe5
+1079	water 	Bunu	aŋ1
+1080	water 	Baonao	ɔŋ1
+1081	water 	Numao	ou1
+1082	water 	Longhua Jiongnai	ɔuŋ44
+1083	water 	Liuxiang Jiongnai	aŋ44
+1084	water 	Xiaozhai Younuo	ŋ̩33
+1085	water 	Huangluo Younuo	ŋ̩33
+1086	water 	Northern Pa-Hng	aŋ35
+1087	water 	Southern Pa-Hng	ɔ̃35
+1088	water 	Hm-Nai	aŋ35
+1089	we 	Western Xiangxi	pɯ1
+1090	we 	Eastern Xiangxi	pʋ53
+1091	we 	Qiandong	pi1
+1092	we 	Chuanqiandian	pe1
+1093	we 	Diandongbei	pi1
+1094	we 	Hmong Daw	pe1
+1095	we 	Hmong Njua	pe1
+1096	we 	Bunu	pe1
+1097	we 	Baonao	pey1
+1098	we 	Numao	pɑ1
+1099	we 	Longhua Jiongnai	pa44
+1100	we 	Liuxiang Jiongnai	pa44
+1101	we 	Xiaozhai Younuo	pou33
+1102	we 	Huangluo Younuo	pou33
+1103	we 	Northern Pa-Hng	pu35
+1104	we 	Southern Pa-Hng	pʉ35
+1105	we 	Hm-Nai	waŋ22
+1106	white 	Western Xiangxi	qu̯ɤ1
+1107	white 	Eastern Xiangxi	qwa53
+1108	white 	Qiandong	ɬu1
+1109	white 	Chuanqiandian	tleu1
+1110	white 	Diandongbei	ƛoey1
+1111	white 	Hmong Daw	ʼdəw1
+1112	white 	Hmong Njua	ƛaʉ1
+1113	white 	Bunu	ƛo1
+1114	white 	Baonao	ƛou1
+1115	white 	Numao	ƛi̯o1
+1116	white 	Longhua Jiongnai	klau44
+1117	white 	Liuxiang Jiongnai	klɔ44
+1118	white 	Xiaozhai Younuo	ki̯e33
+1119	white 	Huangluo Younuo	ki̯u33
+1120	white 	Northern Pa-Hng	kɔ35
+1121	white 	Southern Pa-Hng	kwɔ35
+1122	white 	Hm-Nai	kwau35
+1123	who 	Western Xiangxi	le1
+1124	who 	Eastern Xiangxi	pɛ55
+1125	who 	Qiandong	ʃi3
+1126	who 	Chuanqiandian	ʔi5
+1127	who 	Diandongbei	tɨ4
+1128	who 	Hmong Daw	tɨ6
+1129	who 	Hmong Njua	tʉ6
+1130	who 	Bunu	tau6
+1131	who 	Baonao	sey6
+1132	who 	Numao	yi3
+1133	who 	Longhua Jiongnai	n̥a53
+1134	who 	Liuxiang Jiongnai	n̥a35 
+1135	who 	Xiaozhai Younuo	a53-nɔ13
+1136	who 	Huangluo Younuo	kə33-lou13
+1137	who 	Northern Pa-Hng	ti31-lɛ33
+1138	who 	Southern Pa-Hng	ti44-lɦɛ̃33
+1139	who 	Hm-Nai	ti35-nai33
+1140	woman 	Western Xiangxi	mpʰa3
+1141	woman 	Eastern Xiangxi	pʰa35
+1142	woman 	Qiandong	a3
+1143	woman 	Chuanqiandian	po2
+1144	woman 	Diandongbei	po2
+1145	woman 	Hmong Daw	pɔ2
+1146	woman 	Hmong Njua	pu5
+1147	woman 	Bunu	po3
+1148	woman 	Baonao	ɕey1
+1149	woman 	Numao	nu2
+1150	woman 	Longhua Jiongnai	vɔ43
+1151	woman 	Liuxiang Jiongnai	wɔ43
+1152	woman 	Xiaozhai Younuo	tuŋ33
+1153	woman 	Huangluo Younuo	tou33
+1154	woman 	Northern Pa-Hng	tʰei53
+1155	woman 	Southern Pa-Hng	mɛ̃53
+1156	woman 	Hm-Nai	pʰi̯ei53
+1157	yellow 	Western Xiangxi	qu̯en2
+1158	yellow 	Eastern Xiangxi	gwɛ31
+1159	yellow 	Qiandong	faŋ2
+1160	yellow 	Chuanqiandian	tlaŋ2
+1161	yellow 	Diandongbei	vaɯ2
+1162	yellow 	Hmong Daw	ʼda2
+1163	yellow 	Hmong Njua	ƛaŋ5
+1164	yellow 	Bunu	kwen2
+1165	yellow 	Baonao	kwa2
+1166	yellow 	Numao	kuɑn2
+1167	yellow 	Longhua Jiongnai	kwen33
+1168	yellow 	Liuxiang Jiongnai	kwan31
+1169	yellow 	Xiaozhai Younuo	kwən13
+1170	yellow 	Huangluo Younuo	kwən13
+1171	yellow 	Northern Pa-Hng	kwei33
+1172	yellow 	Southern Pa-Hng	kɦwɤ33
+1173	yellow 	Hm-Nai	kwei33
+1174	far 	Western Xiangxi	qɯ1
+1175	far 	Eastern Xiangxi	qu53
+1176	far 	Qiandong	to4
+1177	far 	Chuanqiandian	tle1
+1178	far 	Diandongbei	ƛi1
+1179	far 	Hmong Daw	ʼde1
+1180	far 	Hmong Njua	ƛe1
+1181	far 	Bunu	kwe1
+1182	far 	Baonao	kwey1
+1183	far 	Numao	kuɑ1
+1184	far 	Longhua Jiongnai	kwa44
+1185	far 	Liuxiang Jiongnai	kwa44
+1186	far 	Xiaozhai Younuo	ki̯e33
+1187	far 	Huangluo Younuo	ki̯u33
+1188	far 	Northern Pa-Hng	ko35
+1189	far 	Southern Pa-Hng	ko35
+1190	far 	Hm-Nai	ko35
+1191	heavy 	Western Xiangxi	xen3
+1192	heavy 	Eastern Xiangxi	ɲ̥ʰe55
+1193	heavy 	Qiandong	n̥ʰioŋ3
+1194	heavy 	Chuanqiandian	ɲaŋ3
+1195	heavy 	Diandongbei	n̥iaɯ3
+1196	heavy 	Hmong Daw	ɲ̥a3
+1197	heavy 	Hmong Njua	ɲaŋ2
+1198	heavy 	Bunu	ɲ̥ɔŋ3 
+1199	heavy 	Baonao	ɲ̥ɒ5
+1200	heavy 	Numao	ɣɤ1
+1201	heavy 	Longhua Jiongnai	ɲ̥e53
+1202	heavy 	Liuxiang Jiongnai	ɲ̥i35
+1203	heavy 	Xiaozhai Younuo	suŋ22
+1204	heavy 	Huangluo Younuo	sou22
+1205	heavy 	Northern Pa-Hng	ɲ̥a22
+1206	heavy 	Southern Pa-Hng	ɲ̥a31
+1207	heavy 	Hm-Nai	n̥a13
+1208	near 	Western Xiangxi	ʐɯ5
+1209	near 	Eastern Xiangxi	yu31
+1210	near 	Qiandong	ɣi5
+1211	near 	Chuanqiandian	ʐe4
+1212	near 	Diandongbei	və5
+1213	near 	Hmong Daw	že4
+1214	near 	Hmong Njua	že3
+1215	near 	Bunu	ɣe5
+1216	near 	Baonao	ɣey5
+1217	near 	Numao	ɣey5
+1218	near 	Longhua Jiongnai	ŋki̯a35
+1219	near 	Liuxiang Jiongnai	ʑa22
+1220	near 	Xiaozhai Younuo	vi̯e35
+1221	near 	Huangluo Younuo	vay53
+1222	near 	Northern Pa-Hng	yo55
+1223	near 	Southern Pa-Hng	yo55
+1224	near 	Hm-Nai	yo55
+1225	salt 	Western Xiangxi	ɲɕɯ3
+1226	salt 	Eastern Xiangxi	ʒʋ55
+1227	salt 	Qiandong	ʃi3
+1228	salt 	Chuanqiandian	ɳc̢e3
+1229	salt 	Diandongbei	ɳc̢ə3
+1230	salt 	Hmong Daw	nǯe3
+1231	salt 	Hmong Njua	ɲǯe2
+1232	salt 	Bunu	nce3
+1233	salt 	Baonao	ncey3
+1234	salt 	Numao	nci̯ey3
+1235	salt 	Longhua Jiongnai	nča53
+1236	salt 	Liuxiang Jiongnai	ntθa35
+1237	salt 	Xiaozhai Younuo	ʑau22
+1238	salt 	Huangluo Younuo	ʑau22
+1239	salt 	Northern Pa-Hng	ɲo22
+1240	salt 	Southern Pa-Hng	ɲɕo31
+1241	salt 	Hm-Nai	ɲɕo13
+1242	short 	Western Xiangxi	le3
+1243	short 	Eastern Xiangxi	li55
+1244	short 	Qiandong	lɛ3
+1245	short 	Chuanqiandian	lo5
+1246	short 	Diandongbei	lu8
+1247	short 	Hmong Daw	lu3
+1248	short 	Hmong Njua	lu3
+1249	short 	Bunu	luŋ3
+1250	short 	Baonao	lɔ3
+1251	short 	Numao	luŋ3
+1252	short 	Longhua Jiongnai	laŋ53
+1253	short 	Liuxiang Jiongnai	lã35
+1254	short 	Xiaozhai Younuo	luŋ22
+1255	short 	Huangluo Younuo	lou22
+1256	short 	Northern Pa-Hng	laŋ22
+1257	short 	Southern Pa-Hng	lɔ̃31
+1258	short 	Hm-Nai	laŋ13
+1259	snake 	Western Xiangxi	nen1
+1260	snake 	Eastern Xiangxi	nɛ53
+1261	snake 	Qiandong	naŋ1
+1262	snake 	Chuanqiandian	naŋ1
+1263	snake 	Diandongbei	naɯ1
+1264	snake 	Hmong Daw	na1
+1265	snake 	Hmong Njua	naŋ1
+1266	snake 	Bunu	nəŋ1
+1267	snake 	Baonao	nɒ1
+1268	snake 	Numao	nɑn1
+1269	snake 	Longhua Jiongnai	nen44
+1270	snake 	Liuxiang Jiongnai	nan44
+1271	snake 	Xiaozhai Younuo	ni33
+1272	snake 	Huangluo Younuo	ni33
+1273	snake 	Northern Pa-Hng	neŋ35
+1274	snake 	Southern Pa-Hng	nẽ35
+1275	snake 	Hm-Nai	nɯŋ35
+1276	wind 	Western Xiangxi	ki5
+1277	wind 	Eastern Xiangxi	ɕi31
+1278	wind 	Qiandong	ɕen5
+1279	wind 	Chuanqiandian	ɕua5
+1280	wind 	Diandongbei	ɕa5
+1281	wind 	Hmong Daw	ɕu̯ǝ4
+1282	wind 	Hmong Njua	ɕu̯a3
+1283	wind 	Bunu	ɕi5
+1284	wind 	Baonao	ɕi5
+1285	wind 	Numao	ɕi5
+1286	wind 	Longhua Jiongnai	či35
+1287	wind 	Liuxiang Jiongnai	či22
+1288	wind 	Xiaozhai Younuo	ki35
+1289	wind 	Huangluo Younuo	ki53
+1290	wind 	Northern Pa-Hng	ɕi55
+1291	wind 	Southern Pa-Hng	ɕi55
+1292	wind 	Hm-Nai	ɕi55
+1293	worm 	Western Xiangxi	kin1
+1294	worm 	Eastern Xiangxi	ɕi53
+1295	worm 	Qiandong	kaŋ1
+1296	worm 	Chuanqiandian	kaŋ1
+1297	worm 	Diandongbei	kaɯ1
+1298	worm 	Hmong Daw	 ɕu̯ǝ4
+1299	worm 	Hmong Njua	kaŋ4
+1300	worm 	Bunu	ɕɔŋ1
+1301	worm 	Baonao	ŋi̯a5
+1302	worm 	Numao	ŋkɑu4
+1303	worm 	Longhua Jiongnai	ʑaŋ44
+1304	worm 	Liuxiang Jiongnai	ʑaŋ44
+1305	worm 	Xiaozhai Younuo	ki̯aŋ33
+1306	worm 	Huangluo Younuo	ki̯aŋ33
+1307	worm 	Northern Pa-Hng	yoŋ35
+1308	worm 	Southern Pa-Hng	yõ35
+1309	worm 	Hm-Nai	ɕuŋ35
+1310	year 	Western Xiangxi	ɕu5
+1311	year 	Eastern Xiangxi	cɔ31
+1312	year 	Qiandong	n̥ʰiu5
+1313	year 	Chuanqiandian	ʆoŋ5
+1314	year 	Diandongbei	ʆao7
+1315	year 	Hmong Daw	ʆõ4
+1316	year 	Hmong Njua	ʆoŋ3
+1317	year 	Bunu	saŋ5
+1318	year 	Baonao	sɔŋ5
+1319	year 	Numao	ci̯ou5
+1320	year 	Longhua Jiongnai	ɲ̥ɔuŋ35
+1321	year 	Liuxiang Jiongnai	ɲ̥ɔ22
+1322	year 	Xiaozhai Younuo	ti̯uŋ35
+1323	year 	Huangluo Younuo	ti̯uŋ53
+1324	year 	Northern Pa-Hng	ɕaŋ55
+1325	year 	Southern Pa-Hng	ɕɔ̃55
+1326	year 	Hm-Nai	ɕuŋ55
