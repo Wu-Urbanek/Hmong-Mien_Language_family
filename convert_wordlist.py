@@ -1,8 +1,9 @@
 # library
 import pandas as pd 
+import sys
 
 # read in the file. 
-x=pd.ExcelFile('hmo_filtered.xls', encoding='ud', index_col=0)
+x=pd.ExcelFile(sys.argv[1], encoding='utf-8', index_col=0)
 df=x.parse('Sheet1')
 
 # select columns 
@@ -24,7 +25,7 @@ for i in df_select_transpose:
 word_list_dataframe=pd.DataFrame(word_list)
 word_list_dataframe.index=word_list_dataframe.index+1
 word_list_dataframe=word_list_dataframe[['CONCEPT','LANGUAGE','IPA']]
-word_list_dataframe.to_csv('Hmo_wl.csv',encoding='utf-8',sep='\t')
+word_list_dataframe.to_csv(sys.argv[2],encoding='utf-8',sep='\t')
 # The encoding have to be utf-8 or it won't work in Lingpy (my experience)
 
 	
