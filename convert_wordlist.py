@@ -19,7 +19,7 @@ for i in df_select_transpose:
 	meaning=temp[0]	
 	ipa_list=temp[1:]
 	for j, val in enumerate(ipa_list):
-		word_list.append({'Index':j+1,'CONCEPT':meaning,'LANGUAGE':location[j], 'IPA':ipa_list[j]})
+		word_list.append({'Index':i+1,'CONCEPT':meaning,'LANGUAGE':location[j], 'IPA':ipa_list[j]})
 
 #get ready for outputing
 word_list_dataframe=pd.DataFrame(word_list)
