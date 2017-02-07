@@ -19,11 +19,11 @@ for i in df_select_transpose:
 	meaning=temp[0]	
 	ipa_list=temp[1:]
 	for j, val in enumerate(ipa_list):
-		word_list.append({'CONCEPT':meaning,'LANGUAGE':location[j], 'IPA':ipa_list[j]})
+		word_list.append({'Index':j+1,'CONCEPT':meaning,'LANGUAGE':location[j], 'IPA':ipa_list[j]})
 
 #get ready for outputing
 word_list_dataframe=pd.DataFrame(word_list)
-word_list_dataframe.index=word_list_dataframe.index+1
+word_list_dataframe=word_list_dataframe.set_index('Index')
 word_list_dataframe=word_list_dataframe[['CONCEPT','LANGUAGE','IPA']]
 word_list_dataframe.to_csv(sys.argv[2],encoding='utf-8',sep='\t')
 # The encoding have to be utf-8 or it won't work in Lingpy (my experience)
