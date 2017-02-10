@@ -1,0 +1,1567 @@
+ID	DOCULECT	CONCEPT	CONCEPT_ID	GLOTTOLOG	WORD_IS	SEGMENTS_IS	SEGMENTS	COG	COGID
+580	Western Xiangxi	I	42	nort2748	we4	w e 4	w e ⁴/	42-1	127
+581	Eastern Xiangxi	I	42	east2371	we55	w e 55	w e ⁵⁵	42-1	127
+582	Qiandong	I	42	east2369	vi4	v i 4	v i ⁴/	42-1	127
+583	Chuanqiandian	I	42	nort3244	ko3	k o 3	k o ³/	42-2	128
+584	Diandongbei	I	42	larg1235	ku3	k u 3	k u ³/	42-2	128
+585	Hmong Daw	I	42	hmon1333	ku3	k u 3	k u ³/	42-2	128
+586	Hmong Njua	I	42	hmon1264	ku2	k u 2	k u ²/	42-2	128
+587	Bunu	I	42	buna1273	ɕuŋ3	ɕ u ŋ 3	tɕ u ŋ ³/	42-3	129
+588	Baonao	I	42	buna1273	kou3	k o u 3	k o u ³/	42-2	128
+589	Numao	I	42	numa1251	ɕuŋ3	ɕ u ŋ 3	tɕ u ŋ ³/	42-3	129
+590	Longhua Jiongnai	I	42	jion1236	va31	v a 31	v a ³¹	42-1	127
+591	Liuxiang Jiongnai	I	42	jion1236	wa53	w a 53	w a ⁵³	42-1	127
+592	Xiaozhai Younuo	I	42	youn1235	vɔ22	v ɔ 22	v ɔ ²²	42-1	127
+593	Huangluo Younuo	I	42	youn1235	vɔ22	v ɔ 22	v ɔ ²²	42-1	127
+594	Northern Pa-Hng	I	42	pahn1237	vaŋ22	v a ŋ 22	v a ŋ ²²	42-1	127
+595	Southern Pa-Hng	I	42	pahn1237	vɦɔ̃31	vɦ ɔ̃ 31	vʱ ɔ̃ ³¹	42-1	127
+596	Hm-Nai	I	42	wuna1248	waŋ22	w a ŋ 22	w a ŋ ²²	42-1	127
+1	Western Xiangxi	all	1	nort2748	sa5	s a 5	s a ⁵/	1-1	1
+2	Eastern Xiangxi	all	1	east2371	xa31	x a 31	x a ³¹	1-3	3
+3	Qiandong	all	1	east2369	sɛ4	s ɛ 4	s ɛ ⁴/	1-1	1
+4	Chuanqiandian	all	1	nort3244	tǝu1	t ǝ u 1	t ǝ u ¹/	1-2	2
+5	Diandongbei	all	1	larg1235	tu5	t u 5	t u ⁵/	1-2	2
+6	Hmong Daw	all	1	hmon1333	hu3	h u 3	h u ³/	1-3	3
+7	Hmong Njua	all	1	hmon1264	cɨ6	c ɨ 6	ts ɨ ⁶/	1-4	4
+8	Bunu	all	1	buna1273	tu5	t u 5	t u ⁵/	1-2	2
+9	Baonao	all	1	buna1273	kou5	k o u 5	k o u ⁵/	1-5	5
+10	Numao	all	1	numa1251	tey4	t e y 4	t e j ⁴/	1-6	6
+11	Longhua Jiongnai	all	1	jion1236	tu44	t u 44	t u ⁴⁴	1-2	2
+12	Liuxiang Jiongnai	all	1	jion1236	tu44	t u 44	t u ⁴⁴	1-2	2
+13	Xiaozhai Younuo	all	1	youn1235	tou33	t o u 33	t o u ³³	1-2	2
+14	Huangluo Younuo	all	1	youn1235	tu33	t u 33	t u ³³	1-2	2
+15	Northern Pa-Hng	all	1	pahn1237	tɔ33	t ɔ 33	t ɔ ³³	1-2	2
+16	Southern Pa-Hng	all	1	pahn1237	tɦɔ33	tɦ ɔ 33	tʰ ɔ ³³	1-2	2
+17	Hm-Nai	all	1	wuna1248	ki̯ei55	k i̯ e i 55	k j e i ⁵⁵	1-7	7
+18	Western Xiangxi	ashes	2	nort2748	ʆi3	ʆ i 3	ɕ i ³/	2-1	61
+19	Eastern Xiangxi	ashes	2	east2371	pʰi55	pʰ i 55	pʰ i ⁵⁵	2-2	62
+20	Qiandong	ashes	2	east2369	ʆʰu3	ʆʰ u 3	ɕ u ³/	2-1	61
+21	Chuanqiandian	ashes	2	nort3244	c̢ʰǝu3	c̢ʰ ǝ u 3	ʈʂʰ ǝ u ³/	2-1	61
+22	Diandongbei	ashes	2	larg1235	c̢ʰao3	c̢ʰ a o 3	ʈʂʰ a o ³/	2-1	61
+23	Hmong Daw	ashes	2	hmon1333	čʰɔw3	čʰ ɔ w 3	tʃʰ ɔ w ³/	2-1	61
+24	Hmong Njua	ashes	2	hmon1264	čʰau2	čʰ au 2	tʃʰ a u ²/	2-1	61
+25	Bunu	ashes	2	buna1273	ka3=sʰa3	k a 3 =sʰ a 3	k a ³/ → sʰ a ³/	2-1	61
+26	Baonao	ashes	2	buna1273	sʰi̯a3	sʰ i̯ a 3	sʰ j a ³/	2-1	61
+27	Numao	ashes	2	numa1251	ʆu3	ʆ u 3	ɕ u ³/	2-1	61
+28	Longhua Jiongnai	ashes	2	jion1236	tau31=θe53	t au 31 = θ e 53	t a u ³¹ + θ e ⁵³	2-1	61
+29	Liuxiang Jiongnai	ashes	2	jion1236	ču35=θey35	č u 35 = θ e y 35	tʃ u ³⁵ + θ e j ³⁵	2-1	61
+30	Xiaozhai Younuo	ashes	2	youn1235	cʰɔ22	cʰ ɔ 22	tsʰ ɔ ²²	2-1	61
+31	Huangluo Younuo	ashes	2	youn1235	cʰɔ22	cʰ ɔ 22	tsʰ ɔ ²²	2-1	61
+32	Northern Pa-Hng	ashes	2	pahn1237	qa22=si22	q a 22 =s i 22	q a ²² + s i ²²	2-1	61
+33	Southern Pa-Hng	ashes	2	pahn1237	qa31=ʆe31	q a 31 = ʆ e 31	q a ³¹ + ɕ e ³¹	2-1	61
+34	Hm-Nai	ashes	2	wuna1248	ʆi13	ʆ i 13	ɕ i ¹³	2-1	61
+35	Western Xiangxi	bark	3	nort2748	qo1=ki̯ɔ5-ntu5	q o 1 = k i̯ ɔ 5 - n t u 5	q o ¹/ + k j ɔ ⁵/ + n t u ⁵/	3-1	81
+36	Qiandong	bark	3	east2369	qa1=liu5-tǝu5	q a 1 = l i u 5 - t ǝ u 5	q a ¹/ + l i u ⁵/ + t ǝ u ⁵/	3-2	82
+37	Hmong Daw	bark	3	hmon1333	tǝw3-ntõ4	t ǝ w 3 - n t õ 4	t ǝ w ³/ + n t õ ⁴/	3-3	83
+38	Hmong Njua	bark	3	hmon1264	taʉ2-ndoŋ3	t a ʉ 2 - n d o ŋ 3	t a ʉ ²/ + n d o ŋ ³/	3-3	83
+39	Longhua Jiongnai	bark	3	jion1236	ntɔuŋ35=ki̯eu35	n t ɔ u ŋ 35 = k i̯ e u 35	n t ɔ u ŋ ³⁵ + k j e u ³⁵	3-1	81
+40	Liuxiang Jiongnai	bark	3	jion1236	ntaŋ22=ki̯eu22	n t a ŋ 22 = k i̯ e u 22	n t a ŋ ²² + k j e u ²²	3-1	81
+41	Northern Pa-Hng	bark	3	pahn1237	qa22=li̯u55-ti̯a35	q a 22 = l i̯ u 55 - t i̯ a 35	q a ²² + l j u ⁵⁵ + t j a ³⁵	3-2	82
+42	Southern Pa-Hng	bark	3	pahn1237	qa31=li̯ʉ55-pi̯a35	q a 31 = l i̯ ʉ 55 - p i̯ a 35	q a ³¹ + l j ʉ ⁵⁵ + p j a ³⁵	3-2	82
+43	Hm-Nai	bark	3	wuna1248	qʰau35-ca35	qʰ au 35 - c a 35	qʰ a u ³⁵ + ts a ³⁵	3-4	84
+44	Western Xiangxi	belly	4	nort2748	qo1=ɕʰi1	q o 1 =ɕʰ i 1	q o ¹/ → tɕʰ i ¹/	4-1	111
+45	Eastern Xiangxi	belly	4	east2371	qu53=pi53	q u 53 = p i 53	q u ⁵³ + p i ⁵³	4-2	112
+46	Qiandong	belly	4	east2369	ɕʰu1	ɕʰ u 1	tɕʰ u ¹/	4-1	111
+47	Chuanqiandian	belly	4	nort3244	plaŋ1	p l a ŋ 1	p l a ŋ ¹/	4-3	113
+48	Diandongbei	belly	4	larg1235	a3=ɕʰao1	a 3 =ɕʰ a o 1	a ³/ → tɕʰ a o ¹/	4-1	111
+49	Hmong Daw	belly	4	hmon1333	pla1	p l a 1	p l a ¹/	4-3	113
+50	Hmong Njua	belly	4	hmon1264	plaŋ1	p l a ŋ 1	p l a ŋ ¹/	4-3	113
+51	Bunu	belly	4	buna1273	ka3=ƛǝŋ1	k a 3 = ƛ ǝ ŋ 1	k a ³/ + tɬ ǝ ŋ ¹/	4-3	113
+52	Baonao	belly	4	buna1273	ɲ̥au3	ɲ̥ au 3	ɲ̥ a u ³/	4-4	114
+53	Numao	belly	4	numa1251	ɲ̥uŋ3	ɲ̥ u ŋ 3	ɲ̥ u ŋ ³/	4-4	114
+54	Longhua Jiongnai	belly	4	jion1236	tʰe44	tʰ e 44	tʰ e ⁴⁴	4-5	115
+55	Liuxiang Jiongnai	belly	4	jion1236	tʰey44	tʰ e y 44	tʰ e j ⁴⁴	4-5	115
+56	Xiaozhai Younuo	belly	4	youn1235	ta31-tu33	t a 31 - t u 33	t a ³¹ + t u ³³	4-6	116
+57	Huangluo Younuo	belly	4	youn1235	ta31-tu33	t a 31 - t u 33	t a ³¹ + t u ³³	4-6	116
+58	Northern Pa-Hng	belly	4	pahn1237	a33=ŋ̥ŋ22	a 33 = ŋ̥ŋ 22	a ³³ + ŋ ŋ̊ ²²	4-4	114
+59	Southern Pa-Hng	belly	4	pahn1237	a44=ŋ̥ŋ31	a 44 = ŋ̥ŋ 31	a ⁴⁴ + ŋ ŋ̊ ³¹	4-4	114
+60	Hm-Nai	belly	4	wuna1248	naŋ35=n̥n13	n a ŋ 35 = n̥ n 13	n a ŋ ³⁵ + n̥ n ¹³	4-4	114
+61	Western Xiangxi	big	5	nort2748	li̯o2	l i̯ o 2	l j o ²/	5-1	144
+62	Eastern Xiangxi	big	5	east2371	ʎ̥ʰɔ53	ʎ̥ʰ ɔ 53	ʎ̥ʰ ɔ ⁵³	5-1	144
+63	Qiandong	big	5	east2369	l̥ʰiǝ1	l̥ʰ i ǝ 1	l̥ʰ i ǝ ¹/	5-1	144
+64	Chuanqiandian	big	5	nort3244	lo2	l o 2	l o ²/	5-1	144
+65	Diandongbei	big	5	larg1235	l̥o1 ~ a3=laɯ4	a 3 = l a ɯ 4	a ³/ + l a ɯ ⁴/	5-1	144
+66	Hmong Daw	big	5	hmon1333	lɔ2	l ɔ 2	l ɔ ²/	5-1	144
+67	Hmong Njua	big	5	hmon1264	lu5	l u 5	l u ⁵/	5-1	144
+68	Bunu	big	5	buna1273	laŋ8	l a ŋ 8	l a ŋ ⁸/	5-2	145
+69	Baonao	big	5	buna1273	lʰi̯uɔ1	lʰ i̯ u ɔ 1	lʰ j u ɔ ¹/	5-1	144
+70	Numao	big	5	numa1251	lo8	l o 8	l o ⁸/	5-2	145
+71	Longhua Jiongnai	big	5	jion1236	l̥i̯eu44	l̥ i̯ e u 44	l̥ j e u ⁴⁴	5-1	144
+72	Liuxiang Jiongnai	big	5	jion1236	l̥i̯eu44	l̥ i̯ e u 44	l̥ j e u ⁴⁴	5-1	144
+73	Xiaozhai Younuo	big	5	youn1235	liu33	l i u 33	l i u ³³	5-1	144
+74	Huangluo Younuo	big	5	youn1235	liu33	l i u 33	l i u ³³	5-1	144
+75	Northern Pa-Hng	big	5	pahn1237	l̥i̯o35	l̥ i̯ o 35	l̥ j o ³⁵	5-1	144
+76	Southern Pa-Hng	big	5	pahn1237	l̥i̯o35	l̥ i̯ o 35	l̥ j o ³⁵	5-1	144
+77	Hm-Nai	big	5	wuna1248	l̥i̯o35	l̥ i̯ o 35	l̥ j o ³⁵	5-1	144
+78	Western Xiangxi	bird	6	nort2748	ta1=nu6	t a 1 = n u 6	t a ¹/ + n u ⁶/	6-1	170
+79	Eastern Xiangxi	bird	6	east2371	nɔ11	n ɔ 11	n ɔ ¹¹	6-1	170
+80	Qiandong	bird	6	east2369	nǝu6	n ǝ u 6	n ǝ u ⁶/	6-1	170
+81	Chuanqiandian	bird	6	nort3244	noŋ6	n o ŋ 6	n o ŋ ⁶/	6-1	170
+82	Diandongbei	bird	6	larg1235	nao6	n a o 6	n a o ⁶/	6-1	170
+83	Hmong Daw	bird	6	hmon1333	nõ6	n õ 6	n õ ⁶/	6-1	170
+84	Hmong Njua	bird	6	hmon1264	noŋ6	n o ŋ 6	n o ŋ ⁶/	6-1	170
+85	Bunu	bird	6	buna1273	naŋ6	n a ŋ 6	n a ŋ ⁶/	6-1	170
+86	Baonao	bird	6	buna1273	nuɔ6	n u ɔ 6	n u ɔ ⁶/	6-1	170
+87	Numao	bird	6	numa1251	nou6	n o u 6	n o u ⁶/	6-1	170
+88	Longhua Jiongnai	bird	6	jion1236	nɔuŋ22	n ɔ u ŋ 22	n ɔ u ŋ ²²	6-1	170
+89	Liuxiang Jiongnai	bird	6	jion1236	nɔ21	n ɔ 21	n ɔ ²¹	6-1	170
+90	Xiaozhai Younuo	bird	6	youn1235	noŋ31	n o ŋ 31	n o ŋ ³¹	6-1	170
+91	Huangluo Younuo	bird	6	youn1235	noŋ22	n o ŋ 22	n o ŋ ²²	6-1	170
+92	Northern Pa-Hng	bird	6	pahn1237	taŋ35=moŋ44	t a ŋ 35 = m o ŋ 44	t a ŋ ³⁵ + m o ŋ ⁴⁴	6-1	170
+93	Southern Pa-Hng	bird	6	pahn1237	tɔ̃35=mõ44	t ɔ̃ 35 = m õ 44	t ɔ̃ ³⁵ + m õ ⁴⁴	6-1	170
+94	Hm-Nai	bird	6	wuna1248	taŋ35=nuŋ31	t a ŋ 35 = n u ŋ 31	t a ŋ ³⁵ + n u ŋ ³¹	6-1	170
+95	Western Xiangxi	bite	7	nort2748	to4	t o 4	t o ⁴/	7-1	202
+96	Eastern Xiangxi	bite	7	east2371	tɔ35	t ɔ 35	t ɔ ³⁵	7-1	202
+97	Qiandong	bite	7	east2369	tǝ8	t ǝ 8	t ǝ ⁸/	7-1	202
+98	Chuanqiandian	bite	7	nort3244	to8	t o 8	t o ⁸/	7-1	202
+99	Diandongbei	bite	7	larg1235	so5-so5	s o 5 - s o 5	s o ⁵/ + s o ⁵/	7-2	203
+100	Hmong Daw	bite	7	hmon1333	tɔ7	t ɔ 7	t ɔ ⁷/	7-1	202
+101	Hmong Njua	bite	7	hmon1264	tu7	t u 7	t u ⁷/	7-1	202
+102	Bunu	bite	7	buna1273	tɔ8	t ɔ 8	t ɔ ⁸/	7-1	202
+103	Baonao	bite	7	buna1273	tuɔ8	t u ɔ 8	t u ɔ ⁸/	7-1	202
+104	Numao	bite	7	numa1251	tɑu8	t ɑ u 8	t ɑ u ⁸/	7-1	202
+105	Longhua Jiongnai	bite	7	jion1236	tu32	t u 32	t u ³²	7-1	202
+106	Liuxiang Jiongnai	bite	7	jion1236	tu32	t u 32	t u ³²	7-1	202
+107	Northern Pa-Hng	bite	7	pahn1237	ta31	t a 31	t a ³¹	7-1	202
+108	Southern Pa-Hng	bite	7	pahn1237	tɦa31	tɦ a 31	tʰ a ³¹	7-1	202
+109	Hm-Nai	bite	7	wuna1248	tʰa31	tʰ a 31	tʰ a ³¹	7-1	202
+110	Western Xiangxi	black	8	nort2748	qu̯e1	q u̯ e 1	q w e ¹/	8-1	245
+111	Eastern Xiangxi	black	8	east2371	qwe53	qw e 53	q w e ⁵³	8-1	245
+112	Qiandong	black	8	east2369	ɬɛ1	ɬ ɛ 1	ɬ ɛ ¹/	8-1	245
+113	Chuanqiandian	black	8	nort3244	tlo1	t l o 1	t l o ¹/	8-1	245
+114	Diandongbei	black	8	larg1235	ƛu1	ƛ u 1	tɬ u ¹/	8-1	245
+115	Hmong Daw	black	8	hmon1333	ʼdu1	ʼd u 1	ˀd u ¹/	8-1	245
+116	Hmong Njua	black	8	hmon1264	ƛu1	ƛ u 1	tɬ u ¹/	8-1	245
+117	Bunu	black	8	buna1273	ƛuŋ1	ƛ u ŋ 1	tɬ u ŋ ¹/	8-1	245
+118	Baonao	black	8	buna1273	ƛi̯ɔ1	ƛ i̯ ɔ 1	tɬ j ɔ ¹/	8-1	245
+119	Numao	black	8	numa1251	ƛi̯uŋ1	ƛ i̯ u ŋ 1	tɬ j u ŋ ¹/	8-1	245
+120	Longhua Jiongnai	black	8	jion1236	klaŋ44	k l a ŋ 44	k l a ŋ ⁴⁴	8-1	245
+121	Liuxiang Jiongnai	black	8	jion1236	klã44	k l ã 44	k l ã ⁴⁴	8-1	245
+122	Xiaozhai Younuo	black	8	youn1235	kuŋ33	k u ŋ 33	k u ŋ ³³	8-1	245
+123	Huangluo Younuo	black	8	youn1235	ku33	k u 33	k u ³³	8-1	245
+124	Northern Pa-Hng	black	8	pahn1237	kwaŋ33	kw a ŋ 33	k w a ŋ ³³	8-1	245
+125	Southern Pa-Hng	black	8	pahn1237	kɦwɔ̃33	kɦ w ɔ̃ 33	kʰ w ɔ̃ ³³	8-1	245
+126	Hm-Nai	black	8	wuna1248	quŋ31	q u ŋ 31	q u ŋ ³¹	8-1	245
+127	Western Xiangxi	blood	9	nort2748	ɲɕʰin3	ɲɕʰ i n 3	ɲ tɕʰ i n ³/	9-1	272
+128	Eastern Xiangxi	blood	9	east2371	cʰe55	cʰ e 55	tsʰ e ⁵⁵	9-1	272
+129	Qiandong	blood	9	east2369	ʃʰaŋ3	ʃʰ a ŋ 3	ɕʰ a ŋ ³/	9-1	272
+130	Chuanqiandian	blood	9	nort3244	nc̢ʰaŋ3	n c̢ʰ a ŋ 3	n ʈʂʰ a ŋ ³/	9-1	272
+131	Diandongbei	blood	9	larg1235	ɳc̢aɯ3	ɳ c̢ a ɯ 3	ɳ tʂ a ɯ ³/	9-1	272
+132	Hmong Daw	blood	9	hmon1333	nčʰa3	n čʰ a 3	n tʃʰ a ³/	9-1	272
+133	Hmong Njua	blood	9	hmon1264	ɲčʰaŋ2	ɲ čʰ a ŋ 2	ɲ tʃʰ a ŋ ²/	9-1	272
+134	Bunu	blood	9	buna1273	ncʰǝŋ3	n cʰ ǝ ŋ 3	n tsʰ ǝ ŋ ³/	9-1	272
+135	Baonao	blood	9	buna1273	ncʰɒ3	n cʰ ɒ 3	n tsʰ ɒ ³/	9-1	272
+136	Numao	blood	9	numa1251	ncʰi̯ɑn3	n cʰ i̯ ɑ n 3	n tsʰ j ɑ n ³/	9-1	272
+137	Longhua Jiongnai	blood	9	jion1236	θi53	θ i 53	θ i ⁵³	9-1	272
+138	Liuxiang Jiongnai	blood	9	jion1236	θi35	θ i 35	θ i ³⁵	9-1	272
+139	Xiaozhai Younuo	blood	9	youn1235	cʰun22	cʰ u n 22	tsʰ u n ²²	9-1	272
+140	Huangluo Younuo	blood	9	youn1235	cʰun22	cʰ u n 22	tsʰ u n ²²	9-1	272
+141	Northern Pa-Hng	blood	9	pahn1237	ɲ̥ei22	ɲ̥ e i 22	ɲ̥ e i ²²	9-1	272
+142	Southern Pa-Hng	blood	9	pahn1237	ɲ̥ɕe31	ɲ̥ɕ e 31	ɲ̥ tɕ e ³¹	9-1	272
+143	Hm-Nai	blood	9	wuna1248	ɲ̥ɕʰei13	ɲ̥ɕʰ e i 13	ɲ̥ tɕʰ e i ¹³	9-1	272
+144	Western Xiangxi	bone	10	nort2748	qo1=soŋ3	q o 1 =s o ŋ 3	q o ¹/ + s o ŋ ³/	10-1	8
+145	Eastern Xiangxi	bone	10	east2371	qu31=sɤ55	q u 31 =s ɤ 55	q u ³¹ + s ɤ ⁵⁵	10-1	8
+146	Qiandong	bone	10	east2369	po3=sʰoŋ3	p o 3 =sʰ o ŋ 3	p o ³/ → sʰ o ŋ ³/	10-1	8
+147	Western Xiangxi	breast	11	nort2748	qo1=moŋ2=lɛ̃2	q o 1 = m o ŋ 2 = l ɛ̃ 2	q o ¹/ + m o ŋ ²/ + l ɛ̃ ²/	11-1	30
+148	Eastern Xiangxi	breast	11	east2371	ʆuŋ55-pʰu31	ʆ u ŋ 55 - pʰ u 31	ɕ u ŋ ⁵⁵ + pʰ u ³¹	11--1	29
+149	Qiandong	breast	11	east2369	kaŋ1-kǝu7	k a ŋ 1 - k ǝ u 7	k a ŋ ¹/ + k ǝ u ⁷/	11-2	31
+150	Chuanqiandian	breast	11	nort3244	hǝu3=ɳʈao1	h ǝ u 3 = ɳ ʈ a o 1	h ǝ u ³/ + ɳ ʈ a o ¹/	11-3	32
+151	Diandongbei	breast	11	larg1235	fao3=hi5=ɳto1	f a o 3 =h i 5 = ɳ t o 1	f a o ³/ → h i ⁵/ + ɳ t o ¹/	11-3	32
+152	Hmong Daw	breast	11	hmon1333	hɔw3=ši̯a1	h ɔ w 3 = š i̯ a 1	h ɔ w ³/ + ʃ j a ¹/	11-4	33
+153	Hmong Njua	breast	11	hmon1264	hau2=ša1	h au 2 = š a 1	h a u ²/ + ʃ a ¹/	11-4	33
+154	Bunu	breast	11	buna1273	fa3=mpi̯au6	f a 3 = m p i̯ au 6	f a ³/ + m p j a u ⁶/	11-5	34
+155	Baonao	breast	11	buna1273	pey3=nƛɒ2	p e y 3 = n ƛ ɒ 2	p e j ³/ + n tɬ ɒ ²/	11-6	35
+156	Numao	breast	11	numa1251	ti̯e6	t i̯ e 6	t j e ⁶/	11-7	36
+157	Longhua Jiongnai	breast	11	jion1236	mplay33	m p l a y 33	m p l a j ³³	11-5	34
+158	Liuxiang Jiongnai	breast	11	jion1236	mplɛ31	m p l ɛ 31	m p l ɛ ³¹	11-5	34
+159	Xiaozhai Younuo	breast	11	youn1235	fɔ33=sǝn35=lau35	f ɔ 33 =s ǝ n 35 = l au 35	f ɔ ³³ + s ǝ n ³⁵ + l a u ³⁵	11-5	34
+160	Huangluo Younuo	breast	11	youn1235	fɔ33=sǝn33=lau53	f ɔ 33 =s ǝ n 33 = l au 53	f ɔ ³³ + s ǝ n ³³ + l a u ⁵³	11-5	34
+161	Northern Pa-Hng	breast	11	pahn1237	a33=ɕaŋ53	a 33 =ɕ a ŋ 53	a ³³ + tɕ a ŋ ⁵³	11-8	37
+162	Southern Pa-Hng	breast	11	pahn1237	a44=ɕɔ̃53	a 44 =ɕ ɔ̃ 53	a ⁴⁴ + tɕ ɔ̃ ⁵³	11-8	37
+163	Hm-Nai	breast	11	wuna1248	naŋ35=ɕuŋ53	n a ŋ 35 =ɕ u ŋ 53	n a ŋ ³⁵ + tɕ u ŋ ⁵³	11-8	37
+164	Western Xiangxi	burn tr.	12	nort2748	ɔ1	ɔ 1	ɔ ¹/	12-1	41
+165	Eastern Xiangxi	burn tr.	12	east2371	ɔ53	ɔ 53	ɔ ⁵³	12-1	41
+166	Qiandong	burn tr.	12	east2369	tio3	t i o 3	t i o ³/	12-2	42
+167	Chuanqiandian	burn tr.	12	nort3244	fau3	f au 3	f a u ³/	12-2	42
+168	Diandongbei	burn tr.	12	larg1235	ƛao3	ƛ a o 3	tɬ a o ³/	12-2	42
+169	Hmong Daw	burn tr.	12	hmon1333	l̥ǝw3	l̥ ǝ w 3	l̥ ǝ w ³/	12-2	42
+170	Hmong Njua	burn tr.	12	hmon1264	ɬaʉ2	ɬ a ʉ 2	ɬ a ʉ ²/	12-2	42
+171	Bunu	burn tr.	12	buna1273	ʈa3	ʈ a 3	ʈ a ³/	12-2	42
+172	Baonao	burn tr.	12	buna1273	ɕa3	ɕ a 3	tɕ a ³/	12-2	42
+173	Numao	burn tr.	12	numa1251	ti̯u3	t i̯ u 3	t j u ³/	12-2	42
+174	Longhua Jiongnai	burn tr.	12	jion1236	v̥a53	v̥ a 53	v̥ a ⁵³	12-3	43
+175	Liuxiang Jiongnai	burn tr.	12	jion1236	hwa35	hw a 35	w̥ a ³⁵	12-3	43
+176	Xiaozhai Younuo	burn tr.	12	youn1235	tʰou22	tʰ o u 22	tʰ o u ²²	12-2	42
+177	Huangluo Younuo	burn tr.	12	youn1235	tʰou22	tʰ o u 22	tʰ o u ²²	12-2	42
+178	Northern Pa-Hng	burn tr.	12	pahn1237	pʰo22	pʰ o 22	pʰ o ²²	12-4	44
+179	Southern Pa-Hng	burn tr.	12	pahn1237	pʰo31	pʰ o 31	pʰ o ³¹	12-4	44
+180	Hm-Nai	burn tr.	12	wuna1248	ti̯aŋ35	t i̯ a ŋ 35	t j a ŋ ³⁵	12-5	45
+181	Western Xiangxi	claw(nail)	13	nort2748	po5=ʈei5	p o 5 = ʈ e i 5	p o ⁵/ + ʈ e i ⁵/	13-1	46
+182	Western Xiangxi	cloud	14	nort2748	ki̯a3=tu5	k i̯ a 3 = t u 5	k j a ³/ + t u ⁵/	14-1	48
+183	Eastern Xiangxi	cloud	14	east2371	ʑü31-dɯ31	ʑ ü 31 - d ɯ 31	ʑ y ³¹ + d ɯ ³¹	14--1	47
+184	Qiandong	cloud	14	east2369	ten5=en5	t e n 5 = e n 5	t e n ⁵/ + e n ⁵/	14-2	49
+185	Chuanqiandian	cloud	14	nort3244	hua1	h u a 1	h u a ¹/	14-3	50
+186	Diandongbei	cloud	14	larg1235	haɯ3-po7	h a ɯ 3 - p o 7	h a ɯ ³/ + p o ⁷/	14-3	50
+187	Hmong Daw	cloud	14	hmon1333	hu̯ǝ1	h u̯ ǝ 1	h w ǝ ¹/	14-3	50
+188	Hmong Njua	cloud	14	hmon1264	fu̯a1	f u̯ a 1	f w a ¹/	14-3	50
+189	Bunu	cloud	14	buna1273	ka3=hu3	k a 3 =h u 3	k a ³/ → h u ³/	14-3	50
+190	Baonao	cloud	14	buna1273	tei3=ɔŋ1-ŋkɔ2	t e i 3 = ɔ ŋ 1 - ŋ k ɔ 2	t e i ³/ + ɔ ŋ ¹/ + ŋ k ɔ ²/	14-4	51
+191	Numao	cloud	14	numa1251	ou1	o u 1	o u ¹/	14-4	51
+192	Longhua Jiongnai	cloud	14	jion1236	ti̯ɔŋ35	t i̯ ɔ ŋ 35	t j ɔ ŋ ³⁵	14-5	52
+193	Liuxiang Jiongnai	cloud	14	jion1236	ti̯aŋ22	t i̯ a ŋ 22	t j a ŋ ²²	14-5	52
+194	Xiaozhai Younuo	cloud	14	youn1235	hau33	h au 33	h a u ³³	14-3	50
+195	Huangluo Younuo	cloud	14	youn1235	hau33	h au 33	h a u ³³	14-3	50
+196	Northern Pa-Hng	cloud	14	pahn1237	qa33=toŋ55	q a 33 = t o ŋ 55	q a ³³ + t o ŋ ⁵⁵	14-5	52
+197	Southern Pa-Hng	cloud	14	pahn1237	qa31=tõ55	q a 31 = t õ 55	q a ³¹ + t õ ⁵⁵	14-5	52
+198	Hm-Nai	cloud	14	wuna1248	ho35	h o 35	h o ³⁵	14-3	50
+199	Western Xiangxi	cold	15	nort2748	cɛ̃4	c ɛ̃ 4	ts ɛ̃ ⁴/	15-1	53
+200	Eastern Xiangxi	cold	15	east2371	ʒɛ35	ʒ ɛ 35	dz ɛ ³⁵	15-1	53
+201	Qiandong	cold	15	east2369	sei4	s e i 4	s e i ⁴/	15-1	53
+202	Chuanqiandian	cold	15	nort3244	ʒa6	ʒ a 6	dz a ⁶/	15-2	54
+203	Diandongbei	cold	15	larg1235	ɕie4	ɕ i e 4	tɕ i e ⁴/	15-1	53
+204	Hmong Daw	cold	15	hmon1333	ci̯a5	c i̯ a 5	ts j a ⁵/	15-1	53
+205	Hmong Njua	cold	15	hmon1264	ca6	c a 6	ts a ⁶/	15-1	53
+206	Bunu	cold	15	buna1273	θǝŋ4	θ ǝ ŋ 4	θ ǝ ŋ ⁴/	15-1	53
+207	Western Xiangxi	come	16	nort2748	lo4	l o 4	l o ⁴/	16-1	55
+208	Eastern Xiangxi	come	16	east2371	lɔ33	l ɔ 33	l ɔ ³³	16-1	55
+209	Qiandong	come	16	east2369	ta2	t a 2	t a ²/	16-2	56
+210	Chuanqiandian	come	16	nort3244	tua2	t u a 2	t u a ²/	16-2	56
+211	Diandongbei	come	16	larg1235	ta2	t a 2	t a ²/	16-2	56
+212	Hmong Daw	come	16	hmon1333	tu̯ǝ2	t u̯ ǝ 2	t w ǝ ²/	16-2	56
+213	Hmong Njua	come	16	hmon1264	tu̯a5	t u̯ a 5	t w a ⁵/	16-2	56
+214	Bunu	come	16	buna1273	lɔ4	l ɔ 4	l ɔ ⁴/	16-1	55
+215	Baonao	come	16	buna1273	tuɔ2	t u ɔ 2	t u ɔ ²/	16-2	56
+216	Numao	come	16	numa1251	lɑu4	l ɑ u 4	l ɑ u ⁴/	16-1	55
+217	Longhua Jiongnai	come	16	jion1236	lɔu31	l ɔ u 31	l ɔ u ³¹	16-1	55
+218	Liuxiang Jiongnai	come	16	jion1236	lo53	l o 53	l o ⁵³	16-1	55
+219	Xiaozhai Younuo	come	16	youn1235	tɔ13	t ɔ 13	t ɔ ¹³	16-2	56
+220	Huangluo Younuo	come	16	youn1235	tɔ13	t ɔ 13	t ɔ ¹³	16-2	56
+221	Northern Pa-Hng	come	16	pahn1237	tei33	t e i 33	t e i ³³	16-2	56
+222	Southern Pa-Hng	come	16	pahn1237	tɦe33	tɦ e 33	tʰ e ³³	16-2	56
+223	Hm-Nai	come	16	wuna1248	te33	t e 33	t e ³³	16-2	56
+224	Bunu	come	16	buna1273	tɔ2	t ɔ 2	t ɔ ²/	16-2	56
+225	Numao	come	16	numa1251	tɑu2	t ɑ u 2	t ɑ u ²/	16-2	56
+226	Western Xiangxi	die	17	nort2748	ta6	t a 6	t a ⁶/	17-1	57
+227	Eastern Xiangxi	die	17	east2371	da11	d a 11	d a ¹¹	17-1	57
+228	Qiandong	die	17	east2369	ta6	t a 6	t a ⁶/	17-1	57
+229	Chuanqiandian	die	17	nort3244	dua6	d u a 6	d u a ⁶/	17-1	57
+230	Diandongbei	die	17	larg1235	nta6	n t a 6	n t a ⁶/	17-1	57
+231	Hmong Daw	die	17	hmon1333	tu̯ǝ6	t u̯ ǝ 6	t w ǝ ⁶/	17-1	57
+232	Hmong Njua	die	17	hmon1264	tu̯a6	t u̯ a 6	t w a ⁶/	17-1	57
+233	Longhua Jiongnai	die	17	jion1236	ta22	t a 22	t a ²²	17-1	57
+234	Liuxiang Jiongnai	die	17	jion1236	ta21	t a 21	t a ²¹	17-1	57
+235	Xiaozhai Younuo	die	17	youn1235	tɔ22	t ɔ 22	t ɔ ²²	17-1	57
+236	Huangluo Younuo	die	17	youn1235	tɔ22	t ɔ 22	t ɔ ²²	17-1	57
+237	Northern Pa-Hng	die	17	pahn1237	tei44	t e i 44	t e i ⁴⁴	17-1	57
+238	Southern Pa-Hng	die	17	pahn1237	tɦe44	tɦ e 44	tʰ e ⁴⁴	17-1	57
+239	Hm-Nai	die	17	wuna1248	te31	t e 31	t e ³¹	17-1	57
+240	Western Xiangxi	dog	18	nort2748	ta1=qu̯ɯ3	t a 1 = q u̯ ɯ 3	t a ¹/ + q w ɯ ³/	18-1	58
+241	Eastern Xiangxi	dog	18	east2371	qʋ55	q ʋ 55	q ʋ ⁵⁵	18-1	58
+242	Qiandong	dog	18	east2369	ɬa3	ɬ a 3	ɬ a ³/	18-1	58
+243	Chuanqiandian	dog	18	nort3244	tle3	t l e 3	t l e ³/	18-1	58
+244	Diandongbei	dog	18	larg1235	ƛa3	ƛ a 3	tɬ a ³/	18-1	58
+245	Hmong Daw	dog	18	hmon1333	ʼde3	ʼd e 3	ˀd e ³/	18-1	58
+246	Hmong Njua	dog	18	hmon1264	ƛe2	ƛ e 2	tɬ e ²/	18-1	58
+247	Bunu	dog	18	buna1273	ƛe3	ƛ e 3	tɬ e ³/	18-1	58
+248	Baonao	dog	18	buna1273	ƛey3	ƛ e y 3	tɬ e j ³/	18-1	58
+249	Numao	dog	18	numa1251	ƛi̯ɑ3	ƛ i̯ ɑ 3	tɬ j ɑ ³/	18-1	58
+250	Longhua Jiongnai	dog	18	jion1236	kla53	k l a 53	k l a ⁵³	18-1	58
+251	Liuxiang Jiongnai	dog	18	jion1236	kla35	k l a 35	k l a ³⁵	18-1	58
+252	Xiaozhai Younuo	dog	18	youn1235	kou22	k o u 22	k o u ²²	18-1	58
+253	Huangluo Younuo	dog	18	youn1235	kou22	k o u 22	k o u ²²	18-1	58
+254	Northern Pa-Hng	dog	18	pahn1237	qa22=li̯aŋ53	q a 22 = l i̯ a ŋ 53	q a ²² + l j a ŋ ⁵³	18-2	59
+255	Southern Pa-Hng	dog	18	pahn1237	qa35=li̯ɔ̃53	q a 35 = l i̯ ɔ̃ 53	q a ³⁵ + l j ɔ̃ ⁵³	18-2	59
+256	Hm-Nai	dog	18	wuna1248	li̯aŋ53	l i̯ a ŋ 53	l j a ŋ ⁵³	18-2	59
+257	Western Xiangxi	drink	19	nort2748	xu3	x u 3	x u ³/	19-1	60
+258	Eastern Xiangxi	drink	19	east2371	xɔ35	x ɔ 35	x ɔ ³⁵	19-1	60
+259	Qiandong	drink	19	east2369	hǝu7	h ǝ u 7	h ǝ u ⁷/	19-1	60
+260	Chuanqiandian	drink	19	nort3244	heu7	h e u 7	h e u ⁷/	19-1	60
+261	Diandongbei	drink	19	larg1235	hao7	h a o 7	h a o ⁷/	19-1	60
+262	Hmong Daw	drink	19	hmon1333	hɔw5	h ɔ w 5	h ɔ w ⁵/	19-1	60
+263	Hmong Njua	drink	19	hmon1264	hau4	h au 4	h a u ⁴/	19-1	60
+264	Bunu	drink	19	buna1273	hu7	h u 7	h u ⁷/	19-1	60
+265	Baonao	drink	19	buna1273	hau7	h au 7	h a u ⁷/	19-1	60
+266	Numao	drink	19	numa1251	xɤ7	x ɤ 7	x ɤ ⁷/	19-1	60
+267	Longhua Jiongnai	drink	19	jion1236	xɔ43	x ɔ 43	x ɔ ⁴³	19-1	60
+268	Liuxiang Jiongnai	drink	19	jion1236	hǝu43	h ǝ u 43	h ǝ u ⁴³	19-1	60
+269	Xiaozhai Younuo	drink	19	youn1235	hɔ31	h ɔ 31	h ɔ ³¹	19-1	60
+270	Huangluo Younuo	drink	19	youn1235	hɔ31	h ɔ 31	h ɔ ³¹	19-1	60
+271	Northern Pa-Hng	drink	19	pahn1237	hɔ53	h ɔ 53	h ɔ ⁵³	19-1	60
+272	Southern Pa-Hng	drink	19	pahn1237	hɔ53	h ɔ 53	h ɔ ⁵³	19-1	60
+273	Hm-Nai	drink	19	wuna1248	hau53	h au 53	h a u ⁵³	19-1	60
+274	Western Xiangxi	dry	20	nort2748	qʰä3	qʰ ä 3	qʰ æ ³/	20-1	63
+275	Eastern Xiangxi	dry	20	east2371	qʰɛ55	qʰ ɛ 55	qʰ ɛ ⁵⁵	20-1	63
+276	Qiandong	dry	20	east2369	ŋa6	ŋ a 6	ŋ a ⁶/	20-2	64
+277	Chuanqiandian	dry	20	nort3244	qʰua3	qʰ u a 3	qʰ u a ³/	20-1	63
+278	Diandongbei	dry	20	larg1235	nqʰa1	n qʰ a 1	n qʰ a ¹/	20-1	63
+279	Hmong Daw	dry	20	hmon1333	qʰu̯ǝ3	qʰ u̯ ǝ 3	qʰ w ǝ ³/	20-1	63
+280	Hmong Njua	dry	20	hmon1264	qʰu̯a2	qʰ u̯ a 2	qʰ w a ²/	20-1	63
+281	Bunu	dry	20	buna1273	ŋkʰen3	ŋ kʰ e n 3	ŋ kʰ e n ³/	20-1	63
+282	Baonao	dry	20	buna1273	ɕẽ5	ɕ ẽ 5	tɕ ẽ ⁵/	20-3	65
+283	Numao	dry	20	numa1251	ŋkʰɑn3	ŋ kʰ ɑ n 3	ŋ kʰ ɑ n ³/	20-1	63
+284	Longhua Jiongnai	dry	20	jion1236	ŋkʰey44	ŋ kʰ e y 44	ŋ kʰ e j ⁴⁴	20-1	63
+285	Liuxiang Jiongnai	dry	20	jion1236	ŋkay44	ŋ k a y 44	ŋ k a j ⁴⁴	20-1	63
+286	Xiaozhai Younuo	dry	20	youn1235	kʰey22	kʰ e y 22	kʰ e j ²²	20-1	63
+287	Huangluo Younuo	dry	20	youn1235	kʰey22	kʰ e y 22	kʰ e j ²²	20-1	63
+288	Northern Pa-Hng	dry	20	pahn1237	qʰei22	qʰ e i 22	qʰ e i ²²	20-1	63
+289	Southern Pa-Hng	dry	20	pahn1237	qʰe31	qʰ e 31	qʰ e ³¹	20-1	63
+290	Hm-Nai	dry	20	wuna1248	qʰe13	qʰ e 13	qʰ e ¹³	20-1	63
+291	Western Xiangxi	ear	21	nort2748	ʈoŋ2=mɹɯ2	ʈ o ŋ 2 = m ɹ ɯ 2	ʈ o ŋ ²/ + m ɹ ɯ ²/	21-1	66
+292	Eastern Xiangxi	ear	21	east2371	qu53=mi̯ɯ31	q u 53 = m i̯ ɯ 31	q u ⁵³ + m j ɯ ³¹	21-1	66
+293	Qiandong	ear	21	east2369	nɛ2	n ɛ 2	n ɛ ²/	21-1	66
+294	Chuanqiandian	ear	21	nort3244	c̢e2	c̢ e 2	tʂ e ²/	21-1	66
+295	Diandongbei	ear	21	larg1235	a5=mpǝ2	a 5 = m p ǝ 2	a ⁵/ + m p ǝ ²/	21-1	66
+296	Hmong Daw	ear	21	hmon1333	nǯe2	n ǯ e 2	n dʒ e ²/	21-1	66
+297	Hmong Njua	ear	21	hmon1264	ɲǯe5	ɲ ǯ e 5	ɲ dʒ e ⁵/	21-1	66
+298	Bunu	ear	21	buna1273	mpi̯e2	m p i̯ e 2	m p j e ²/	21-1	66
+299	Baonao	ear	21	buna1273	kǝ3=mpce2	k ǝ 3 = m p c e 2	k ǝ ³/ + m p ts e ²/	21-1	66
+300	Numao	ear	21	numa1251	mpi̯ey2	m p i̯ e y 2	m p j e j ²/	21-1	66
+301	Longhua Jiongnai	ear	21	jion1236	mpi̯a33	m p i̯ a 33	m p j a ³³	21-1	66
+302	Liuxiang Jiongnai	ear	21	jion1236	mpi̯a31	m p i̯ a 31	m p j a ³¹	21-1	66
+303	Xiaozhai Younuo	ear	21	youn1235	kǝ33=mi̯e13	k ǝ 33 = m i̯ e 13	k ǝ ³³ + m j e ¹³	21-1	66
+304	Huangluo Younuo	ear	21	youn1235	kǝ33=muy13	k ǝ 33 = m u y 13	k ǝ ³³ + m u j ¹³	21-1	66
+305	Northern Pa-Hng	ear	21	pahn1237	a33=kʰoŋ22=ni̯o33	a 33 = kʰ o ŋ 22 = n i̯ o 33	a ³³ + kʰ o ŋ ²² + n j o ³³	21-1	66
+306	Southern Pa-Hng	ear	21	pahn1237	a44=qʰõ31=mpɦi̯ɔ33	a 44 = qʰ õ 31 = m pɦ i̯ ɔ 33	a ⁴⁴ + qʰ õ ³¹ + m pʰ j ɔ ³³	21-1	66
+307	Hm-Nai	ear	21	wuna1248	qʰuŋ13=mpi̯au31	qʰ u ŋ 13 = m p i̯ au 31	qʰ u ŋ ¹³ + m p j a u ³¹	21-1	66
+308	Western Xiangxi	earth	22	nort2748	lu5	l u 5	l u ⁵/	22-1	67
+309	Eastern Xiangxi	earth	22	east2371	qu53=la11	q u 53 = l a 11	q u ⁵³ + l a ¹¹	22-1	67
+310	Qiandong	earth	22	east2369	ta1	t a 1	t a ¹/	22-2	68
+311	Chuanqiandian	earth	22	nort3244	lua2	l u a 2	l u a ²/	22-1	67
+312	Diandongbei	earth	22	larg1235	a5=la2	a 5 = l a 2	a ⁵/ + l a ²/	22-1	67
+313	Hmong Daw	earth	22	hmon1333	a3	a 3	a ³/	22-3	69
+314	Hmong Njua	earth	22	hmon1264	ʔaŋ2	ʔ a ŋ 2	ʔ a ŋ ²/	22-3	69
+315	Bunu	earth	22	buna1273	ka3=te1	k a 3 = t e 1	k a ³/ + t e ¹/	22-2	68
+316	Baonao	earth	22	buna1273	kǝ3=tei1	k ǝ 3 = t e i 1	k ǝ ³/ + t e i ¹/	22-2	68
+317	Numao	earth	22	numa1251	tɑ1	t ɑ 1	t ɑ ¹/	22-2	68
+318	Longhua Jiongnai	earth	22	jion1236	ta44	t a 44	t a ⁴⁴	22-2	68
+319	Liuxiang Jiongnai	earth	22	jion1236	ta44	t a 44	t a ⁴⁴	22-2	68
+320	Xiaozhai Younuo	earth	22	youn1235	kǝ33=tou33	k ǝ 33 = t o u 33	k ǝ ³³ + t o u ³³	22-2	68
+321	Huangluo Younuo	earth	22	youn1235	kǝ33=tou33	k ǝ 33 = t o u 33	k ǝ ³³ + t o u ³³	22-2	68
+322	Northern Pa-Hng	earth	22	pahn1237	qa22=lei33	q a 22 = l e i 33	q a ²² + l e i ³³	22-4	70
+323	Southern Pa-Hng	earth	22	pahn1237	qa31=lɦe33	q a 31 = lɦ e 33	q a ³¹ + lʱ e ³³	22-4	70
+324	Hm-Nai	earth	22	wuna1248	l̥ai13	l̥ a i 13	l̥ a i ¹³	22-4	70
+325	Western Xiangxi	eat	23	nort2748	noŋ2	n o ŋ 2	n o ŋ ²/	23-1	71
+326	Eastern Xiangxi	eat	23	east2371	naŋ31	n a ŋ 31	n a ŋ ³¹	23-1	71
+327	Qiandong	eat	23	east2369	noŋ2	n o ŋ 2	n o ŋ ²/	23-1	71
+328	Chuanqiandian	eat	23	nort3244	nao2	n a o 2	n a o ²/	23-1	71
+329	Diandongbei	eat	23	larg1235	na2	n a 2	n a ²/	23-1	71
+330	Hmong Daw	eat	23	hmon1333	nɔ2	n ɔ 2	n ɔ ²/	23-1	71
+331	Hmong Njua	eat	23	hmon1264	nao5	n a o 5	n a o ⁵/	23-1	71
+332	Bunu	eat	23	buna1273	nɔŋ2	n ɔ ŋ 2	n ɔ ŋ ²/	23-1	71
+333	Baonao	eat	23	buna1273	nɒ2	n ɒ 2	n ɒ ²/	23-1	71
+334	Numao	eat	23	numa1251	nou2	n o u 2	n o u ²/	23-1	71
+335	Longhua Jiongnai	eat	23	jion1236	naŋ33	n a ŋ 33	n a ŋ ³³	23-1	71
+336	Liuxiang Jiongnai	eat	23	jion1236	naŋ31	n a ŋ 31	n a ŋ ³¹	23-1	71
+337	Xiaozhai Younuo	eat	23	youn1235	naŋ13	n a ŋ 13	n a ŋ ¹³	23-1	71
+338	Huangluo Younuo	eat	23	youn1235	naŋ13	n a ŋ 13	n a ŋ ¹³	23-1	71
+339	Northern Pa-Hng	eat	23	pahn1237	naŋ33	n a ŋ 33	n a ŋ ³³	23-1	71
+340	Southern Pa-Hng	eat	23	pahn1237	nɦɔ33	nɦ ɔ 33	nʱ ɔ ³³	23-1	71
+341	Hm-Nai	eat	23	wuna1248	naŋ33	n a ŋ 33	n a ŋ ³³	23-1	71
+342	Western Xiangxi	egg	24	nort2748	nɯ6-qä1	n ɯ 6 - q ä 1	n ɯ ⁶/ + q æ ¹/	24-1	72
+343	Western Xiangxi	eye	25	nort2748	lɤ3=qe1	l ɤ 3 = q e 1	l ɤ ³/ + q e ¹/	25-1	73
+344	Eastern Xiangxi	eye	25	east2371	qʰa35=me11	qʰ a 35 = m e 11	qʰ a ³⁵ + m e ¹¹	25-2	74
+345	Qiandong	eye	25	east2369	mɛ6	m ɛ 6	m ɛ ⁶/	25-2	74
+346	Chuanqiandian	eye	25	nort3244	mua6	m u a 6	m u a ⁶/	25-2	74
+347	Diandongbei	eye	25	larg1235	a3=ma6	a 3 = m a 6	a ³/ + m a ⁶/	25-2	74
+348	Hmong Daw	eye	25	hmon1333	qʰɔ3=mu̯ǝ6	qʰ ɔ 3 = m u̯ ǝ 6	qʰ ɔ ³/ + m w ǝ ⁶/	25-2	74
+349	Hmong Njua	eye	25	hmon1264	qʰao2=mu̯a6	qʰ a o 2 = m u̯ a 6	qʰ a o ²/ + m w a ⁶/	25-2	74
+350	Bunu	eye	25	buna1273	kʰi3=mɔŋ6	kʰ i 3 = m ɔ ŋ 6	kʰ i ³/ + m ɔ ŋ ⁶/	25-2	74
+351	Baonao	eye	25	buna1273	laǝ1=kɒ3	l a ǝ 1 = k ɒ 3	l a ǝ ¹/ + k ɒ ³/	25-1	73
+352	Numao	eye	25	numa1251	moŋ6	m o ŋ 6	m o ŋ ⁶/	25-2	74
+353	Longhua Jiongnai	eye	25	jion1236	mɔ22-čen44	m ɔ 22 - č e n 44	m ɔ ²² + tʃ e n ⁴⁴	25-2	74
+354	Liuxiang Jiongnai	eye	25	jion1236	mu21-wɛ21	m u 21 - w ɛ 21	m u ²¹ + w ɛ ²¹	25-2	74
+355	Xiaozhai Younuo	eye	25	youn1235	kin53=mɔ31	k i n 53 = m ɔ 31	k i n ⁵³ + m ɔ ³¹	25-2	74
+356	Huangluo Younuo	eye	25	youn1235	ki53=mɔ22	k i 53 = m ɔ 22	k i ⁵³ + m ɔ ²²	25-2	74
+357	Northern Pa-Hng	eye	25	pahn1237	qoŋ55=mi44	q o ŋ 55 = m i 44	q o ŋ ⁵⁵ + m i ⁴⁴	25-2	74
+358	Southern Pa-Hng	eye	25	pahn1237	a44=qõ55=mɦı44	a 44 = q õ 55 = mɦ ı 44	a ⁴⁴ + q õ ⁵⁵ + mʱ i ⁴⁴	25-2	74
+359	Hm-Nai	eye	25	wuna1248	naŋ35=me31	n a ŋ 35 = m e 31	n a ŋ ³⁵ + m e ³¹	25-2	74
+1419	Western Xiangxi	far	101	nort2748	qɯ1	q ɯ 1	q ɯ ¹/	101-1	10
+1420	Eastern Xiangxi	far	101	east2371	qu53	q u 53	q u ⁵³	101-1	10
+1421	Qiandong	far	101	east2369	to4	t o 4	t o ⁴/	101-2	11
+1422	Chuanqiandian	far	101	nort3244	tle1	t l e 1	t l e ¹/	101-1	10
+1423	Diandongbei	far	101	larg1235	ƛi1	ƛ i 1	tɬ i ¹/	101-1	10
+1424	Hmong Daw	far	101	hmon1333	ʼde1	ʼd e 1	ˀd e ¹/	101-1	10
+1425	Hmong Njua	far	101	hmon1264	ƛe1	ƛ e 1	tɬ e ¹/	101-1	10
+1426	Bunu	far	101	buna1273	kwe1	kw e 1	k w e ¹/	101-1	10
+1427	Baonao	far	101	buna1273	kwey1	kw e y 1	k w e j ¹/	101-1	10
+1428	Numao	far	101	numa1251	kuɑ1 ~ ʔpɑ1	ʔ p ɑ 1	ʔ p ɑ ¹/	101-1	10
+1429	Longhua Jiongnai	far	101	jion1236	kwa44	kw a 44	k w a ⁴⁴	101-1	10
+1430	Liuxiang Jiongnai	far	101	jion1236	kwa44	kw a 44	k w a ⁴⁴	101-1	10
+1431	Xiaozhai Younuo	far	101	youn1235	ki̯e33	k i̯ e 33	k j e ³³	101-1	10
+1432	Huangluo Younuo	far	101	youn1235	ki̯u33	k i̯ u 33	k j u ³³	101-1	10
+1433	Northern Pa-Hng	far	101	pahn1237	ko35	k o 35	k o ³⁵	101-1	10
+1434	Southern Pa-Hng	far	101	pahn1237	ko35	k o 35	k o ³⁵	101-1	10
+1435	Hm-Nai	far	101	wuna1248	ko35	k o 35	k o ³⁵	101-1	10
+360	Eastern Xiangxi	fat n.	26	east2371	sɛ53	s ɛ 53	s ɛ ⁵³	26-1	75
+361	Hmong Daw	fat n.	26	hmon1333	ʈɔ2	ʈ ɔ 2	ʈ ɔ ²/	26-2	76
+362	Hmong Njua	fat n.	26	hmon1264	ao5	 a o 5	a o ⁵/	26-2	76
+363	Northern Pa-Hng	fat n.	26	pahn1237	you33	y o u 33	j o u ³³	26-3	77
+364	Southern Pa-Hng	fat n.	26	pahn1237	ɔ̃35=yɦɤ33	ɔ̃ 35 = yɦ ɤ 33	ɔ̃ ³⁵ + jʱ ɤ ³³	26-3	77
+365	Hm-Nai	fat n.	26	wuna1248	you33	y o u 33	j o u ³³	26-3	77
+366	Western Xiangxi	feather	27	nort2748	qo1=pi1-qo1-pi3	q o 1 = p i 1 - q o 1 - p i 3	q o ¹/ + p i ¹/ + q o ¹/ + p i ³/	27-1	78
+367	Qiandong	feather	27	east2369	ɬiu1-nǝu6	ɬ i u 1 - n ǝ u 6	ɬ i u ¹/ + n ǝ u ⁶/	27-1	78
+368	Hmong Daw	feather	27	hmon1333	plɔw1	p l ɔ w 1	p l ɔ w ¹/	27-1	78
+369	Hmong Njua	feather	27	hmon1264	plau1	p l au 1	p l a u ¹/	27-1	78
+370	Longhua Jiongnai	feather	27	jion1236	ple44	p l e 44	p l e ⁴⁴	27-1	78
+371	Liuxiang Jiongnai	feather	27	jion1236	pley44	p l e y 44	p l e j ⁴⁴	27-1	78
+372	Northern Pa-Hng	feather	27	pahn1237	ti35	t i 35	t i ³⁵	27-1	78
+373	Southern Pa-Hng	feather	27	pahn1237	pi35	p i 35	p i ³⁵	27-1	78
+374	Hm-Nai	feather	27	wuna1248	pi35	p i 35	p i ³⁵	27-1	78
+375	Western Xiangxi	fire	28	nort2748	pi3=tɤ4	p i 3 = t ɤ 4	p i ³/ + t ɤ ⁴/	28-1	79
+376	Eastern Xiangxi	fire	28	east2371	ʎɔ31=da35	ʎ ɔ 31 = d a 35	ʎ ɔ ³¹ + d a ³⁵	28-1	79
+377	Qiandong	fire	28	east2369	tu4	t u 4	t u ⁴/	28-1	79
+378	Chuanqiandian	fire	28	nort3244	deu4	d e u 4	d e u ⁴/	28-1	79
+379	Diandongbei	fire	28	larg1235	toey4	t o e y 4	t o e j ⁴/	28-1	79
+380	Hmong Daw	fire	28	hmon1333	l̥u̯ǝ3=tǝw5	l̥ u̯ ǝ 3 = t ǝ w 5	l̥ w ǝ ³/ + t ǝ w ⁵/	28-1	79
+381	Hmong Njua	fire	28	hmon1264	taʉ6	t a ʉ 6	t a ʉ ⁶/	28-1	79
+382	Bunu	fire	28	buna1273	to4	t o 4	t o ⁴/	28-1	79
+383	Baonao	fire	28	buna1273	tiu4	t i u 4	t i u ⁴/	28-1	79
+384	Numao	fire	28	numa1251	to4	t o 4	t o ⁴/	28-1	79
+385	Longhua Jiongnai	fire	28	jion1236	tau31	t au 31	t a u ³¹	28-1	79
+386	Liuxiang Jiongnai	fire	28	jion1236	tɔ53	t ɔ 53	t ɔ ⁵³	28-1	79
+387	Xiaozhai Younuo	fire	28	youn1235	to22	t o 22	t o ²²	28-1	79
+388	Huangluo Younuo	fire	28	youn1235	tou22	t o u 22	t o u ²²	28-1	79
+389	Northern Pa-Hng	fire	28	pahn1237	qa22=tou22	q a 22 = t o u 22	q a ²² + t o u ²²	28-1	79
+390	Southern Pa-Hng	fire	28	pahn1237	a44=tɦɤ31	a 44 = tɦ ɤ 31	a ⁴⁴ + tʰ ɤ ³¹	28-1	79
+391	Hm-Nai	fire	28	wuna1248	tou22	t o u 22	t o u ²²	28-1	79
+392	Western Xiangxi	fish	29	nort2748	ta1=mɹɯ4	t a 1 = m ɹ ɯ 4	t a ¹/ + m ɹ ɯ ⁴/	29-1	80
+393	Eastern Xiangxi	fish	29	east2371	myɯ33	m y ɯ 33	m j ɯ ³³	29-1	80
+394	Qiandong	fish	29	east2369	nǝu8	n ǝ u 8	n ǝ u ⁸/	29-1	80
+395	Chuanqiandian	fish	29	nort3244	ɳᶚe4	ɳ ᶚ e 4	ɳ ɖʐ e ⁴/	29-1	80
+396	Diandongbei	fish	29	larg1235	mpǝ4	m p ǝ 4	m p ǝ ⁴/	29-1	80
+397	Hmong Daw	fish	29	hmon1333	nǯe5	n ǯ e 5	n dʒ e ⁵/	29-1	80
+398	Hmong Njua	fish	29	hmon1264	ɲ̌ǯe6	ɲ̌ ǯ e 6	ɲ̌ dʒ e ⁶/	29-1	80
+399	Bunu	fish	29	buna1273	mpi̯e4	m p i̯ e 4	m p j e ⁴/	29-1	80
+400	Baonao	fish	29	buna1273	mpci4	m p c i 4	m p ts i ⁴/	29-1	80
+401	Numao	fish	29	numa1251	mpi̯ey4	m p i̯ e y 4	m p j e j ⁴/	29-1	80
+402	Longhua Jiongnai	fish	29	jion1236	mpi̯a31	m p i̯ a 31	m p j a ³¹	29-1	80
+403	Liuxiang Jiongnai	fish	29	jion1236	mpi̯a53	m p i̯ a 53	m p j a ⁵³	29-1	80
+404	Xiaozhai Younuo	fish	29	youn1235	mi̯e22	m i̯ e 22	m j e ²²	29-1	80
+405	Huangluo Younuo	fish	29	youn1235	muy22	m u y 22	m u j ²²	29-1	80
+406	Northern Pa-Hng	fish	29	pahn1237	ni̯o22	n i̯ o 22	n j o ²²	29-1	80
+407	Southern Pa-Hng	fish	29	pahn1237	ŋ̮31=mpɦi̯o31	ŋ̮ 31 = m pɦ i̯ o 31	ŋ̮ ³¹ + m pʰ j o ³¹	29-1	80
+408	Hm-Nai	fish	29	wuna1248	mpi̯o22	m p i̯ o 22	m p j o ²²	29-1	80
+409	Western Xiangxi	fly v.	30	nort2748	ʑen5	ʑ e n 5	ʑ e n ⁵/	30-1	85
+410	Eastern Xiangxi	fly v.	30	east2371	ɛ31	ɛ 31	ɛ ³¹	30-1	85
+411	Qiandong	fly v.	30	east2369	ʑaŋ5	ʑ a ŋ 5	ʑ a ŋ ⁵/	30-1	85
+412	Chuanqiandian	fly v.	30	nort3244	ʑaŋ5	ʑ a ŋ 5	ʑ a ŋ ⁵/	30-1	85
+413	Diandongbei	fly v.	30	larg1235	ʑaɯ5	ʑ a ɯ 5	ʑ a ɯ ⁵/	30-1	85
+414	Hmong Njua	fly v.	30	hmon1264	yaŋ3	y a ŋ 3	j a ŋ ³/	30-1	85
+415	Bunu	fly v.	30	buna1273	ʑǝŋ5	ʑ ǝ ŋ 5	ʑ ǝ ŋ ⁵/	30-1	85
+416	Baonao	fly v.	30	buna1273	yey5	y e y 5	j e j ⁵/	30-1	85
+417	Numao	fly v.	30	numa1251	jɑn5	j ɑ n 5	j ɑ n ⁵/	30-1	85
+418	Longhua Jiongnai	fly v.	30	jion1236	ʑi35	ʑ i 35	ʑ i ³⁵	30-1	85
+419	Liuxiang Jiongnai	fly v.	30	jion1236	ʑi22	ʑ i 22	ʑ i ²²	30-1	85
+420	Xiaozhai Younuo	fly v.	30	youn1235	ɲi35	ɲ i 35	ɲ i ³⁵	30-1	85
+421	Huangluo Younuo	fly v.	30	youn1235	ɲi53	ɲ i 53	ɲ i ⁵³	30-1	85
+422	Northern Pa-Hng	fly v.	30	pahn1237	yei55	y e i 55	j e i ⁵⁵	30-1	85
+423	Southern Pa-Hng	fly v.	30	pahn1237	yı55	y ı 55	j i ⁵⁵	30-1	85
+424	Hm-Nai	fly v.	30	wuna1248	yei55	y e i 55	j e i ⁵⁵	30-1	85
+425	Western Xiangxi	foot	31	nort2748	qo1=l̥ɔ1	q o 1 = l̥ ɔ 1	q o ¹/ + l̥ ɔ ¹/	31-1	86
+426	Eastern Xiangxi	foot	31	east2371	qu53=ta33	q u 53 = t a 33	q u ⁵³ + t a ³³	31-2	87
+427	Qiandong	foot	31	east2369	lo1	l o 1	l o ¹/	31-1	86
+428	Chuanqiandian	foot	31	nort3244	teu44	t e u 44	t e u ⁴⁴	31-2	87
+429	Diandongbei	foot	31	larg1235	toey5	t o e y 5	t o e j ⁵/	31-2	87
+430	Hmong Daw	foot	31	hmon1333	kɔ4=tǝw4	k ɔ 4 = t ǝ w 4	k ɔ ⁴/ + t ǝ w ⁴/	31-2	87
+431	Western Xiangxi	full	32	nort2748	pe3	p e 3	p e ³/	32-1	88
+432	Eastern Xiangxi	full	32	east2371	pe55	p e 55	p e ⁵⁵	32-1	88
+433	Qiandong	full	32	east2369	pɛ3	p ɛ 3	p ɛ ³/	32-1	88
+434	Chuanqiandian	full	32	nort3244	po3	p o 3	p o ³/	32-1	88
+435	Diandongbei	full	32	larg1235	pu3	p u 3	p u ³/	32-1	88
+436	Hmong Daw	full	32	hmon1333	pu3	p u 3	p u ³/	32-1	88
+437	Hmong Njua	full	32	hmon1264	pu2	p u 2	p u ²/	32-1	88
+438	Bunu	full	32	buna1273	puŋ3	p u ŋ 3	p u ŋ ³/	32-1	88
+439	Baonao	full	32	buna1273	lay6	l a y 6	l a j ⁶/	32-2	89
+440	Numao	full	32	numa1251	puŋ3	p u ŋ 3	p u ŋ ³/	32-1	88
+441	Longhua Jiongnai	full	32	jion1236	paŋ53	p a ŋ 53	p a ŋ ⁵³	32-1	88
+442	Liuxiang Jiongnai	full	32	jion1236	pã35	p ã 35	p ã ³⁵	32-1	88
+443	Xiaozhai Younuo	full	32	youn1235	puŋ22	p u ŋ 22	p u ŋ ²²	32-1	88
+444	Huangluo Younuo	full	32	youn1235	pou22	p o u 22	p o u ²²	32-1	88
+445	Northern Pa-Hng	full	32	pahn1237	paŋ22	p a ŋ 22	p a ŋ ²²	32-1	88
+446	Southern Pa-Hng	full	32	pahn1237	pɔ̃31	p ɔ̃ 31	p ɔ̃ ³¹	32-1	88
+447	Hm-Nai	full	32	wuna1248	paŋ13	p a ŋ 13	p a ŋ ¹³	32-1	88
+448	Western Xiangxi	give	33	nort2748	kaŋ6	k a ŋ 6	k a ŋ ⁶/	33-1	90
+449	Eastern Xiangxi	give	33	east2371	gɯ31	g ɯ 31	g ɯ ³¹	33-1	90
+450	Qiandong	give	33	east2369	pɛ1	p ɛ 1	p ɛ ¹/	33-2	91
+451	Chuanqiandian	give	33	nort3244	saŋ5	s a ŋ 5	s a ŋ ⁵/	33-3	92
+452	Diandongbei	give	33	larg1235	saɯ5-tʰao5	s a ɯ 5 - tʰ a o 5	s a ɯ ⁵/ + tʰ a o ⁵/	33-3	92
+453	Hmong Daw	give	33	hmon1333	pu1	p u 1	p u ¹/	33-2	91
+454	Hmong Njua	give	33	hmon1264	pu1	p u 1	p u ¹/	33-2	91
+455	Xiaozhai Younuo	give	33	youn1235	haŋ33	h a ŋ 33	h a ŋ ³³	33-4	93
+456	Huangluo Younuo	give	33	youn1235	haŋ33	h a ŋ 33	h a ŋ ³³	33-4	93
+457	Northern Pa-Hng	give	33	pahn1237	ɕu44	ɕ u 44	tɕ u ⁴⁴	33-5	94
+458	Southern Pa-Hng	give	33	pahn1237	ɕɦʉ44	ɕɦ ʉ 44	tɕʰ ʉ ⁴⁴	33-5	94
+459	Hm-Nai	give	33	wuna1248	kuŋ31	k u ŋ 31	k u ŋ ³¹	33-1	90
+460	Western Xiangxi	good	34	nort2748	ʐu5	ʐ u 5	ʐ u ⁵/	34-1	95
+461	Eastern Xiangxi	good	34	east2371	ʋ31	ʋ 31	ʋ ³¹	34-1	95
+462	Qiandong	good	34	east2369	ɣu5	ɣ u 5	ɣ u ⁵/	34-1	95
+463	Chuanqiandian	good	34	nort3244	ʐoŋ5	ʐ o ŋ 5	ʐ o ŋ ⁵/	34-1	95
+464	Diandongbei	good	34	larg1235	zao5	z a o 5	z a o ⁵/	34-1	95
+465	Hmong Daw	good	34	hmon1333	žõ4	ž õ 4	ʒ õ ⁴/	34-1	95
+466	Hmong Njua	good	34	hmon1264	žoŋ3	ž o ŋ 3	ʒ o ŋ ³/	34-1	95
+467	Bunu	good	34	buna1273	ɣaŋ5	ɣ a ŋ 5	ɣ a ŋ ⁵/	34-1	95
+468	Baonao	good	34	buna1273	ɣɔŋ5	ɣ ɔ ŋ 5	ɣ ɔ ŋ ⁵/	34-1	95
+469	Numao	good	34	numa1251	ɣou5	ɣ o u 5	ɣ o u ⁵/	34-1	95
+470	Longhua Jiongnai	good	34	jion1236	ŋɔuŋ35	ŋ ɔ u ŋ 35	ŋ ɔ u ŋ ³⁵	34-1	95
+471	Liuxiang Jiongnai	good	34	jion1236	ŋɔ22	ŋ ɔ 22	ŋ ɔ ²²	34-1	95
+472	Xiaozhai Younuo	good	34	youn1235	ŋ̩35	ŋ̩ 35	ŋ̩ ³⁵	34-1	95
+473	Huangluo Younuo	good	34	youn1235	ŋ̩53	ŋ̩ 53	ŋ̩ ⁵³	34-1	95
+474	Northern Pa-Hng	good	34	pahn1237	nɛ44	n ɛ 44	n ɛ ⁴⁴	34-2	96
+475	Southern Pa-Hng	good	34	pahn1237	ntɦɛ44	n tɦ ɛ 44	n tʰ ɛ ⁴⁴	34-2	96
+476	Hm-Nai	good	34	wuna1248	yaŋ55	y a ŋ 55	j a ŋ ⁵⁵	34-1	95
+477	Western Xiangxi	green	35	nort2748	li̯o4	l i̯ o 4	l j o ⁴/	35--1	97
+478	Eastern Xiangxi	green	35	east2371	ʎɔ35	ʎ ɔ 35	ʎ ɔ ³⁵	35--1	97
+479	Qiandong	green	35	east2369	niu4	n i u 4	n i u ⁴/	35-1	98
+480	Chuanqiandian	green	35	nort3244	nc̢ua1	n c̢ u a 1	n tʂ u a ¹/	35-1	98
+481	Diandongbei	green	35	larg1235	nca1	n c a 1	n ts a ¹/	35-1	98
+482	Hmong Daw	green	35	hmon1333	nǯu̯ǝ1	n ǯ u̯ ǝ 1	n dʒ w ǝ ¹/	35-1	98
+483	Hmong Njua	green	35	hmon1264	ɲǯu̯a1	ɲ ǯ u̯ a 1	ɲ dʒ w a ¹/	35-1	98
+484	Bunu	green	35	buna1273	mpi̯u2	m p i̯ u 2	m p j u ²/	35-1	98
+485	Baonao	green	35	buna1273	mpcau2	m p c au 2	m p ts a u ²/	35-1	98
+486	Numao	green	35	numa1251	mpi̯ɤ2	m p i̯ ɤ 2	m p j ɤ ²/	35-1	98
+487	Longhua Jiongnai	green	35	jion1236	mpʰɔ44	m pʰ ɔ 44	m pʰ ɔ ⁴⁴	35-1	98
+488	Liuxiang Jiongnai	green	35	jion1236	wo21-hu43	w o 21 - h u 43	w o ²¹ + h u ⁴³	35-2	99
+489	Xiaozhai Younuo	green	35	youn1235	li̯e31	l i̯ e 31	l j e ³¹	35--1	97
+490	Huangluo Younuo	green	35	youn1235	li̯u31	l i̯ u 31	l j u ³¹	35--1	97
+491	Northern Pa-Hng	green	35	pahn1237	ni̯o35	n i̯ o 35	n j o ³⁵	35-1	98
+492	Southern Pa-Hng	green	35	pahn1237	mpi̯o35	m p i̯ o 35	m p j o ³⁵	35-1	98
+493	Hm-Nai	green	35	wuna1248	mpi̯o35	m p i̯ o 35	m p j o ³⁵	35-1	98
+494	Western Xiangxi	hair	36	nort2748	pi1	p i 1	p i ¹/	36-1	100
+495	Eastern Xiangxi	hair	36	east2371	ɭa31=pɹei55=pɹei53	ɭ a 31 = p ɹ e i 55 = p ɹ e i 53	ɭ a ³¹ + p ɹ e i ⁵⁵ + p ɹ e i ⁵³	36-1	100
+496	Qiandong	hair	36	east2369	ɬiu1-fʰu3	ɬ i u 1 - fʰ u 3	ɬ i u ¹/ + fʰ u ³/	36-1	100
+497	Chuanqiandian	hair	36	nort3244	plǝu1-hǝu5	p l ǝ u 1 - h ǝ u 5	p l ǝ u ¹/ + h ǝ u ⁵/	36-1	100
+498	Diandongbei	hair	36	larg1235	ƛao1-fao5	ƛ a o 1 - f a o 5	tɬ a o ¹/ + f a o ⁵/	36-1	100
+499	Hmong Daw	hair	36	hmon1333	plɔw1-hɔw4	p l ɔ w 1 - h ɔ w 4	p l ɔ w ¹/ + h ɔ w ⁴/	36-1	100
+500	Hmong Njua	hair	36	hmon1264	plau1-hau3	p l au 1 - h au 3	p l a u ¹/ + h a u ³/	36-1	100
+501	Bunu	hair	36	buna1273	ƛa1-fa3	ƛ a 1 - f a 3	tɬ a ¹/ + f a ³/	36-1	100
+502	Baonao	hair	36	buna1273	ƛi̯a1-vɦi̯a3	ƛ i̯ a 1 - vɦ i̯ a 3	tɬ j a ¹/ + vʱ j a ³/	36-1	100
+503	Numao	hair	36	numa1251	ƛi̯u1-kʰɑn1	ƛ i̯ u 1 - kʰ ɑ n 1	tɬ j u ¹/ + kʰ ɑ n ¹/	36-1	100
+504	Longhua Jiongnai	hair	36	jion1236	ŋkau53=ple44	ŋ k au 53 = p l e 44	ŋ k a u ⁵³ + p l e ⁴⁴	36-1	100
+505	Liuxiang Jiongnai	hair	36	jion1236	ŋkɔ35=pley44	ŋ k ɔ 35 = p l e y 44	ŋ k ɔ ³⁵ + p l e j ⁴⁴	36-1	100
+506	Xiaozhai Younuo	hair	36	youn1235	ha31=pi̯a33	h a 31 = p i̯ a 33	h a ³¹ + p j a ³³	36-1	100
+507	Huangluo Younuo	hair	36	youn1235	ha22=pi̯a33	h a 22 = p i̯ a 33	h a ²² + p j a ³³	36-1	100
+508	Northern Pa-Hng	hair	36	pahn1237	ti35	t i 35	t i ³⁵	36-1	100
+509	Southern Pa-Hng	hair	36	pahn1237	pi35	p i 35	p i ³⁵	36-1	100
+510	Hm-Nai	hair	36	wuna1248	pi35	p i 35	p i ³⁵	36-1	100
+511	Western Xiangxi	hand	37	nort2748	qo1=tɯ4	q o 1 = t ɯ 4	q o ¹/ + t ɯ ⁴/	37-1	101
+512	Eastern Xiangxi	hand	37	east2371	qu53=bʋ55	q u 53 = b ʋ 55	q u ⁵³ + b ʋ ⁵⁵	37-2	102
+513	Qiandong	hand	37	east2369	pi4	p i 4	p i ⁴/	37-1	101
+514	Chuanqiandian	hand	37	nort3244	dʰe4	dʰ e 4	dʱ e ⁴/	37-1	101
+515	Diandongbei	hand	37	larg1235	ti4	t i 4	t i ⁴/	37-1	101
+516	Hmong Daw	hand	37	hmon1333	te5	t e 5	t e ⁵/	37-1	101
+517	Hmong Njua	hand	37	hmon1264	te6	t e 6	t e ⁶/	37-1	101
+518	Bunu	hand	37	buna1273	pe4	p e 4	p e ⁴/	37-1	101
+519	Baonao	hand	37	buna1273	pey4	p e y 4	p e j ⁴/	37-1	101
+520	Numao	hand	37	numa1251	pɑ4	p ɑ 4	p ɑ ⁴/	37-1	101
+521	Longhua Jiongnai	hand	37	jion1236	ča31	č a 31	tʃ a ³¹	37-1	101
+522	Liuxiang Jiongnai	hand	37	jion1236	ča53	č a 53	tʃ a ⁵³	37-1	101
+523	Xiaozhai Younuo	hand	37	youn1235	tʰou22	tʰ o u 22	tʰ o u ²²	37-1	101
+524	Huangluo Younuo	hand	37	youn1235	tʰou22	tʰ o u 22	tʰ o u ²²	37-1	101
+525	Northern Pa-Hng	hand	37	pahn1237	qa44=pʋ22	q a 44 = p ʋ 22	q a ⁴⁴ + p ʋ ²²	37-1	101
+526	Southern Pa-Hng	hand	37	pahn1237	tɦɤ33=pɦʉ31	tɦ ɤ 33 = pɦ ʉ 31	tʰ ɤ ³³ + pʰ ʉ ³¹	37-1	101
+527	Hm-Nai	hand	37	wuna1248	pu22	p u 22	p u ²²	37-1	101
+528	Western Xiangxi	head	38	nort2748	ko3=pɹei3	k o 3 = p ɹ e i 3	k o ³/ + p ɹ e i ³/	38-1	103
+529	Eastern Xiangxi	head	38	east2371	ɭa31=pɹei55	ɭ a 31 = p ɹ e i 55	ɭ a ³¹ + p ɹ e i ⁵⁵	38-1	103
+530	Qiandong	head	38	east2369	qʰo1	qʰ o 1	qʰ o ¹/	38-2	104
+531	Chuanqiandian	head	38	nort3244	hǝu5	h ǝ u 5	h ǝ u ⁵/	38-1	103
+532	Diandongbei	head	38	larg1235	fao3	f a o 3	f a o ³/	38-1	103
+533	Hmong Daw	head	38	hmon1333	tɔw1=hɔw4	t ɔ w 1 =h ɔ w 4	t ɔ w ¹/ → h ɔ w ⁴/	38-1	103
+534	Hmong Njua	head	38	hmon1264	tau1=hau3	t au 1 =h au 3	t a u ¹/ → h a u ³/	38-1	103
+535	Bunu	head	38	buna1273	fa3	f a 3	f a ³/	38-1	103
+536	Baonao	head	38	buna1273	vɦi̯a3	vɦ i̯ a 3	vʱ j a ³/	38-1	103
+537	Numao	head	38	numa1251	kʰɑn1	kʰ ɑ n 1	kʰ ɑ n ¹/	38-3	105
+538	Longhua Jiongnai	head	38	jion1236	ŋkau53	ŋ k au 53	ŋ k a u ⁵³	38-2	104
+539	Liuxiang Jiongnai	head	38	jion1236	ŋkɔ35	ŋ k ɔ 35	ŋ k ɔ ³⁵	38-2	104
+540	Xiaozhai Younuo	head	38	youn1235	ha31=kʰɔ53	h a 31 = kʰ ɔ 53	h a ³¹ + kʰ ɔ ⁵³	38-2	104
+541	Huangluo Younuo	head	38	youn1235	ha22=kʰɔ53	h a 22 = kʰ ɔ 53	h a ²² + kʰ ɔ ⁵³	38-2	104
+542	Northern Pa-Hng	head	38	pahn1237	a33=toŋ33=ti22	a 33 = t o ŋ 33 = t i 22	a ³³ + t o ŋ ³³ + t i ²²	38-1	103
+543	Southern Pa-Hng	head	38	pahn1237	a44=ɕʉ55=pi31	a 44 =ɕ ʉ 55 = p i 31	a ⁴⁴ + tɕ ʉ ⁵⁵ + p i ³¹	38-1	103
+544	Hm-Nai	head	38	wuna1248	naŋ35=ci13	n a ŋ 35 = c i 13	n a ŋ ³⁵ + ts i ¹³	38-1	103
+545	Western Xiangxi	hear	39	nort2748	toŋ5	t o ŋ 5	t o ŋ ⁵/	39-1	106
+546	Eastern Xiangxi	hear	39	east2371	tʰɤ53	tʰ ɤ 53	tʰ ɤ ⁵³	39-1	106
+547	Qiandong	hear	39	east2369	coŋ1-nɛ2	c o ŋ 1 - n ɛ 2	ts o ŋ ¹/ + n ɛ ²/	39-2	107
+548	Chuanqiandian	hear	39	nort3244	noŋ6	n o ŋ 6	n o ŋ ⁶/	39-3	108
+549	Diandongbei	hear	39	larg1235	nao6	n a o 6	n a o ⁶/	39-3	108
+550	Hmong Daw	hear	39	hmon1333	n̥ɔ3	n̥ ɔ 3	n̥ ɔ ³/	39-3	108
+551	Hmong Njua	hear	39	hmon1264	nao2	n a o 2	n a o ²/	39-3	108
+552	Bunu	hear	39	buna1273	ɕǝŋ5	ɕ ǝ ŋ 5	tɕ ǝ ŋ ⁵/	39-4	109
+553	Baonao	hear	39	buna1273	n̥i̯a3	n̥ i̯ a 3	n̥ j a ³/	39-3	108
+554	Numao	hear	39	numa1251	n̥ey3	n̥ e y 3	n̥ e j ³/	39-3	108
+555	Longhua Jiongnai	hear	39	jion1236	n̥aŋ53	n̥ a ŋ 53	n̥ a ŋ ⁵³	39-3	108
+556	Liuxiang Jiongnai	hear	39	jion1236	n̥aŋ35	n̥ a ŋ 35	n̥ a ŋ ³⁵	39-3	108
+557	Xiaozhai Younuo	hear	39	youn1235	ɲuy35	ɲ u y 35	ɲ u j ³⁵	39-3	108
+558	Huangluo Younuo	hear	39	youn1235	ɲuy53	ɲ u y 53	ɲ u j ⁵³	39-3	108
+559	Northern Pa-Hng	hear	39	pahn1237	n̥oŋ22	n̥ o ŋ 22	n̥ o ŋ ²²	39-3	108
+560	Southern Pa-Hng	hear	39	pahn1237	n̥õ31	n̥ õ 31	n̥ õ ³¹	39-3	108
+561	Hm-Nai	hear	39	wuna1248	ma55	m a 55	m a ⁵⁵	39-5	110
+562	Western Xiangxi	heart	40	nort2748	qo1=moŋ2	q o 1 = m o ŋ 2	q o ¹/ + m o ŋ ²/	40-1	118
+563	Eastern Xiangxi	heart	40	east2371	sen53-caŋ31	s e n 53 - c a ŋ 31	s e n ⁵³ + ts a ŋ ³¹	40--1	117
+564	Qiandong	heart	40	east2369	ɬiu3	ɬ i u 3	ɬ i u ³/	40-2	119
+565	Chuanqiandian	heart	40	nort3244	ʂa43=ɳc̢u7	ʂ a 43 = ɳ c̢ u 7	ʂ a ⁴³ + ɳ tʂ u ⁷/	40-3	120
+566	Diandongbei	heart	40	larg1235	ƛoey3	ƛ o e y 3	tɬ o e j ³/	40-2	119
+567	Hmong Daw	heart	40	hmon1333	plǝw3	p l ǝ w 3	p l ǝ w ³/	40-2	119
+568	Hmong Njua	heart	40	hmon1264	plaʉ2	p l a ʉ 2	p l a ʉ ²/	40-2	119
+569	Bunu	heart	40	buna1273	pi3=so1	p i 3 =s o 1	p i ³/ + s o ¹/	40-4	121
+570	Baonao	heart	40	buna1273	ƛou3	ƛ o u 3	tɬ o u ³/	40-2	119
+571	Numao	heart	40	numa1251	ɲ̥uŋ3	ɲ̥ u ŋ 3	ɲ̥ u ŋ ³/	40-5	122
+572	Longhua Jiongnai	heart	40	jion1236	pa22=ʑɔuŋ33	p a 22 =ʑ ɔ u ŋ 33	p a ²² → ʑ ɔ u ŋ ³³	40-6	123
+573	Liuxiang Jiongnai	heart	40	jion1236	pa21=ʑaŋ31	p a 21 =ʑ a ŋ 31	p a ²¹ → ʑ a ŋ ³¹	40-6	123
+574	Xiaozhai Younuo	heart	40	youn1235	fɔ22=sǝn33=l̥in33	f ɔ 22 =s ǝ n 33 = l̥ i n 33	f ɔ ²² + s ǝ n ³³ + l̥ i n ³³	40-7	124
+575	Huangluo Younuo	heart	40	youn1235	l̥in33	l̥ i n 33	l̥ i n ³³	40-7	124
+576	Northern Pa-Hng	heart	40	pahn1237	a33=noŋ35	a 33 = n o ŋ 35	a ³³ + n o ŋ ³⁵	40-5	122
+577	Southern Pa-Hng	heart	40	pahn1237	a44=ɕɔ̃53	a 44 =ɕ ɔ̃ 53	a ⁴⁴ + tɕ ɔ̃ ⁵³	40-8	125
+578	Hm-Nai	heart	40	wuna1248	naŋ35=ɕuŋ53	n a ŋ 35 =ɕ u ŋ 53	n a ŋ ³⁵ + tɕ u ŋ ⁵³	40-8	125
+1436	Western Xiangxi	heavy	102	nort2748	xen3	x e n 3	x e n ³/	102-1	12
+1437	Eastern Xiangxi	heavy	102	east2371	ɲ̥ʰe55	ɲ̥ʰ e 55	ɲ̥ʰ e ⁵⁵	102-1	12
+1438	Qiandong	heavy	102	east2369	n̥ʰioŋ3	n̥ʰ i o ŋ 3	n̥ʰ i o ŋ ³/	102-1	12
+1439	Chuanqiandian	heavy	102	nort3244	ɲaŋ3	ɲ a ŋ 3	ɲ a ŋ ³/	102-1	12
+1440	Diandongbei	heavy	102	larg1235	n̥iaɯ3	n̥ i a ɯ 3	n̥ i a ɯ ³/	102-1	12
+1441	Hmong Daw	heavy	102	hmon1333	ɲ̥a3	ɲ̥ a 3	ɲ̥ a ³/	102-1	12
+1442	Hmong Njua	heavy	102	hmon1264	ɲaŋ2	ɲ a ŋ 2	ɲ a ŋ ²/	102-1	12
+1443	Bunu	heavy	102	buna1273	ɲ̥ɔŋ3	ɲ̥ ɔ ŋ 3	ɲ̥ ɔ ŋ ³/	102-1	12
+579	Western Xiangxi	horn	41	nort2748	qo1=ki̯e1	q o 1 = k i̯ e 1	q o ¹/ + k j e ¹/	41-1	126
+597	Western Xiangxi	kill	43	nort2748	ta5	t a 5	t a ⁵/	43-1	130
+598	Eastern Xiangxi	kill	43	east2371	ta31	t a 31	t a ³¹	43-1	130
+599	Qiandong	kill	43	east2369	ta5	t a 5	t a ⁵/	43-1	130
+600	Chuanqiandian	kill	43	nort3244	tua5	t u a 5	t u a ⁵/	43-1	130
+601	Diandongbei	kill	43	larg1235	ta5	t a 5	t a ⁵/	43-1	130
+602	Hmong Daw	kill	43	hmon1333	tu̯ǝ4	t u̯ ǝ 4	t w ǝ ⁴/	43-1	130
+603	Hmong Njua	kill	43	hmon1264	tu̯a3	t u̯ a 3	t w a ³/	43-1	130
+604	Bunu	kill	43	buna1273	tɔ5	t ɔ 5	t ɔ ⁵/	43-1	130
+605	Baonao	kill	43	buna1273	tu5	t u 5	t u ⁵/	43-1	130
+606	Numao	kill	43	numa1251	puŋ6	p u ŋ 6	p u ŋ ⁶/	43-2	131
+607	Longhua Jiongnai	kill	43	jion1236	ta35	t a 35	t a ³⁵	43-1	130
+608	Liuxiang Jiongnai	kill	43	jion1236	ta22	t a 22	t a ²²	43-1	130
+609	Xiaozhai Younuo	kill	43	youn1235	tɔ35	t ɔ 35	t ɔ ³⁵	43-1	130
+610	Huangluo Younuo	kill	43	youn1235	tɔ53	t ɔ 53	t ɔ ⁵³	43-1	130
+611	Northern Pa-Hng	kill	43	pahn1237	ta55	t a 55	t a ⁵⁵	43-1	130
+612	Southern Pa-Hng	kill	43	pahn1237	ta55	t a 55	t a ⁵⁵	43-1	130
+613	Hm-Nai	kill	43	wuna1248	ta55	t a 55	t a ⁵⁵	43-1	130
+614	Western Xiangxi	knee	44	nort2748	pi3=ɕɔ6	p i 3 =ɕ ɔ 6	p i ³/ + tɕ ɔ ⁶/	44-1	132
+615	Eastern Xiangxi	knee	44	east2371	pi35=ʓɔ11	p i 35 = ʓ ɔ 11	p i ³⁵ + dʑ ɔ ¹¹	44-1	132
+616	Qiandong	knee	44	east2369	po3=qo8=ɕu6	p o 3 = q o 8 =ɕ u 6	p o ³/ + q o ⁸/ + tɕ u ⁶/	44-1	132
+617	Chuanqiandian	knee	44	nort3244	hau3=ʒǝu6	h au 3 =ʒ ǝ u 6	h a u ³/ → dz ǝ u ⁶/	44-1	132
+618	Diandongbei	knee	44	larg1235	fao3=ɕao6	f a o 3 =ɕ a o 6	f a o ³/ + tɕ a o ⁶/	44-1	132
+619	Hmong Daw	knee	44	hmon1333	hɔw3=ɕɔw6	h ɔ w 3 =ɕ ɔ w 6	h ɔ w ³/ + tɕ ɔ w ⁶/	44-1	132
+620	Hmong Njua	knee	44	hmon1264	hau2=ɕau6	h au 2 =ɕ au 6	h a u ²/ + tɕ a u ⁶/	44-1	132
+621	Bunu	knee	44	buna1273	fa3=ɕa6	f a 3 =ɕ a 6	f a ³/ + tɕ a ⁶/	44-1	132
+622	Baonao	knee	44	buna1273	vɦi̯a3=ɕa6	vɦ i̯ a 3 =ɕ a 6	vʱ j a ³/ + tɕ a ⁶/	44-1	132
+623	Numao	knee	44	numa1251	kön3=ɕou6	k ö n 3 =ɕ o u 6	k œ n ³/ + tɕ o u ⁶/	44-1	132
+624	Longhua Jiongnai	knee	44	jion1236	ði̯eu53-ŋkau53	ð i̯ e u 53 - ŋ k au 53	ð j e u ⁵³ + ŋ k a u ⁵³	44-2	133
+625	Liuxiang Jiongnai	knee	44	jion1236	hɔ35=li̯eu35	h ɔ 35 = l i̯ e u 35	h ɔ ³⁵ + l j e u ³⁵	44-2	133
+626	Xiaozhai Younuo	knee	44	youn1235	fɔ33=ti22=ku22	f ɔ 33 = t i 22 = k u 22	f ɔ ³³ + t i ²² + k u ²²	44-3	134
+627	Huangluo Younuo	knee	44	youn1235	tou53=kʰuy31	t o u 53 = kʰ u y 31	t o u ⁵³ + kʰ u j ³¹	44-4	135
+628	Northern Pa-Hng	knee	44	pahn1237	pɔ35=ɕi44	p ɔ 35 =ɕ i 44	p ɔ ³⁵ + tɕ i ⁴⁴	44-1	132
+629	Southern Pa-Hng	knee	44	pahn1237	a44=qɦɔ31=ɕɦi44	a 44 = qɦ ɔ 31 =ɕ ɦ i 44	a ⁴⁴ + qʰ ɔ ³¹ + tɕ ɦ i ⁴⁴	44-1	132
+630	Hm-Nai	knee	44	wuna1248	kʰɯŋ55=ɕi31	kʰ ɯ ŋ 55 =ɕ i 31	kʰ ɯ ŋ ⁵⁵ + tɕ i ³¹	44-1	132
+631	Western Xiangxi	know	45	nort2748	ni̯ɛ̃4	n i̯ ɛ̃ 4	n j ɛ̃ ⁴/	45-1	136
+632	Eastern Xiangxi	know	45	east2371	pi53	p i 53	p i ⁵³	45-2	137
+633	Qiandong	know	45	east2369	pu1	p u 1	p u ¹/	45-2	137
+634	Chuanqiandian	know	45	nort3244	pǝu1	p ǝ u 1	p ǝ u ¹/	45-2	137
+635	Diandongbei	know	45	larg1235	pao1	p a o 1	p a o ¹/	45-2	137
+636	Hmong Daw	know	45	hmon1333	pɔw1	p ɔ w 1	p ɔ w ¹/	45-2	137
+637	Hmong Njua	know	45	hmon1264	pau1	p au 1	p a u ¹/	45-2	137
+638	Bunu	know	45	buna1273	pa1	p a 1	p a ¹/	45-2	137
+639	Baonao	know	45	buna1273	pi̯a1	p i̯ a 1	p j a ¹/	45-2	137
+640	Numao	know	45	numa1251	pu1	p u 1	p u ¹/	45-2	137
+641	Longhua Jiongnai	know	45	jion1236	pe44	p e 44	p e ⁴⁴	45-2	137
+642	Liuxiang Jiongnai	know	45	jion1236	pey44	p e y 44	p e j ⁴⁴	45-2	137
+643	Xiaozhai Younuo	know	45	youn1235	tou22=pɔ33	t o u 22 = p ɔ 33	t o u ²² + p ɔ ³³	45-2	137
+644	Huangluo Younuo	know	45	youn1235	tou22=pɔ33	t o u 22 = p ɔ 33	t o u ²² + p ɔ ³³	45-2	137
+645	Northern Pa-Hng	know	45	pahn1237	ko53=pi35	k o 53 = p i 35	k o ⁵³ + p i ³⁵	45-2	137
+646	Southern Pa-Hng	know	45	pahn1237	pı35	p ı 35	p i ³⁵	45-2	137
+647	Hm-Nai	know	45	wuna1248	pi35-to13	p i 35 - t o 13	p i ³⁵ + t o ¹³	45-2	137
+648	Western Xiangxi	leaf	46	nort2748	qo1=nu2	q o 1 = n u 2	q o ¹/ + n u ²/	46-1	138
+649	Eastern Xiangxi	leaf	46	east2371	qu53=nu31	q u 53 = n u 31	q u ⁵³ + n u ³¹	46-1	138
+650	Qiandong	leaf	46	east2369	qa1=nǝu2	q a 1 = n ǝ u 2	q a ¹/ + n ǝ u ²/	46-1	138
+651	Chuanqiandian	leaf	46	nort3244	mploŋ2	m p l o ŋ 2	m p l o ŋ ²/	46-1	138
+652	Diandongbei	leaf	46	larg1235	a5=nƛao2	a 5 = n ƛ a o 2	a ⁵/ + n tɬ a o ²/	46-1	138
+653	Hmong Daw	leaf	46	hmon1333	mblõ2	m b l õ 2	m b l õ ²/	46-1	138
+654	Hmong Njua	leaf	46	hmon1264	mbloŋ5	m b l o ŋ 5	m b l o ŋ ⁵/	46-1	138
+655	Bunu	leaf	46	buna1273	nƛaŋ2	n ƛ a ŋ 2	n tɬ a ŋ ²/	46-1	138
+656	Baonao	leaf	46	buna1273	nƛɔŋ2	n ƛ ɔ ŋ 2	n tɬ ɔ ŋ ²/	46-1	138
+657	Numao	leaf	46	numa1251	ƛi̯ou2	ƛ i̯ o u 2	tɬ j o u ²/	46-1	138
+658	Longhua Jiongnai	leaf	46	jion1236	mplɔŋ33	m p l ɔ ŋ 33	m p l ɔ ŋ ³³	46-1	138
+659	Liuxiang Jiongnai	leaf	46	jion1236	mplaŋ31	m p l a ŋ 31	m p l a ŋ ³¹	46-1	138
+660	Xiaozhai Younuo	leaf	46	youn1235	mi̯oŋ13	m i̯ o ŋ 13	m j o ŋ ¹³	46-1	138
+661	Huangluo Younuo	leaf	46	youn1235	mi̯oŋ13	m i̯ o ŋ 13	m j o ŋ ¹³	46-1	138
+662	Northern Pa-Hng	leaf	46	pahn1237	qa22=ni̯aŋ33	q a 22 = n i̯ a ŋ 33	q a ²² + n j a ŋ ³³	46-1	138
+663	Southern Pa-Hng	leaf	46	pahn1237	qa31=mpɦi̯o33	q a 31 = m pɦ i̯ o 33	q a ³¹ + m pʰ j o ³³	46-1	138
+664	Hm-Nai	leaf	46	wuna1248	nuŋ33	n u ŋ 33	n u ŋ ³³	46-1	138
+665	Western Xiangxi	lie	47	nort2748	pɤ5	p ɤ 5	p ɤ ⁵/	47-1	139
+666	Qiandong	lie	47	east2369	pi5	p i 5	p i ⁵/	47-1	139
+667	Chuanqiandian	lie	47	nort3244	pu5	p u 5	p u ⁵/	47-1	139
+668	Diandongbei	lie	47	larg1235	pü5	p ü 5	p y ⁵/	47-1	139
+669	Hmong Daw	lie	47	hmon1333	pɨ3	p ɨ 3	p ɨ ³/	47-1	139
+670	Hmong Njua	lie	47	hmon1264	pʉ3	p ʉ 3	p ʉ ³/	47-1	139
+671	Western Xiangxi	liver	48	nort2748	ʂɛ̃1	ʂ ɛ̃ 1	ʂ ɛ̃ ¹/	48-1	140
+672	Western Xiangxi	long	49	nort2748	ntɯ3	n t ɯ 3	n t ɯ ³/	49-1	141
+673	Eastern Xiangxi	long	49	east2371	du55	d u 55	d u ⁵⁵	49-1	141
+674	Qiandong	long	49	east2369	ta3	t a 3	t a ³/	49-1	141
+675	Chuanqiandian	long	49	nort3244	nte3	n t e 3	n t e ³/	49-1	141
+676	Diandongbei	long	49	larg1235	nti3	n t i 3	n t i ³/	49-1	141
+677	Hmong Daw	long	49	hmon1333	nte3	n t e 3	n t e ³/	49-1	141
+678	Hmong Njua	long	49	hmon1264	nde2	n d e 2	n d e ²/	49-1	141
+679	Bunu	long	49	buna1273	nte3	n t e 3	n t e ³/	49-1	141
+680	Baonao	long	49	buna1273	ntey3	n t e y 3	n t e j ³/	49-1	141
+681	Numao	long	49	numa1251	ntɑ3	n t ɑ 3	n t ɑ ³/	49-1	141
+682	Longhua Jiongnai	long	49	jion1236	ða53	ð a 53	ð a ⁵³	49-2	142
+683	Liuxiang Jiongnai	long	49	jion1236	la35	l a 35	l a ³⁵	49-2	142
+684	Xiaozhai Younuo	long	49	youn1235	nou22	n o u 22	n o u ²²	49-3	143
+685	Huangluo Younuo	long	49	youn1235	nau22	n au 22	n a u ²²	49-3	143
+686	Northern Pa-Hng	long	49	pahn1237	to22	t o 22	t o ²²	49-1	141
+687	Southern Pa-Hng	long	49	pahn1237	to31	t o 31	t o ³¹	49-1	141
+688	Hm-Nai	long	49	wuna1248	to13	t o 13	t o ¹³	49-1	141
+689	Western Xiangxi	louse	50	nort2748	ta1=te3	t a 1 = t e 3	t a ¹/ + t e ³/	50-1	146
+690	Eastern Xiangxi	louse	50	east2371	te55	t e 55	t e ⁵⁵	50-1	146
+691	Qiandong	louse	50	east2369	kaŋ1=ɕhu3	k a ŋ 1 =ɕh u 3	k a ŋ ¹/ → tɕʰ u ³/	50-1	146
+692	Chuanqiandian	louse	50	nort3244	to3	t o 3	t o ³/	50-1	146
+693	Diandongbei	louse	50	larg1235	ɳc̢ʰao3	ɳ c̢ʰ a o 3	ɳ ʈʂʰ a o ³/	50-1	146
+694	Hmong Daw	louse	50	hmon1333	nčʰɔw3	n čʰ ɔ w 3	n tʃʰ ɔ w ³/	50-1	146
+695	Hmong Njua	louse	50	hmon1264	ɲʰau2 ~ ɲčʰau2	ɲ čʰ au 2	ɲ tʃʰ a u ²/	50-1	146
+696	Bunu	louse	50	buna1273	ka1=tuŋ3	k a 1 = t u ŋ 3	k a ¹/ + t u ŋ ³/	50-1	146
+697	Baonao	louse	50	buna1273	ɕey1=tɔ3	ɕ e y 1 = t ɔ 3	tɕ e j ¹/ + t ɔ ³/	50-1	146
+698	Numao	louse	50	numa1251	tuŋ3	t u ŋ 3	t u ŋ ³/	50-1	146
+699	Longhua Jiongnai	louse	50	jion1236	taŋ53	t a ŋ 53	t a ŋ ⁵³	50-1	146
+700	Liuxiang Jiongnai	louse	50	jion1236	tã35	t ã 35	t ã ³⁵	50-1	146
+701	Xiaozhai Younuo	louse	50	youn1235	ma53=tuŋ22	m a 53 = t u ŋ 22	m a ⁵³ + t u ŋ ²²	50-1	146
+702	Huangluo Younuo	louse	50	youn1235	ma53=tou22	m a 53 = t o u 22	m a ⁵³ + t o u ²²	50-1	146
+703	Northern Pa-Hng	louse	50	pahn1237	naŋ22	n a ŋ 22	n a ŋ ²²	50-1	146
+704	Southern Pa-Hng	louse	50	pahn1237	ŋ̩31=nɔ̃31	ŋ̩ 31 = n ɔ̃ 31	ŋ̩ ³¹ + n ɔ̃ ³¹	50-1	146
+705	Hm-Nai	louse	50	wuna1248	ntaŋ13	n t a ŋ 13	n t a ŋ ¹³	50-1	146
+706	Western Xiangxi	man	51	nort2748	qo1=ni5	q o 1 = n i 5	q o ¹/ + n i ⁵/	51-1	147
+707	Western Xiangxi	many	52	nort2748	l̥i̯o1	l̥ i̯ o 1	l̥ j o ¹/	52-1	148
+708	Eastern Xiangxi	many	52	east2371	ɕɯ53	ɕ ɯ 53	tɕ ɯ ⁵³	52-3	150
+709	Qiandong	many	52	east2369	no5	n o 5	n o ⁵/	52-2	149
+710	Chuanqiandian	many	52	nort3244	ntǝu5	n t ǝ u 5	n t ǝ u ⁵/	52-2	149
+711	Diandongbei	many	52	larg1235	ɕao1	ɕ a o 1	tɕ a o ¹/	52-3	150
+712	Hmong Daw	many	52	hmon1333	ndɔw4	n d ɔ w 4	n d ɔ w ⁴/	52-2	149
+713	Hmong Njua	many	52	hmon1264	ndau3	n d au 3	n d a u ³/	52-2	149
+714	Bunu	many	52	buna1273	ntau5	n t au 5	n t a u ⁵/	52-2	149
+715	Baonao	many	52	buna1273	ntaǝ5	n t a ǝ 5	n t a ǝ ⁵/	52-2	149
+716	Numao	many	52	numa1251	ntöy5	n t ö y 5	n t œ j ⁵/	52-2	149
+717	Longhua Jiongnai	many	52	jion1236	ntey35	n t e y 35	n t e j ³⁵	52-2	149
+718	Liuxiang Jiongnai	many	52	jion1236	ntay22	n t a y 22	n t a j ²²	52-2	149
+719	Xiaozhai Younuo	many	52	youn1235	tʰeŋ33=au35	tʰ e ŋ 33 = au 35	tʰ e ŋ ³³ + a u ³⁵	52-4	151
+720	Huangluo Younuo	many	52	youn1235	au53-au53	au 53 - au 53	a u ⁵³ + a u ⁵³	52-4	151
+721	Northern Pa-Hng	many	52	pahn1237	ɕaŋ35	ɕ a ŋ 35	tɕ a ŋ ³⁵	52-3	150
+722	Southern Pa-Hng	many	52	pahn1237	ɕɔ̃35	ɕ ɔ̃ 35	tɕ ɔ̃ ³⁵	52-3	150
+723	Hm-Nai	many	52	wuna1248	ɕuŋ35	ɕ u ŋ 35	tɕ u ŋ ³⁵	52-3	150
+724	Western Xiangxi	meat	53	nort2748	ni̯ä2	n i̯ ä 2	n j æ ²/	53-1	152
+725	Eastern Xiangxi	meat	53	east2371	ŋa31	ŋ a 31	ŋ a ³¹	53-1	152
+726	Qiandong	meat	53	east2369	ŋi2	ŋ i 2	ŋ i ²/	53-1	152
+727	Chuanqiandian	meat	53	nort3244	nqa2	n q a 2	n q a ²/	53-1	152
+728	Diandongbei	meat	53	larg1235	qay2	q a y 2	q a j ²/	53-1	152
+729	Hmong Daw	meat	53	hmon1333	nqay2	n q a y 2	n q a j ²/	53-1	152
+730	Hmong Njua	meat	53	hmon1264	ŋɢa5	ŋ ɢ a 5	ŋ ɢ a ⁵/	53-1	152
+731	Bunu	meat	53	buna1273	ŋka2	ŋ k a 2	ŋ k a ²/	53-1	152
+732	Baonao	meat	53	buna1273	ŋki̯a2	ŋ k i̯ a 2	ŋ k j a ²/	53-1	152
+733	Numao	meat	53	numa1251	ŋkɑ2	ŋ k ɑ 2	ŋ k ɑ ²/	53-1	152
+734	Longhua Jiongnai	meat	53	jion1236	ŋkay33	ŋ k a y 33	ŋ k a j ³³	53-1	152
+735	Liuxiang Jiongnai	meat	53	jion1236	ŋkɛ31	ŋ k ɛ 31	ŋ k ɛ ³¹	53-1	152
+736	Xiaozhai Younuo	meat	53	youn1235	pe33	p e 33	p e ³³	53-2	153
+737	Huangluo Younuo	meat	53	youn1235	pe33	p e 33	p e ³³	53-2	153
+738	Northern Pa-Hng	meat	53	pahn1237	ŋɛ33	ŋ ɛ 33	ŋ ɛ ³³	53-1	152
+739	Southern Pa-Hng	meat	53	pahn1237	ɴqɦɛ33	ɴ qɦ ɛ 33	ɴ qʰ ɛ ³³	53-1	152
+740	Hm-Nai	meat	53	wuna1248	ɴqai33	ɴ q a i 33	ɴ q a i ³³	53-1	152
+741	Western Xiangxi	moon	54	nort2748	qe1=l̥a4	q e 1 = l̥ a 4	q e ¹/ + l̥ a ⁴/	54-1	154
+742	Eastern Xiangxi	moon	54	east2371	ɭ̥ʰa31	ɭ̥ʰ a 31	ɭ̥ʰ a ³¹	54-1	154
+743	Qiandong	moon	54	east2369	l̥ʰa5	l̥ʰ a 5	l̥ʰ a ⁵/	54-1	154
+744	Chuanqiandian	moon	54	nort3244	ɬi5	ɬ i 5	ɬ i ⁵/	54-1	154
+745	Diandongbei	moon	54	larg1235	l̥i7	l̥ i 7	l̥ i ⁷/	54-1	154
+746	Hmong Daw	moon	54	hmon1333	l̥i4	l̥ i 4	l̥ i ⁴/	54-1	154
+747	Hmong Njua	moon	54	hmon1264	ɬi3	ɬ i 3	ɬ i ³/	54-1	154
+748	Bunu	moon	54	buna1273	po3=ɬo5	p o 3 = ɬ o 5	p o ³/ + ɬ o ⁵/	54-1	154
+749	Baonao	moon	54	buna1273	vei3=lʰou5	v e i 3 = lʰ o u 5	v e i ³/ + lʰ o u ⁵/	54-1	154
+750	Numao	moon	54	numa1251	l̥o5	l̥ o 5	l̥ o ⁵/	54-1	154
+751	Longhua Jiongnai	moon	54	jion1236	l̥e35	l̥ e 35	l̥ e ³⁵	54-1	154
+752	Liuxiang Jiongnai	moon	54	jion1236	l̥ei22	l̥ e i 22	l̥ e i ²²	54-1	154
+753	Xiaozhai Younuo	moon	54	youn1235	ha31=la35	h a 31 = l a 35	h a ³¹ + l a ³⁵	54-1	154
+754	Huangluo Younuo	moon	54	youn1235	kwǝn22=la53	kw ǝ n 22 = l a 53	k w ǝ n ²² + l a ⁵³	54-1	154
+755	Northern Pa-Hng	moon	54	pahn1237	a33=l̥a55-qa22=ma22	a 33 = l̥ a 55 - q a 22 = m a 22	a ³³ + l̥ a ⁵⁵ + q a ²² + m a ²²	54-1	154
+756	Southern Pa-Hng	moon	54	pahn1237	a44=l̥a55	a 44 = l̥ a 55	a ⁴⁴ + l̥ a ⁵⁵	54-1	154
+757	Hm-Nai	moon	54	wuna1248	naŋ35=l̥a55	n a ŋ 35 = l̥ a 55	n a ŋ ³⁵ + l̥ a ⁵⁵	54-1	154
+758	Western Xiangxi	mountain	55	nort2748	pi3=qɤ4	p i 3 = q ɤ 4	p i ³/ + q ɤ ⁴/	55-1	155
+759	Eastern Xiangxi	mountain	55	east2371	qu53=ʑe31	q u 53 =ʑ e 31	q u ⁵³ → ʑ e ³¹	55-2	156
+760	Qiandong	mountain	55	east2369	pi4	p i 4	p i ⁴/	55-3	157
+761	Chuanqiandian	mountain	55	nort3244	tao2	t a o 2	t a o ²/	55-4	158
+762	Diandongbei	mountain	55	larg1235	ʈao2	ʈ a o 2	ʈ a o ²/	55-4	158
+763	Hmong Daw	mountain	55	hmon1333	ʈõ1	ʈ õ 1	ʈ õ ¹/	55-4	158
+764	Hmong Njua	mountain	55	hmon1264	oŋ1	 o ŋ 1	o ŋ ¹/	55-4	158
+765	Bunu	mountain	55	buna1273	θau2a	θ au 2 a	θ a u ²/ a	55-4	158
+766	Baonao	mountain	55	buna1273	ɣey6	ɣ e y 6	ɣ e j ⁶/	55-5	159
+767	Numao	mountain	55	numa1251	ɣɑn6	ɣ ɑ n 6	ɣ ɑ n ⁶/	55-5	159
+768	Longhua Jiongnai	mountain	55	jion1236	ŋki̯ɔŋ53 ~ ki̯ɔŋ33	k i̯ ɔ ŋ 33	k j ɔ ŋ ³³	55-6	160
+769	Liuxiang Jiongnai	mountain	55	jion1236	či43	č i 43	tʃ i ⁴³	55-7	161
+770	Xiaozhai Younuo	mountain	55	youn1235	kǝ33=koŋ13	k ǝ 33 = k o ŋ 13	k ǝ ³³ + k o ŋ ¹³	55-6	160
+771	Huangluo Younuo	mountain	55	youn1235	koŋ13	k o ŋ 13	k o ŋ ¹³	55-6	160
+772	Northern Pa-Hng	mountain	55	pahn1237	tei33=kɛ55	t e i 33 = k ɛ 55	t e i ³³ + k ɛ ⁵⁵	55-1	155
+773	Southern Pa-Hng	mountain	55	pahn1237	a44=yɔ̃31	a 44 = y ɔ̃ 31	a ⁴⁴ + j ɔ̃ ³¹	55-8	162
+774	Hm-Nai	mountain	55	wuna1248	yuŋ13	y u ŋ 13	j u ŋ ¹³	55-8	162
+775	Western Xiangxi	mouth	56	nort2748	qa3=lo5	q a 3 = l o 5	q a ³/ + l o ⁵/	56-1	163
+776	Eastern Xiangxi	mouth	56	east2371	pa35=ɳɔ31	p a 35 = ɳ ɔ 31	p a ³⁵ + ɳ ɔ ³¹	56-2	164
+777	Qiandong	mouth	56	east2369	lo5	l o 5	l o ⁵/	56-1	163
+778	Chuanqiandian	mouth	56	nort3244	nɕǝu2	nɕ ǝ u 2	n tɕ ǝ u ²/	56-2	164
+779	Diandongbei	mouth	56	larg1235	a5=ɕao2	a 5 =ɕ a o 2	a ⁵/ + tɕ a o ²/	56-2	164
+780	Hmong Daw	mouth	56	hmon1333	qʰɔ3=ɲʓɔw2	qʰ ɔ 3 = ɲ ʓ ɔ w 2	qʰ ɔ ³/ + ɲ dʑ ɔ w ²/	56-2	164
+781	Hmong Njua	mouth	56	hmon1264	ɲʓau5	ɲ ʓ au 5	ɲ dʑ a u ⁵/	56-2	164
+782	Bunu	mouth	56	buna1273	nɕu2	nɕ u 2	n tɕ u ²/	56-2	164
+783	Baonao	mouth	56	buna1273	kǝ3=ɲɕau2	k ǝ 3 = ɲɕ au 2	k ǝ ³/ + ɲ tɕ a u ²/	56-2	164
+784	Numao	mouth	56	numa1251	lɑu5	l ɑ u 5	l ɑ u ⁵/	56-1	163
+785	Longhua Jiongnai	mouth	56	jion1236	nti̯ɔ33	n t i̯ ɔ 33	n t j ɔ ³³	56-2	164
+786	Liuxiang Jiongnai	mouth	56	jion1236	nti̯eu31	n t i̯ e u 31	n t j e u ³¹	56-2	164
+787	Xiaozhai Younuo	mouth	56	youn1235	pǝ31=li̯o33	p ǝ 31 = l i̯ o 33	p ǝ ³¹ + l j o ³³	56-1	163
+788	Huangluo Younuo	mouth	56	youn1235	pǝ31=li̯o33	p ǝ 31 = l i̯ o 33	p ǝ ³¹ + l j o ³³	56-1	163
+789	Northern Pa-Hng	mouth	56	pahn1237	a33=la55	a 33 = l a 55	a ³³ + l a ⁵⁵	56-1	163
+790	Southern Pa-Hng	mouth	56	pahn1237	a44=la55	a 44 = l a 55	a ⁴⁴ + l a ⁵⁵	56-1	163
+791	Hm-Nai	mouth	56	wuna1248	naŋ35=la55	n a ŋ 35 = l a 55	n a ŋ ³⁵ + l a ⁵⁵	56-1	163
+792	Western Xiangxi	name	57	nort2748	mpu5	m p u 5	m p u ⁵/	57-1	165
+793	Eastern Xiangxi	name	57	east2371	bu31	b u 31	b u ³¹	57-1	165
+794	Qiandong	name	57	east2369	naŋ2=pi5	n a ŋ 2 = p i 5	n a ŋ ²/ + p i ⁵/	57-1	165
+795	Chuanqiandian	name	57	nort3244	mpe5	m p e 5	m p e ⁵/	57-1	165
+796	Diandongbei	name	57	larg1235	nci5	n c i 5	n ts i ⁵/	57-1	165
+797	Hmong Daw	name	57	hmon1333	mbe4	m b e 4	m b e ⁴/	57-1	165
+798	Hmong Njua	name	57	hmon1264	mbe3	m b e 3	m b e ³/	57-1	165
+799	Bunu	name	57	buna1273	mpe5	m p e 5	m p e ⁵/	57-1	165
+800	Baonao	name	57	buna1273	mpey5	m p e y 5	m p e j ⁵/	57-1	165
+801	Numao	name	57	numa1251	mpɑ5	m p ɑ 5	m p ɑ ⁵/	57-1	165
+802	Longhua Jiongnai	name	57	jion1236	mpa35	m p a 35	m p a ³⁵	57-1	165
+803	Liuxiang Jiongnai	name	57	jion1236	mpa22	m p a 22	m p a ²²	57-1	165
+804	Xiaozhai Younuo	name	57	youn1235	mu35-hou31	m u 35 - h o u 31	m u ³⁵ + h o u ³¹	57-1	165
+805	Huangluo Younuo	name	57	youn1235	mu53	m u 53	m u ⁵³	57-1	165
+806	Northern Pa-Hng	name	57	pahn1237	a33=mu55	a 33 = m u 55	a ³³ + m u ⁵⁵	57-1	165
+807	Southern Pa-Hng	name	57	pahn1237	a44=mpo55	a 44 = m p o 55	a ⁴⁴ + m p o ⁵⁵	57-1	165
+808	Hm-Nai	name	57	wuna1248	naŋ35=mi̯aŋ33	n a ŋ 35 = m i̯ a ŋ 33	n a ŋ ³⁵ + m j a ŋ ³³	57-2	166
+1444	Western Xiangxi	near	103	nort2748	ʐɯ5	ʐ ɯ 5	ʐ ɯ ⁵/	103-1	13
+1445	Eastern Xiangxi	near	103	east2371	yu31	y u 31	j u ³¹	103-1	13
+1446	Qiandong	near	103	east2369	ɣi5	ɣ i 5	ɣ i ⁵/	103-1	13
+1447	Chuanqiandian	near	103	nort3244	ʐe4	ʐ e 4	ʐ e ⁴/	103-1	13
+1448	Diandongbei	near	103	larg1235	vǝ5	v ǝ 5	v ǝ ⁵/	103-1	13
+1449	Hmong Daw	near	103	hmon1333	že4	ž e 4	ʒ e ⁴/	103-1	13
+1450	Hmong Njua	near	103	hmon1264	že3	ž e 3	ʒ e ³/	103-1	13
+1451	Bunu	near	103	buna1273	ɣe5	ɣ e 5	ɣ e ⁵/	103-1	13
+1452	Baonao	near	103	buna1273	ɣey5	ɣ e y 5	ɣ e j ⁵/	103-1	13
+1453	Numao	near	103	numa1251	ɣey5	ɣ e y 5	ɣ e j ⁵/	103-1	13
+1454	Longhua Jiongnai	near	103	jion1236	ŋki̯a35	ŋ k i̯ a 35	ŋ k j a ³⁵	103-1	13
+1455	Liuxiang Jiongnai	near	103	jion1236	ʑa22	ʑ a 22	ʑ a ²²	103-1	13
+1456	Xiaozhai Younuo	near	103	youn1235	vi̯e35	v i̯ e 35	v j e ³⁵	103-1	13
+1457	Huangluo Younuo	near	103	youn1235	vay53	v a y 53	v a j ⁵³	103-1	13
+1458	Northern Pa-Hng	near	103	pahn1237	yo55	y o 55	j o ⁵⁵	103-1	13
+1459	Southern Pa-Hng	near	103	pahn1237	yo55	y o 55	j o ⁵⁵	103-1	13
+1460	Hm-Nai	near	103	wuna1248	yo55	y o 55	j o ⁵⁵	103-1	13
+809	Western Xiangxi	neck	58	nort2748	soŋ3=nqoŋ3	s o ŋ 3 = n q o ŋ 3	s o ŋ ³/ + n q o ŋ ³/	58-1	167
+810	Eastern Xiangxi	neck	58	east2371	qɔ55=qɯ55	q ɔ 55 = q ɯ 55	q ɔ ⁵⁵ + q ɯ ⁵⁵	58-1	167
+811	Qiandong	neck	58	east2369	qa1=qoŋ3	q a 1 = q o ŋ 3	q a ¹/ + q o ŋ ³/	58-1	167
+812	Hmong Daw	neck	58	hmon1333	ɕa2=ʼda1	ɕa2=ʼda1	tɕ a ² → ˀd a ¹	58-2	168
+813	Hmong Njua	neck	58	hmon1264	kaʉ3=ƛaŋ1	k a ʉ 3 = ƛ a ŋ 1	k a ʉ ³/ + tɬ a ŋ ¹/	58-1	167
+814	Bunu	neck	58	buna1273	kuŋ1=ƛǝŋ1	k u ŋ 1 = ƛ ǝ ŋ 1	k u ŋ ¹/ + tɬ ǝ ŋ ¹/	58-1	167
+815	Baonao	neck	58	buna1273	kɔ1=ƛɒ1	k ɔ 1 = ƛ ɒ 1	k ɔ ¹/ + tɬ ɒ ¹/	58-1	167
+816	Numao	neck	58	numa1251	ƛi̯ɑn1	ƛ i̯ ɑ n 1	tɬ j ɑ n ¹/	58-1	167
+817	Longhua Jiongnai	neck	58	jion1236	kaŋ53	k a ŋ 53	k a ŋ ⁵³	58-1	167
+818	Liuxiang Jiongnai	neck	58	jion1236	kaŋ35	k a ŋ 35	k a ŋ ³⁵	58-1	167
+819	Xiaozhai Younuo	neck	58	youn1235	kǝ53=kaŋ33	k ǝ 53 = k a ŋ 33	k ǝ ⁵³ + k a ŋ ³³	58-1	167
+820	Huangluo Younuo	neck	58	youn1235	kǝ53=kaŋ33	k ǝ 53 = k a ŋ 33	k ǝ ⁵³ + k a ŋ ³³	58-1	167
+821	Northern Pa-Hng	neck	58	pahn1237	a33=ŋɔŋ22	a 33 = ŋ ɔ ŋ 22	a ³³ + ŋ ɔ ŋ ²²	58-1	167
+822	Southern Pa-Hng	neck	58	pahn1237	a44=ŋɔ̃31	a 44 = ŋ ɔ̃ 31	a ⁴⁴ + ŋ ɔ̃ ³¹	58-1	167
+823	Hm-Nai	neck	58	wuna1248	naŋ35=ɴquŋ13	n a ŋ 35 = ɴ q u ŋ 13	n a ŋ ³⁵ + ɴ q u ŋ ¹³	58-1	167
+824	Western Xiangxi	new	59	nort2748	ʆɛ̃1	ʆ ɛ̃ 1	ɕ ɛ̃ ¹/	59-1	169
+825	Western Xiangxi	night	60	nort2748	m̥aŋ5	m̥ a ŋ 5	m̥ a ŋ ⁵/	60-1	171
+826	Eastern Xiangxi	night	60	east2371	xuŋ53=m̥ʰaŋ31	x u ŋ 53 = m̥ʰ a ŋ 31	x u ŋ ⁵³ + m̥ʰ a ŋ ³¹	60-1	171
+827	Qiandong	night	60	east2369	m̥ʰaŋ5	m̥ʰ a ŋ 5	m̥ʰ a ŋ ⁵/	60-1	171
+828	Hmong Daw	night	60	hmon1333	m̥ɔ4	m̥ ɔ 4	m̥ ɔ ⁴/	60-1	171
+829	Hmong Njua	night	60	hmon1264	mao3	m a o 3	m a o ³/	60-1	171
+830	Longhua Jiongnai	night	60	jion1236	nčaŋ22	n č a ŋ 22	n tʃ a ŋ ²²	60-2	172
+831	Liuxiang Jiongnai	night	60	jion1236	nčã21	n č ã 21	n tʃ ã ²¹	60-2	172
+832	Northern Pa-Hng	night	60	pahn1237	qa22=ma22	q a 22 = m a 22	q a ²² + m a ²²	60-3	173
+833	Southern Pa-Hng	night	60	pahn1237	qa31=mɦa31	q a 31 = mɦ a 31	q a ³¹ + mʱ a ³¹	60-3	173
+834	Hm-Nai	night	60	wuna1248	qa31=ma22	q a 31 = m a 22	q a ³¹ + m a ²²	60-3	173
+835	Western Xiangxi	nose	61	nort2748	pa3=mɹɤ6	p a 3 = m ɹ ɤ 6	p a ³/ + m ɹ ɤ ⁶/	61-1	174
+836	Eastern Xiangxi	nose	61	east2371	duŋ55=mi̯a11	d u ŋ 55 = m i̯ a 11	d u ŋ ⁵⁵ + m j a ¹¹	61-1	174
+837	Qiandong	nose	61	east2369	po3=nɛ6	p o 3 = n ɛ 6	p o ³/ + n ɛ ⁶/	61-1	174
+838	Chuanqiandian	nose	61	nort3244	ci5=ɳᶚu6	c i 5 = ɳ ᶚ u 6	ts i ⁵/ + ɳ ɖʐ u ⁶/	61-1	174
+839	Diandongbei	nose	61	larg1235	a1=mpü6	a 1 = m p ü 6	a ¹/ + m p y ⁶/	61-1	174
+840	Hmong Daw	nose	61	hmon1333	nǯɨ6	n ǯ ɨ 6	n dʒ ɨ ⁶/	61-1	174
+841	Western Xiangxi	not	62	nort2748	ɕe2	ɕ e 2	tɕ e ²/	62-1	175
+842	Eastern Xiangxi	not	62	east2371	a35	a 35	a ³⁵	62-2	176
+843	Qiandong	not	62	east2369	a2	a 2	a ²/	62-2	176
+844	Chuanqiandian	not	62	nort3244	c̢i5	c̢ i 5	tʂ i ⁵/	62-1	175
+845	Diandongbei	not	62	larg1235	hi5	h i 5	h i ⁵/	62-3	177
+846	Hmong Daw	not	62	hmon1333	či5	č i 5	tʃ i ⁵/	62-1	175
+847	Hmong Njua	not	62	hmon1264	čɨ3	č ɨ 3	tʃ ɨ ³/	62-1	175
+848	Bunu	not	62	buna1273	ma2	m a 2	m a ²/	62-4	178
+849	Baonao	not	62	buna1273	maǝ2	m a ǝ 2	m a ǝ ²/	62-4	178
+850	Numao	not	62	numa1251	moŋ2	m o ŋ 2	m o ŋ ²/	62-4	178
+851	Longhua Jiongnai	not	62	jion1236	ŋ̩53	ŋ̩ 53	ŋ̩ ⁵³	62-4	178
+852	Liuxiang Jiongnai	not	62	jion1236	m̩35	m̩ 35	m̥ ³⁵	62-4	178
+853	Xiaozhai Younuo	not	62	youn1235	mɔ22	m ɔ 22	m ɔ ²²	62-4	178
+854	Huangluo Younuo	not	62	youn1235	mɔ22	m ɔ 22	m ɔ ²²	62-4	178
+855	Northern Pa-Hng	not	62	pahn1237	ŋ̩35	ŋ̩ 35	ŋ̩ ³⁵	62-4	178
+856	Southern Pa-Hng	not	62	pahn1237	ŋ̩ɦ33	ŋ̩ ɦ 33	ŋ̩ ɦ ³³	62-4	178
+857	Hm-Nai	not	62	wuna1248	a53	a 53	a ⁵³	62-2	176
+858	Western Xiangxi	one	63	nort2748	a3	a 3	a ³/	63-1	179
+859	Eastern Xiangxi	one	63	east2371	a55	a 55	a ⁵⁵	63-1	179
+860	Qiandong	one	63	east2369	i1	i 1	i ¹/	63-1	179
+861	Chuanqiandian	one	63	nort3244	ʔi1	ʔ i 1	ʔ i ¹/	63-1	179
+862	Diandongbei	one	63	larg1235	i1	i 1	i ¹/	63-1	179
+863	Hmong Daw	one	63	hmon1333	i1	i 1	i ¹/	63-1	179
+864	Hmong Njua	one	63	hmon1264	ʔi1	ʔ i 1	ʔ i ¹/	63-1	179
+865	Bunu	one	63	buna1273	i1	i 1	i ¹/	63-1	179
+866	Baonao	one	63	buna1273	i1	i 1	i ¹/	63-1	179
+867	Numao	one	63	numa1251	ɕü1	ɕ ü 1	tɕ y ¹/	63-2	180
+868	Longhua Jiongnai	one	63	jion1236	i53	i 53	i ⁵³	63-1	179
+869	Liuxiang Jiongnai	one	63	jion1236	i35	i 35	i ³⁵	63-1	179
+870	Xiaozhai Younuo	one	63	youn1235	ʑe22	ʑ e 22	ʑ e ²²	63-3	181
+871	Huangluo Younuo	one	63	youn1235	ʑe22	ʑ e 22	ʑ e ²²	63-3	181
+872	Northern Pa-Hng	one	63	pahn1237	yi22	y i 22	j i ²²	63-1	179
+873	Southern Pa-Hng	one	63	pahn1237	yɦʉ31	yɦ ʉ 31	jʱ ʉ ³¹	63-1	179
+874	Hm-Nai	one	63	wuna1248	i13	i 13	i ¹³	63-1	179
+875	Western Xiangxi	person	64	nort2748	ne2	n e 2	n e ²/	64-1	182
+876	Eastern Xiangxi	person	64	east2371	ne31	n e 31	n e ³¹	64-1	182
+877	Qiandong	person	64	east2369	nɛ2	n ɛ 2	n ɛ ²/	64-1	182
+878	Chuanqiandian	person	64	nort3244	nen1	n e n 1	n e n ¹/	64-1	182
+879	Diandongbei	person	64	larg1235	tɯ1=nɯ1	t ɯ 1 = n ɯ 1	t ɯ ¹/ + n ɯ ¹/	64-1	182
+880	Hmong Daw	person	64	hmon1333	nɤ̃6	n ɤ̃ 6	n ɤ̃ ⁶/	64-1	182
+881	Hmong Njua	person	64	hmon1264	neŋ5	n e ŋ 5	n e ŋ ⁵/	64-1	182
+882	Bunu	person	64	buna1273	no2	n o 2	n o ²/	64-1	182
+883	Baonao	person	64	buna1273	nou2	n o u 2	n o u ²/	64-1	182
+884	Numao	person	64	numa1251	nu2	n u 2	n u ²/	64-1	182
+885	Longhua Jiongnai	person	64	jion1236	nay33	n a y 33	n a j ³³	64-1	182
+886	Liuxiang Jiongnai	person	64	jion1236	nɛ31	n ɛ 31	n ɛ ³¹	64-1	182
+887	Xiaozhai Younuo	person	64	youn1235	nɔ13	n ɔ 13	n ɔ ¹³	64-1	182
+888	Huangluo Younuo	person	64	youn1235	nɔ13	n ɔ 13	n ɔ ¹³	64-1	182
+889	Northern Pa-Hng	person	64	pahn1237	ni̯ɛ33	n i̯ ɛ 33	n j ɛ ³³	64-1	182
+890	Southern Pa-Hng	person	64	pahn1237	a44=mɦi̯ɛ33	a 44 = mɦ i̯ ɛ 33	a ⁴⁴ + mʱ j ɛ ³³	64-1	182
+891	Hm-Nai	person	64	wuna1248	nai33	n a i 33	n a i ³³	64-1	182
+892	Western Xiangxi	rain	65	nort2748	noŋ6	n o ŋ 6	n o ŋ ⁶/	65-1	183
+893	Eastern Xiangxi	rain	65	east2371	naŋ35	n a ŋ 35	n a ŋ ³⁵	65-1	183
+894	Qiandong	rain	65	east2369	noŋ6	n o ŋ 6	n o ŋ ⁶/	65-1	183
+895	Chuanqiandian	rain	65	nort3244	naŋ6	n a ŋ 6	n a ŋ ⁶/	65-1	183
+896	Diandongbei	rain	65	larg1235	naɯ6	n a ɯ 6	n a ɯ ⁶/	65-1	183
+897	Hmong Daw	rain	65	hmon1333	na6	n a 6	n a ⁶/	65-1	183
+898	Hmong Njua	rain	65	hmon1264	naŋ6	n a ŋ 6	n a ŋ ⁶/	65-1	183
+899	Bunu	rain	65	buna1273	aŋ1=nɔŋ6	a ŋ 1 = n ɔ ŋ 6	a ŋ ¹/ + n ɔ ŋ ⁶/	65-1	183
+900	Baonao	rain	65	buna1273	nɒ6	n ɒ 6	n ɒ ⁶/	65-1	183
+901	Numao	rain	65	numa1251	noŋ6	n o ŋ 6	n o ŋ ⁶/	65-1	183
+902	Longhua Jiongnai	rain	65	jion1236	naŋ22	n a ŋ 22	n a ŋ ²²	65-1	183
+903	Liuxiang Jiongnai	rain	65	jion1236	naŋ21	n a ŋ 21	n a ŋ ²¹	65-1	183
+904	Xiaozhai Younuo	rain	65	youn1235	lǝŋ33=ŋa31	l ǝ ŋ 33 = ŋ a 31	l ǝ ŋ ³³ + ŋ a ³¹	65-1	183
+905	Huangluo Younuo	rain	65	youn1235	lǝ33=ŋa22	l ǝ 33 = ŋ a 22	l ǝ ³³ + ŋ a ²²	65-1	183
+906	Northern Pa-Hng	rain	65	pahn1237	aŋ35=moŋ44	a ŋ 35 = m o ŋ 44	a ŋ ³⁵ + m o ŋ ⁴⁴	65-1	183
+907	Southern Pa-Hng	rain	65	pahn1237	ɔ̃35=mõ44	ɔ̃ 35 = m õ 44	ɔ̃ ³⁵ + m õ ⁴⁴	65-1	183
+908	Hm-Nai	rain	65	wuna1248	nuŋ31	n u ŋ 31	n u ŋ ³¹	65-1	183
+909	Western Xiangxi	red	66	nort2748	ɲɕʰin5	ɲɕʰ i n 5	ɲ tɕʰ i n ⁵/	66-1	184
+910	Eastern Xiangxi	red	66	east2371	cʰe31	cʰ e 31	tsʰ e ³¹	66-1	184
+911	Qiandong	red	66	east2369	ʃo7	ʃ o 7	ɕ o ⁷/	66-2	185
+912	Chuanqiandian	red	66	nort3244	la1	l a 1	l a ¹/	66-3	186
+913	Diandongbei	red	66	larg1235	lie1	l i e 1	l i e ¹/	66-3	186
+914	Hmong Daw	red	66	hmon1333	li̯a1	l i̯ a 1	l j a ¹/	66-3	186
+915	Hmong Njua	red	66	hmon1264	la1	l a 1	l a ¹/	66-3	186
+916	Bunu	red	66	buna1273	lǝŋ1	l ǝ ŋ 1	l ǝ ŋ ¹/	66-3	186
+917	Baonao	red	66	buna1273	lɒ1	l ɒ 1	l ɒ ¹/	66-3	186
+918	Numao	red	66	numa1251	lɑn1	l ɑ n 1	l ɑ n ¹/	66-3	186
+919	Longhua Jiongnai	red	66	jion1236	θi35	θ i 35	θ i ³⁵	66-1	184
+920	Liuxiang Jiongnai	red	66	jion1236	θi22	θ i 22	θ i ²²	66-1	184
+921	Xiaozhai Younuo	red	66	youn1235	cʰun35	cʰ u n 35	tsʰ u n ³⁵	66-1	184
+922	Huangluo Younuo	red	66	youn1235	cʰun53	cʰ u n 53	tsʰ u n ⁵³	66-1	184
+923	Northern Pa-Hng	red	66	pahn1237	tai44	t a i 44	t a i ⁴⁴	66-4	187
+924	Southern Pa-Hng	red	66	pahn1237	tɦɤ44	tɦ ɤ 44	tʰ ɤ ⁴⁴	66-4	187
+925	Hm-Nai	red	66	wuna1248	tai31	t a i 31	t a i ³¹	66-4	187
+926	Western Xiangxi	road	67	nort2748	ne3=kɯ3	n e 3 = k ɯ 3	n e ³/ + k ɯ ³/	67-1	188
+927	Eastern Xiangxi	road	67	east2371	mɔ31=kʋ55	m ɔ 31 = k ʋ 55	m ɔ ³¹ + k ʋ ⁵⁵	67-1	188
+928	Qiandong	road	67	east2369	ki3	k i 3	k i ³/	67-1	188
+929	Chuanqiandian	road	67	nort3244	ke3	k e 3	k e ³/	67-1	188
+930	Diandongbei	road	67	larg1235	ɕi3	ɕ i 3	tɕ i ³/	67-1	188
+931	Hmong Daw	road	67	hmon1333	ke3	k e 3	k e ³/	67-1	188
+932	Hmong Njua	road	67	hmon1264	ke2 ~ ki2	k i 2	k i ²/	67-1	188
+933	Bunu	road	67	buna1273	ki̯e3	k i̯ e 3	k j e ³/	67-1	188
+934	Baonao	road	67	buna1273	ɕe3	ɕ e 3	tɕ e ³/	67-1	188
+935	Numao	road	67	numa1251	ki̯ey3	k i̯ e y 3	k j e j ³/	67-1	188
+936	Longhua Jiongnai	road	67	jion1236	ki̯a53	k i̯ a 53	k j a ⁵³	67-1	188
+937	Liuxiang Jiongnai	road	67	jion1236	ki̯a35	k i̯ a 35	k j a ³⁵	67-1	188
+938	Xiaozhai Younuo	road	67	youn1235	kou22	k o u 22	k o u ²²	67-1	188
+939	Huangluo Younuo	road	67	youn1235	kou22	k o u 22	k o u ²²	67-1	188
+940	Northern Pa-Hng	road	67	pahn1237	qo22	q o 22	q o ²²	67-1	188
+941	Southern Pa-Hng	road	67	pahn1237	qo31	q o 31	q o ³¹	67-1	188
+942	Hm-Nai	road	67	wuna1248	qo13	q o 13	q o ¹³	67-1	188
+943	Western Xiangxi	root	68	nort2748	pa3=ɕoŋ2	p a 3 =ɕ o ŋ 2	p a ³/ + tɕ o ŋ ²/	68-1	189
+944	Eastern Xiangxi	root	68	east2371	gɯ33-gɯ33	g ɯ 33 - g ɯ 33	g ɯ ³³ + g ɯ ³³	68-2	190
+945	Qiandong	root	68	east2369	ɕoŋ2	ɕ o ŋ 2	tɕ o ŋ ²/	68-1	189
+946	Chuanqiandian	root	68	nort3244	ɕaŋ2	ɕ a ŋ 2	tɕ a ŋ ²/	68-1	189
+947	Diandongbei	root	68	larg1235	a1=ɕaɯ1	a 1 =ɕ a ɯ 1	a ¹/ + tɕ a ɯ ¹/	68-1	189
+948	Hmong Daw	root	68	hmon1333	ɕa6	ɕ a 6	tɕ a ⁶/	68-3	191
+949	Hmong Njua	root	68	hmon1264	ɕaŋ6	ɕ a ŋ 6	tɕ a ŋ ⁶/	68-3	191
+950	Bunu	root	68	buna1273	ka3=ɕɔŋ2	k a 3 =ɕ ɔ ŋ 2	k a ³/ + tɕ ɔ ŋ ²/	68-1	189
+951	Baonao	root	68	buna1273	kǝ3=ɕo2	k ǝ 3 =ɕ o 2	k ǝ ³/ + tɕ o ²/	68-1	189
+952	Numao	root	68	numa1251	ɕoŋ2	ɕ o ŋ 2	tɕ o ŋ ²/	68-1	189
+953	Longhua Jiongnai	root	68	jion1236	ka44	k a 44	k a ⁴⁴	68-4	192
+954	Liuxiang Jiongnai	root	68	jion1236	čaŋ31	č a ŋ 31	tʃ a ŋ ³¹	68-1	189
+955	Xiaozhai Younuo	root	68	youn1235	fɔ33=kǝ33=ti̯aŋ13	f ɔ 33 = k ǝ 33 = t i̯ a ŋ 13	f ɔ ³³ + k ǝ ³³ + t j a ŋ ¹³	68-1	189
+956	Huangluo Younuo	root	68	youn1235	fɔ33=tǝ33=ti̯aŋ13	f ɔ 33 = t ǝ 33 = t i̯ a ŋ 13	f ɔ ³³ + t ǝ ³³ + t j a ŋ ¹³	68-1	189
+957	Northern Pa-Hng	root	68	pahn1237	koŋ33-ti̯a35	k o ŋ 33 - t i̯ a 35	k o ŋ ³³ + t j a ³⁵	68-1	189
+958	Southern Pa-Hng	root	68	pahn1237	qɔ̃33-pi̯a35	q ɔ̃ 33 - p i̯ a 35	q ɔ̃ ³³ + p j a ³⁵	68-1	189
+959	Hm-Nai	root	68	wuna1248	kuŋ33-ca35	k u ŋ 33 - c a 35	k u ŋ ³³ + ts a ³⁵	68-1	189
+960	Western Xiangxi	round	69	nort2748	ʑɛ̃4	ʑ ɛ̃ 4	ʑ ɛ̃ ⁴/	69-1	193
+961	Qiandong	round	69	east2369	ɬen2	ɬ e n 2	ɬ e n ²/	69-2	194
+962	Chuanqiandian	round	69	nort3244	kʰun2	kʰ u n 2	kʰ u n ²/	69-3	195
+963	Diandongbei	round	69	larg1235	qo3=lo8	q o 3 = l o 8	q o ³/ + l o ⁸/	69-4	196
+964	Hmong Daw	round	69	hmon1333	kʰɤ̃2	kʰ ɤ̃ 2	kʰ ɤ̃ ²/	69-3	195
+965	Hmong Njua	round	69	hmon1264	qʰeŋ5 ~ kʰeŋ5	kʰ e ŋ 5	kʰ e ŋ ⁵/	69-3	195
+966	Bunu	round	69	buna1273	θu6=luŋ1	θ u 6 = l u ŋ 1	θ u ⁶/ + l u ŋ ¹/	69-5	197
+967	Baonao	round	69	buna1273	tɒ2	t ɒ 2	t ɒ ²/	69-6	198
+968	Numao	round	69	numa1251	pu2	p u 2	p u ²/	69-7	199
+969	Longhua Jiongnai	round	69	jion1236	klwey33	k lw e y 33	k l w e j ³³	69-8	200
+970	Liuxiang Jiongnai	round	69	jion1236	klwey31	k lw e y 31	k l w e j ³¹	69-8	200
+971	Xiaozhai Younuo	round	69	youn1235	lun33	l u n 33	l u n ³³	69-9	201
+972	Huangluo Younuo	round	69	youn1235	lun33	l u n 33	l u n ³³	69-9	201
+973	Northern Pa-Hng	round	69	pahn1237	qa33=laŋ33	q a 33 = l a ŋ 33	q a ³³ + l a ŋ ³³	69-9	201
+974	Southern Pa-Hng	round	69	pahn1237	qɔ̃35=lɦɔ̃31	q ɔ̃ 35 = lɦ ɔ̃ 31	q ɔ̃ ³⁵ + lʱ ɔ̃ ³¹	69-9	201
+975	Hm-Nai	round	69	wuna1248	lai35	l a i 35	l a i ³⁵	69-9	201
+1461	Western Xiangxi	salt	104	nort2748	ɲɕɯ3	ɲɕ ɯ 3	ɲ tɕ ɯ ³/	104-1	14
+1462	Eastern Xiangxi	salt	104	east2371	ʒʋ55	ʒ ʋ 55	dz ʋ ⁵⁵	104-1	14
+1463	Qiandong	salt	104	east2369	ʃi3	ʃ i 3	ɕ i ³/	104-1	14
+1464	Chuanqiandian	salt	104	nort3244	nen3=ɳc̢e3	n e n 3 = ɳ c̢ e 3	n e n ³/ + ɳ tʂ e ³/	104-1	14
+1465	Diandongbei	salt	104	larg1235	ɳc̢ǝ3	ɳ c̢ ǝ 3	ɳ tʂ ǝ ³/	104-1	14
+1466	Hmong Daw	salt	104	hmon1333	nǯe3	n ǯ e 3	n dʒ e ³/	104-1	14
+1467	Hmong Njua	salt	104	hmon1264	ɲǯe2	ɲ ǯ e 2	ɲ dʒ e ²/	104-1	14
+1468	Bunu	salt	104	buna1273	nce3	n c e 3	n ts e ³/	104-1	14
+1469	Baonao	salt	104	buna1273	ncey3	n c e y 3	n ts e j ³/	104-1	14
+1470	Numao	salt	104	numa1251	nci̯ey3	n c i̯ e y 3	n ts j e j ³/	104-1	14
+1471	Longhua Jiongnai	salt	104	jion1236	nča53	n č a 53	n tʃ a ⁵³	104-1	14
+1472	Liuxiang Jiongnai	salt	104	jion1236	ntθa35	n t θ a 35	n t θ a ³⁵	104-1	14
+1473	Xiaozhai Younuo	salt	104	youn1235	ʑau22	ʑ au 22	ʑ a u ²²	104-1	14
+1474	Huangluo Younuo	salt	104	youn1235	ʑau22	ʑ au 22	ʑ a u ²²	104-1	14
+1475	Northern Pa-Hng	salt	104	pahn1237	ɲo22	ɲ o 22	ɲ o ²²	104-1	14
+1476	Southern Pa-Hng	salt	104	pahn1237	ɲɕo31	ɲɕ o 31	ɲ tɕ o ³¹	104-1	14
+1477	Hm-Nai	salt	104	wuna1248	ɲɕo13	ɲɕ o 13	ɲ tɕ o ¹³	104-1	14
+976	Western Xiangxi	sand	70	nort2748	qo1=cʰä5	q o 1 = cʰ ä 5	q o ¹/ + tsʰ æ ⁵/	70-1	204
+977	Western Xiangxi	say	71	nort2748	pʰu3	pʰ u 3	pʰ u ³/	71-1	205
+978	Eastern Xiangxi	say	71	east2371	ɕʰe35	ɕʰ e 35	tɕʰ e ³⁵	71-2	206
+979	Qiandong	say	71	east2369	ho5	h o 5	h o ⁵/	71-2	206
+980	Chuanqiandian	say	71	nort3244	hay7	h a y 7	h a j ⁷/	71-2	206
+981	Diandongbei	say	71	larg1235	hi7	h i 7	h i ⁷/	71-2	206
+982	Hmong Daw	say	71	hmon1333	hay5	h a y 5	h a j ⁵/	71-2	206
+983	Hmong Njua	say	71	hmon1264	ha4	h a 4	h a ⁴/	71-2	206
+984	Bunu	say	71	buna1273	tɯ2	t ɯ 2	t ɯ ²/	71-3	207
+985	Baonao	say	71	buna1273	ɕi4	ɕ i 4	tɕ i ⁴/	71-4	208
+986	Numao	say	71	numa1251	ɕou6	ɕ o u 6	tɕ o u ⁶/	71-5	209
+987	Longhua Jiongnai	say	71	jion1236	čɔuŋ22	č ɔ u ŋ 22	tʃ ɔ u ŋ ²²	71-5	209
+988	Liuxiang Jiongnai	say	71	jion1236	čaŋ21	č a ŋ 21	tʃ a ŋ ²¹	71-5	209
+989	Northern Pa-Hng	say	71	pahn1237	kaŋ22	k a ŋ 22	k a ŋ ²²	71-6	210
+990	Southern Pa-Hng	say	71	pahn1237	kɔ̃31	k ɔ̃ 31	k ɔ̃ ³¹	71-6	210
+991	Hm-Nai	say	71	wuna1248	kuŋ13	k u ŋ 13	k u ŋ ¹³	71-6	210
+992	Western Xiangxi	see	72	nort2748	qɛ̃6	q ɛ̃ 6	q ɛ̃ ⁶/	72-1	211
+993	Eastern Xiangxi	see	72	east2371	ʆaŋ31=ca55	ʆ a ŋ 31 = c a 55	ɕ a ŋ ³¹ + ts a ⁵⁵	72-4	214
+994	Qiandong	see	72	east2369	poŋ8	p o ŋ 8	p o ŋ ⁸/	72-2	212
+995	Chuanqiandian	see	72	nort3244	po8	p o 8	p o ⁸/	72-2	212
+996	Diandongbei	see	72	larg1235	po8	p o 8	p o ⁸/	72-2	212
+997	Hmong Daw	see	72	hmon1333	pɔ7	p ɔ 7	p ɔ ⁷/	72-2	212
+998	Hmong Njua	see	72	hmon1264	pu7	p u 7	p u ⁷/	72-2	212
+999	Bunu	see	72	buna1273	pɔ8	p ɔ 8	p ɔ ⁸/	72-2	212
+1000	Baonao	see	72	buna1273	puɔ8	p u ɔ 8	p u ɔ ⁸/	72-2	212
+1001	Numao	see	72	numa1251	pǝu8	p ǝ u 8	p ǝ u ⁸/	72-2	212
+1002	Longhua Jiongnai	see	72	jion1236	leŋ35=pu32	l e ŋ 35 = p u 32	l e ŋ ³⁵ + p u ³²	72-2	212
+1003	Liuxiang Jiongnai	see	72	jion1236	leŋ22=pu32	l e ŋ 22 = p u 32	l e ŋ ²² + p u ³²	72-2	212
+1004	Xiaozhai Younuo	see	72	youn1235	maŋ35=cʰu22	m a ŋ 35 = cʰ u 22	m a ŋ ³⁵ + tsʰ u ²²	72-3	213
+1005	Huangluo Younuo	see	72	youn1235	maŋ53=cʰo22	m a ŋ 53 = cʰ o 22	m a ŋ ⁵³ + tsʰ o ²²	72-3	213
+1006	Northern Pa-Hng	see	72	pahn1237	pa31	p a 31	p a ³¹	72-2	212
+1007	Southern Pa-Hng	see	72	pahn1237	pɦa31	pɦ a 31	pʰ a ³¹	72-2	212
+1008	Hm-Nai	see	72	wuna1248	pʰa31	pʰ a 31	pʰ a ³¹	72-2	212
+1009	Xiaozhai Younuo	see	72	youn1235	tǝ33=pu31	t ǝ 33 = p u 31	t ǝ ³³ + p u ³¹	72-2	212
+1010	Western Xiangxi	seed	73	nort2748	qo1=ɳu1	q o 1 = ɳ u 1	q o ¹/ + ɳ u ¹/	73-1	215
+1011	Eastern Xiangxi	seed	73	east2371	ɲɯ53	ɲ ɯ 53	ɲ ɯ ⁵³	73-1	215
+1012	Qiandong	seed	73	east2369	n̥ʰiu1	n̥ʰ i u 1	n̥ʰ i u ¹/	73-1	215
+1478	Western Xiangxi	short	105	nort2748	le3	l e 3	l e ³/	105-1	15
+1479	Eastern Xiangxi	short	105	east2371	li55	l i 55	l i ⁵⁵	105-1	15
+1480	Qiandong	short	105	east2369	lɛ3	l ɛ 3	l ɛ ³/	105-1	15
+1481	Chuanqiandian	short	105	nort3244	lo5	l o 5	l o ⁵/	105-1	15
+1482	Diandongbei	short	105	larg1235	lu8	l u 8	l u ⁸/	105-1	15
+1483	Hmong Daw	short	105	hmon1333	lu3	l u 3	l u ³/	105-1	15
+1484	Hmong Njua	short	105	hmon1264	lu3	l u 3	l u ³/	105-1	15
+1013	Western Xiangxi	sit	74	nort2748	ɕoŋ5	ɕ o ŋ 5	tɕ o ŋ ⁵/	74-1	216
+1014	Eastern Xiangxi	sit	74	east2371	tʰɛ55-pya35	tʰ ɛ 55 - p y a 35	tʰ ɛ ⁵⁵ + p j a ³⁵	74-5	220
+1015	Qiandong	sit	74	east2369	niaŋ1	n i a ŋ 1	n i a ŋ ¹/	74-2	217
+1016	Chuanqiandian	sit	74	nort3244	ɲao1	ɲ a o 1	ɲ a o ¹/	74-2	217
+1017	Diandongbei	sit	74	larg1235	nio1	n i o 1	n i o ¹/	74-2	217
+1018	Hmong Daw	sit	74	hmon1333	žɔw7	ž ɔ w 7	ʒ ɔ w ⁷/	74-3	218
+1019	Hmong Njua	sit	74	hmon1264	ɲao3	ɲ a o 3	ɲ a o ³/	74-2	217
+1020	Bunu	sit	74	buna1273	ɲi1	ɲ i 1	ɲ i ¹/	74-2	217
+1021	Baonao	sit	74	buna1273	ɲa1	ɲ a 1	ɲ a ¹/	74-2	217
+1022	Numao	sit	74	numa1251	ɲe1	ɲ e 1	ɲ e ¹/	74-2	217
+1023	Longhua Jiongnai	sit	74	jion1236	ɲaŋ44	ɲ a ŋ 44	ɲ a ŋ ⁴⁴	74-2	217
+1024	Liuxiang Jiongnai	sit	74	jion1236	ɲaŋ44	ɲ a ŋ 44	ɲ a ŋ ⁴⁴	74-2	217
+1025	Xiaozhai Younuo	sit	74	youn1235	ti̯aŋ35	t i̯ a ŋ 35	t j a ŋ ³⁵	74-4	219
+1026	Huangluo Younuo	sit	74	youn1235	ti̯aŋ53	t i̯ a ŋ 53	t j a ŋ ⁵³	74-4	219
+1027	Northern Pa-Hng	sit	74	pahn1237	ɲoŋ35	ɲ o ŋ 35	ɲ o ŋ ³⁵	74-2	217
+1028	Southern Pa-Hng	sit	74	pahn1237	ɲõ35	ɲ õ 35	ɲ õ ³⁵	74-2	217
+1029	Hm-Nai	sit	74	wuna1248	ɲɕo31	ɲɕ o 31	ɲ tɕ o ³¹	74-2	217
+1030	Western Xiangxi	skin	75	nort2748	qo1=ki̯ɔ5	q o 1 = k i̯ ɔ 5	q o ¹/ + k j ɔ ⁵/	75-1	221
+1031	Eastern Xiangxi	skin	75	east2371	ɕɔ31-ɕɔ31	ɕ ɔ 31 - ɕ ɔ 31	tɕ ɔ ³¹ + tɕ ɔ ³¹	75-1	221
+1032	Qiandong	skin	75	east2369	tu3	t u 3	t u ³/	75-2	222
+1033	Chuanqiandian	skin	75	nort3244	teu5	t e u 5	t e u ⁵/	75-2	222
+1034	Diandongbei	skin	75	larg1235	pi5=toey3	p i 5 = t o e y 3	p i ⁵/ + t o e j ³/	75-2	222
+1035	Hmong Daw	skin	75	hmon1333	tǝw3	t ǝ w 3	t ǝ w ³/	75-2	222
+1036	Hmong Njua	skin	75	hmon1264	taʉ2	t a ʉ 2	t a ʉ ²/	75-2	222
+1037	Bunu	skin	75	buna1273	ka3=ƛau5	k a 3 = ƛ au 5	k a ³/ + tɬ a u ⁵/	75-3	223
+1038	Baonao	skin	75	buna1273	kǝ3=ƛaǝ5	k ǝ 3 = ƛ a ǝ 5	k ǝ ³/ + tɬ a ǝ ⁵/	75-3	223
+1039	Numao	skin	75	numa1251	ƛü5	ƛ ü 5	tɬ y ⁵/	75-3	223
+1040	Longhua Jiongnai	skin	75	jion1236	ki̯eu35	k i̯ e u 35	k j e u ³⁵	75-1	221
+1041	Liuxiang Jiongnai	skin	75	jion1236	ki̯eu22	k i̯ e u 22	k j e u ²²	75-1	221
+1042	Xiaozhai Younuo	skin	75	youn1235	ku35	k u 35	k u ³⁵	75-1	221
+1043	Huangluo Younuo	skin	75	youn1235	ku53	k u 53	k u ⁵³	75-1	221
+1044	Northern Pa-Hng	skin	75	pahn1237	qa22=li̯u55	q a 22 = l i̯ u 55	q a ²² + l j u ⁵⁵	75-4	224
+1045	Southern Pa-Hng	skin	75	pahn1237	qa31=li̯ʉ55	q a 31 = l i̯ ʉ 55	q a ³¹ + l j ʉ ⁵⁵	75-4	224
+1046	Hm-Nai	skin	75	wuna1248	qʰau35	qʰ au 35	qʰ a u ³⁵	75-5	225
+1047	Western Xiangxi	sleep	76	nort2748	pɤ5=nqu̯e1	p ɤ 5 = n q u̯ e 1	p ɤ ⁵/ + n q w e ¹/	76-1	226
+1048	Eastern Xiangxi	sleep	76	east2371	pa31 #	p a 31 # #	p a ³¹ # #	76-2	227
+1049	Qiandong	sleep	76	east2369	pi5	p i 5	p i ⁵/	76-2	227
+1050	Chuanqiandian	sleep	76	nort3244	pu5	p u 5	p u ⁵/	76-2	227
+1051	Diandongbei	sleep	76	larg1235	pu5	p u 5	p u ⁵/	76-2	227
+1052	Hmong Daw	sleep	76	hmon1333	ndu1	n d u 1	n d u ¹/	76-3	228
+1053	Hmong Njua	sleep	76	hmon1264	čau6-žu6	č au 6 - ž u 6	tʃ a u ⁶/ + ʒ u ⁶/	76-4	229
+1054	Bunu	sleep	76	buna1273	pau5	p au 5	p a u ⁵/	76-2	227
+1055	Baonao	sleep	76	buna1273	paǝ5	p a ǝ 5	p a ǝ ⁵/	76-2	227
+1056	Numao	sleep	76	numa1251	puey5	p u e y 5	p u e j ⁵/	76-2	227
+1057	Longhua Jiongnai	sleep	76	jion1236	pau35	p au 35	p a u ³⁵	76-2	227
+1058	Liuxiang Jiongnai	sleep	76	jion1236	pɔ22	p ɔ 22	p ɔ ²²	76-2	227
+1059	Xiaozhai Younuo	sleep	76	youn1235	puy35	p u y 35	p u j ³⁵	76-2	227
+1060	Huangluo Younuo	sleep	76	youn1235	puy53	p u y 53	p u j ⁵³	76-2	227
+1061	Northern Pa-Hng	sleep	76	pahn1237	vaŋ35	v a ŋ 35	v a ŋ ³⁵	76-5	230
+1062	Southern Pa-Hng	sleep	76	pahn1237	pɤ55	p ɤ 55	p ɤ ⁵⁵	76-2	227
+1063	Hm-Nai	sleep	76	wuna1248	pei55	p e i 55	p e i ⁵⁵	76-2	227
+1064	Western Xiangxi	small	77	nort2748	ʆu1	ʆ u 1	ɕ u ¹/	77-1	231
+1065	Eastern Xiangxi	small	77	east2371	ɲa35	ɲ a 35	ɲ a ³⁵	77-6	236
+1066	Qiandong	small	77	east2369	ʑu5	ʑ u 5	ʑ u ⁵/	77-1	231
+1067	Chuanqiandian	small	77	nort3244	ʑǝu5	ʑ ǝ u 5	ʑ ǝ u ⁵/	77-1	231
+1068	Diandongbei	small	77	larg1235	ʂao1	ʂ a o 1	ʂ a o ¹/	77-2	232
+1069	Hmong Daw	small	77	hmon1333	me4	m e 4	m e ⁴/	77-3	233
+1070	Hmong Njua	small	77	hmon1264	mi2	m i 2	m i ²/	77-3	233
+1071	Bunu	small	77	buna1273	vi3	v i 3	v i ³/	77-3	233
+1072	Baonao	small	77	buna1273	yau5	y au 5	j a u ⁵/	77-1	231
+1073	Numao	small	77	numa1251	yǝŋ3	y ǝ ŋ 3	j ǝ ŋ ³/	77-4	234
+1074	Longhua Jiongnai	small	77	jion1236	ʑu35	ʑ u 35	ʑ u ³⁵	77-1	231
+1075	Liuxiang Jiongnai	small	77	jion1236	ʑu22	ʑ u 22	ʑ u ²²	77-1	231
+1076	Xiaozhai Younuo	small	77	youn1235	l̥e53	l̥ e 53	l̥ e ⁵³	77-5	235
+1077	Huangluo Younuo	small	77	youn1235	l̥e53	l̥ e 53	l̥ e ⁵³	77-5	235
+1078	Northern Pa-Hng	small	77	pahn1237	yu55	y u 55	j u ⁵⁵	77-1	231
+1079	Southern Pa-Hng	small	77	pahn1237	yʉ55	y ʉ 55	j ʉ ⁵⁵	77-1	231
+1080	Hm-Nai	small	77	wuna1248	yu55	y u 55	j u ⁵⁵	77-1	231
+1081	Hmong Njua	small	77	hmon1264	yau3 ~ yau6	y au 6	j a u ⁶/	77-1	231
+1082	Western Xiangxi	smoke	78	nort2748	qo1=ɲɕʰo5	q o 1 = ɲɕʰ o 5	q o ¹/ + ɲ tɕʰ o ⁵/	78-1	237
+1083	Eastern Xiangxi	smoke	78	east2371	ɕɔ35-kʰa55	ɕ ɔ 35 - kʰ a 55	tɕ ɔ ³⁵ + kʰ a ⁵⁵	78-1	237
+1084	Qiandong	smoke	78	east2369	ǝu1=i1	ǝ u 1 = i 1	ǝ u ¹/ + i ¹/	78-2	238
+1085	Chuanqiandian	smoke	78	nort3244	paŋ5=nɕʰo5	p a ŋ 5 = nɕʰ o 5	p a ŋ ⁵/ + n tɕʰ o ⁵/	78-1	237
+1086	Diandongbei	smoke	78	larg1235	paɯ5=nɕʰo5	p a ɯ 5 = nɕʰ o 5	p a ɯ ⁵/ + n tɕʰ o ⁵/	78-1	237
+1087	Hmong Daw	smoke	78	hmon1333	ɲɕʰɔ4 #	ɲɕʰ ɔ 4 # #	ɲ tɕʰ ɔ ⁴/ # #	78-1	237
+1088	Hmong Njua	smoke	78	hmon1264	paŋ3-taʉ6	p a ŋ 3 - t a ʉ 6	p a ŋ ³/ + t a ʉ ⁶/	78-3	239
+1089	Bunu	smoke	78	buna1273	ka3=pɔŋ5-to4	k a 3 = p ɔ ŋ 5 - t o 4	k a ³/ + p ɔ ŋ ⁵/ + t o ⁴/	78-3	239
+1090	Baonao	smoke	78	buna1273	pɒ5-tiu4	p ɒ 5 - t i u 4	p ɒ ⁵/ + t i u ⁴/	78-3	239
+1091	Longhua Jiongnai	smoke	78	jion1236	tau31=ɔ43	t au 31 = ɔ 43	t a u ³¹ + ɔ ⁴³	78-4	240
+1092	Liuxiang Jiongnai	smoke	78	jion1236	tɔ53=nǝu22	t ɔ 53 = n ǝ u 22	t ɔ ⁵³ + n ǝ u ²²	78-5	241
+1093	Xiaozhai Younuo	smoke	78	youn1235	to22=ʑin33	t o 22 =ʑ i n 33	t o ²² → ʑ i n ³³	78-6	242
+1094	Huangluo Younuo	smoke	78	youn1235	ʑin33	ʑ i n 33	ʑ i n ³³	78-6	242
+1095	Northern Pa-Hng	smoke	78	pahn1237	qa22=u35	q a 22 = u 35	q a ²² + u ³⁵	78-4	240
+1096	Southern Pa-Hng	smoke	78	pahn1237	qa31=ʉ35	q a 31 = ʉ 35	q a ³¹ + ʉ ³⁵	78-4	240
+1097	Hm-Nai	smoke	78	wuna1248	u35-tou22	u 35 - t o u 22	u ³⁵ + t o u ²²	78-4	240
+1485	Western Xiangxi	snake	106	nort2748	ta1=nen1	t a 1 = n e n 1	t a ¹/ + n e n ¹/	106-1	16
+1486	Eastern Xiangxi	snake	106	east2371	nɛ53	n ɛ 53	n ɛ ⁵³	106-1	16
+1487	Qiandong	snake	106	east2369	naŋ1	n a ŋ 1	n a ŋ ¹/	106-1	16
+1488	Chuanqiandian	snake	106	nort3244	naŋ1	n a ŋ 1	n a ŋ ¹/	106-1	16
+1489	Diandongbei	snake	106	larg1235	pi1=naɯ1	p i 1 = n a ɯ 1	p i ¹/ + n a ɯ ¹/	106-1	16
+1490	Hmong Daw	snake	106	hmon1333	na1	n a 1	n a ¹/	106-1	16
+1491	Hmong Njua	snake	106	hmon1264	naŋ1	n a ŋ 1	n a ŋ ¹/	106-1	16
+1492	Bunu	snake	106	buna1273	nǝŋ1	n ǝ ŋ 1	n ǝ ŋ ¹/	106-1	16
+1493	Baonao	snake	106	buna1273	nɒ1	n ɒ 1	n ɒ ¹/	106-1	16
+1494	Numao	snake	106	numa1251	nɑn1	n ɑ n 1	n ɑ n ¹/	106-1	16
+1495	Longhua Jiongnai	snake	106	jion1236	nen44	n e n 44	n e n ⁴⁴	106-1	16
+1496	Liuxiang Jiongnai	snake	106	jion1236	nan44	n a n 44	n a n ⁴⁴	106-1	16
+1497	Xiaozhai Younuo	snake	106	youn1235	kau35=ni33	k au 35 = n i 33	k a u ³⁵ + n i ³³	106-1	16
+1498	Huangluo Younuo	snake	106	youn1235	ni33	n i 33	n i ³³	106-1	16
+1499	Northern Pa-Hng	snake	106	pahn1237	neŋ35	n e ŋ 35	n e ŋ ³⁵	106-1	16
+1500	Southern Pa-Hng	snake	106	pahn1237	ŋ̩31=nẽ35	ŋ̩ 31 = n ẽ 35	ŋ̩ ³¹ + n ẽ ³⁵	106-1	16
+1501	Hm-Nai	snake	106	wuna1248	n̩22=nɯŋ35	n̩ 22 = n ɯ ŋ 35	n̩ ²² + n ɯ ŋ ³⁵	106-1	16
+1098	Western Xiangxi	stand	79	nort2748	ʆɤ3	ʆ ɤ 3	ɕ ɤ ³/	79-1	243
+1099	Qiandong	stand	79	east2369	ʃʰu3	ʃʰ u 3	ɕʰ u ³/	79-1	243
+1100	Hmong Daw	stand	79	hmon1333	šǝw3	š ǝ w 3	ʃ ǝ w ³/	79-1	243
+1101	Hmong Njua	stand	79	hmon1264	šaʉ2-ɲǯu6	š a ʉ 2 - ɲ ǯ u 6	ʃ a ʉ ²/ + ɲ dʒ u ⁶/	79-1	243
+1102	Bunu	stand	79	buna1273	sʰo3	sʰ o 3	sʰ o ³/	79-1	243
+1103	Baonao	stand	79	buna1273	sʰou3	sʰ o u 3	sʰ o u ³/	79-1	243
+1104	Numao	stand	79	numa1251	sɑu6	s ɑ u 6	s ɑ u ⁶/	79-1	243
+1105	Longhua Jiongnai	stand	79	jion1236	θi̯au53	θ i̯ au 53	θ j a u ⁵³	79-1	243
+1106	Liuxiang Jiongnai	stand	79	jion1236	θɔ35	θ ɔ 35	θ ɔ ³⁵	79-1	243
+1107	Xiaozhai Younuo	stand	79	youn1235	so22	s o 22	s o ²²	79-1	243
+1108	Huangluo Younuo	stand	79	youn1235	so22	s o 22	s o ²²	79-1	243
+1109	Northern Pa-Hng	stand	79	pahn1237	ɕa44	ɕ a 44	tɕ a ⁴⁴	79-2	244
+1110	Southern Pa-Hng	stand	79	pahn1237	ɕɦa44	ɕɦ a 44	tɕʰ a ⁴⁴	79-2	244
+1111	Hm-Nai	stand	79	wuna1248	ʆou13	ʆ o u 13	ɕ o u ¹³	79-1	243
+1112	Western Xiangxi	star	80	nort2748	te1=qe1-l̥a5	t e 1 = q e 1 - l̥ a 5	t e ¹/ + q e ¹/ + l̥ a ⁵/	80-1	246
+1113	Eastern Xiangxi	star	80	east2371	qei53	q e i 53	q e i ⁵³	80-1	246
+1114	Qiandong	star	80	east2369	tɛ1=qɛ1	t ɛ 1 = q ɛ 1	t ɛ ¹/ + q ɛ ¹/	80-1	246
+1115	Chuanqiandian	star	80	nort3244	n̥o1=qo1	n̥ o 1 = q o 1	n̥ o ¹/ + q o ¹/	80-1	246
+1116	Diandongbei	star	80	larg1235	n̥u1=qu1	n̥ u 1 = q u 1	n̥ u ¹/ + q u ¹/	80-1	246
+1117	Hmong Daw	star	80	hmon1333	n̥u1=qu1	n̥ u 1 = q u 1	n̥ u ¹/ + q u ¹/	80-1	246
+1118	Hmong Njua	star	80	hmon1264	nu1=qu1	n u 1 = q u 1	n u ¹/ + q u ¹/	80-1	246
+1119	Bunu	star	80	buna1273	ɕe1=kuŋ1	ɕ e 1 = k u ŋ 1	tɕ e ¹/ + k u ŋ ¹/	80-1	246
+1120	Baonao	star	80	buna1273	tɔ1=kɔ1	t ɔ 1 = k ɔ 1	t ɔ ¹/ + k ɔ ¹/	80-1	246
+1121	Numao	star	80	numa1251	kuŋ1	k u ŋ 1	k u ŋ ¹/	80-1	246
+1122	Longhua Jiongnai	star	80	jion1236	ka44=ntaŋ44	k a 44 = n t a ŋ 44	k a ⁴⁴ + n t a ŋ ⁴⁴	80-2	247
+1123	Liuxiang Jiongnai	star	80	jion1236	ka44=ntaŋ44	k a 44 = n t a ŋ 44	k a ⁴⁴ + n t a ŋ ⁴⁴	80-2	247
+1124	Xiaozhai Younuo	star	80	youn1235	l̥in33-tay35	l̥ i n 33 - t a y 35	l̥ i n ³³ + t a j ³⁵	80-3	248
+1125	Huangluo Younuo	star	80	youn1235	lin33-tay53	l i n 33 - t a y 53	l i n ³³ + t a j ⁵³	80-3	248
+1126	Northern Pa-Hng	star	80	pahn1237	a33=qaŋ35	a 33 = q a ŋ 35	a ³³ + q a ŋ ³⁵	80-1	246
+1127	Southern Pa-Hng	star	80	pahn1237	a44=qɔ̃35	a 44 = q ɔ̃ 35	a ⁴⁴ + q ɔ̃ ³⁵	80-1	246
+1128	Hm-Nai	star	80	wuna1248	naŋ35=qaŋ35	n a ŋ 35 = q a ŋ 35	n a ŋ ³⁵ + q a ŋ ³⁵	80-1	246
+1129	Western Xiangxi	stone	81	nort2748	qo1=ʐɯ1	q o 1 =ʐ ɯ 1	q o ¹/ → ʐ ɯ ¹/	81-1	249
+1130	Eastern Xiangxi	stone	81	east2371	qu53=ʋ53	q u 53 = ʋ 53	q u ⁵³ + ʋ ⁵³	81-1	249
+1131	Qiandong	stone	81	east2369	po3=ɣi1	p o 3 = ɣ i 1	p o ³/ + ɣ i ¹/	81-1	249
+1132	Chuanqiandian	stone	81	nort3244	ʐe1	ʐ e 1	ʐ e ¹/	81-1	249
+1133	Diandongbei	stone	81	larg1235	a1=vǝ1	a 1 = v ǝ 1	a ¹/ + v ǝ ¹/	81-1	249
+1134	Hmong Daw	stone	81	hmon1333	pɔ1=že1	p ɔ 1 = ž e 1	p ɔ ¹/ + ʒ e ¹/	81-1	249
+1135	Hmong Njua	stone	81	hmon1264	že1	ž e 1	ʒ e ¹/	81-1	249
+1136	Bunu	stone	81	buna1273	fa3=ɣe1	f a 3 = ɣ e 1	f a ³/ + ɣ e ¹/	81-1	249
+1137	Baonao	stone	81	buna1273	ɣey1	ɣ e y 1	ɣ e j ¹/	81-1	249
+1138	Numao	stone	81	numa1251	ɣey1	ɣ e y 1	ɣ e j ¹/	81-1	249
+1139	Longhua Jiongnai	stone	81	jion1236	ŋki̯a44	ŋ k i̯ a 44	ŋ k j a ⁴⁴	81-1	249
+1140	Liuxiang Jiongnai	stone	81	jion1236	ʑa44	ʑ a 44	ʑ a ⁴⁴	81-1	249
+1141	Xiaozhai Younuo	stone	81	youn1235	ha22=vi̯e33	h a 22 = v i̯ e 33	h a ²² + v j e ³³	81-1	249
+1142	Huangluo Younuo	stone	81	youn1235	ha22=vey33	h a 22 = v e y 33	h a ²² + v e j ³³	81-1	249
+1143	Northern Pa-Hng	stone	81	pahn1237	qa22=yo35	q a 22 = y o 35	q a ²² + j o ³⁵	81-1	249
+1144	Southern Pa-Hng	stone	81	pahn1237	qa31=yo35	q a 31 = y o 35	q a ³¹ + j o ³⁵	81-1	249
+1145	Hm-Nai	stone	81	wuna1248	nti̯ou33=ci13=yo35	n t i̯ o u 33 = c i 13 = y o 35	n t j o u ³³ + ts i ¹³ + j o ³⁵	81-1	249
+1146	Western Xiangxi	sun	82	nort2748	n̥e1	n̥ e 1	n̥ e ¹/	82-1	250
+1147	Eastern Xiangxi	sun	82	east2371	qʰa35=n̥ʰe53	qʰ a 35 = n̥ʰ e 53	qʰ a ³⁵ + n̥ʰ e ⁵³	82-1	250
+1148	Qiandong	sun	82	east2369	n̥ʰɛ1	n̥ʰ ɛ 1	n̥ʰ ɛ ¹/	82-1	250
+1149	Chuanqiandian	sun	82	nort3244	n̥o1	n̥ o 1	n̥ o ¹/	82-1	250
+1150	Diandongbei	sun	82	larg1235	lu1=n̥u1	l u 1 = n̥ u 1	l u ¹/ + n̥ u ¹/	82-1	250
+1151	Hmong Daw	sun	82	hmon1333	n̥u1	n̥ u 1	n̥ u ¹/	82-1	250
+1152	Hmong Njua	sun	82	hmon1264	nu1	n u 1	n u ¹/	82-1	250
+1153	Bunu	sun	82	buna1273	po3=n̥ɔŋ1	p o 3 = n̥ ɔ ŋ 1	p o ³/ + n̥ ɔ ŋ ¹/	82-1	250
+1154	Baonao	sun	82	buna1273	vei3=n̥ɒ1	v e i 3 = n̥ ɒ 1	v e i ³/ + n̥ ɒ ¹/	82-1	250
+1155	Numao	sun	82	numa1251	tau2=ŋkau1	t au 2 = ŋ k au 1	t a u ²/ + ŋ k a u ¹/	82-2	251
+1156	Longhua Jiongnai	sun	82	jion1236	ntoŋ22	n t o ŋ 22	n t o ŋ ²²	82-1	250
+1157	Liuxiang Jiongnai	sun	82	jion1236	ntoŋ21	n t o ŋ 21	n t o ŋ ²¹	82-1	250
+1158	Xiaozhai Younuo	sun	82	youn1235	ha31=nɔ33	h a 31 = n ɔ 33	h a ³¹ + n ɔ ³³	82-1	250
+1159	Huangluo Younuo	sun	82	youn1235	ha31=nɔ33	h a 31 = n ɔ 33	h a ³¹ + n ɔ ³³	82-1	250
+1160	Northern Pa-Hng	sun	82	pahn1237	a33=l̥a55=qa22=n̥ei35	a 33 = l̥ a 55 = q a 22 = n̥ e i 35	a ³³ + l̥ a ⁵⁵ + q a ²² + n̥ e i ³⁵	82-1	250
+1161	Southern Pa-Hng	sun	82	pahn1237	a44=ɔ̃35=n̥e35	a 44 = ɔ̃ 35 = n̥ e 35	a ⁴⁴ + ɔ̃ ³⁵ + n̥ e ³⁵	82-1	250
+1162	Hm-Nai	sun	82	wuna1248	naŋ35=n̥e35	n a ŋ 35 = n̥ e 35	n a ŋ ³⁵ + n̥ e ³⁵	82-1	250
+1163	Western Xiangxi	swim	83	nort2748	naŋ3-u1	n a ŋ 3 - u 1	n a ŋ ³/ + u ¹/	83-1	252
+1164	Eastern Xiangxi	swim	83	east2371	ɳaŋ55-ʋ53	ɳ a ŋ 55 - ʋ 53	ɳ a ŋ ⁵⁵ + ʋ ⁵³	83-1	252
+1165	Qiandong	swim	83	east2369	loŋ3-ǝu1	l o ŋ 3 - ǝ u 1	l o ŋ ³/ + ǝ u ¹/	83-1	252
+1166	Chuanqiandian	swim	83	nort3244	lua8	l u a 8	l u a ⁸/	83-1	252
+1167	Diandongbei	swim	83	larg1235	la8-ao8	l a 8 - a o 8	l a ⁸/ + a o ⁸/	83-1	252
+1168	Hmong Daw	swim	83	hmon1333	u̯ǝ4=lu̯ǝ7-ʼde2	u̯ ǝ 4 = l u̯ ǝ 7 - ʼd e 2	w ǝ ⁴/ + l w ǝ ⁷/ + ˀd e ²/	83-1	252
+1169	Hmong Njua	swim	83	hmon1264	lu̯a7-ƛe5	l u̯ a 7 - ƛ e 5	l w a ⁷/ + tɬ e ⁵/	83-1	252
+1170	Western Xiangxi	tail	84	nort2748	pi3=tɤ3	p i 3 = t ɤ 3	p i ³/ + t ɤ ³/	84-1	253
+1171	Eastern Xiangxi	tail	84	east2371	ti35=ta33	t i 35 = t a 33	t i ³⁵ + t a ³³	84-1	253
+1172	Qiandong	tail	84	east2369	qa1=tɛ3	q a 1 = t ɛ 3	q a ¹/ + t ɛ ³/	84-1	253
+1173	Chuanqiandian	tail	84	nort3244	ku5=du3	k u 5 = d u 3	k u ⁵/ + d u ³/	84-1	253
+1174	Diandongbei	tail	84	larg1235	a3=caɯ4	a 3 = c a ɯ 4	a ³/ + ts a ɯ ⁴/	84-2	254
+1175	Hmong Daw	tail	84	hmon1333	kɔ4=tɨ4	k ɔ 4 = t ɨ 4	k ɔ ⁴/ + t ɨ ⁴/	84-1	253
+1176	Hmong Njua	tail	84	hmon1264	qʉ3=tʉ2	q ʉ 3 = t ʉ 2	q ʉ ³/ + t ʉ ²/	84-1	253
+1177	Bunu	tail	84	buna1273	tau3	t au 3	t a u ³/	84-1	253
+1178	Baonao	tail	84	buna1273	kǝ3=cǝ3	k ǝ 3 = c ǝ 3	k ǝ ³/ + ts ǝ ³/	84-1	253
+1179	Numao	tail	84	numa1251	töy3	t ö y 3	t œ j ³/	84-1	253
+1180	Longhua Jiongnai	tail	84	jion1236	ðau53	ð au 53	ð a u ⁵³	84-1	253
+1181	Liuxiang Jiongnai	tail	84	jion1236	lɔ35	l ɔ 35	l ɔ ³⁵	84-1	253
+1182	Xiaozhai Younuo	tail	84	youn1235	kǝ33=te22	k ǝ 33 = t e 22	k ǝ ³³ + t e ²²	84-1	253
+1183	Huangluo Younuo	tail	84	youn1235	kǝ33=te22	k ǝ 33 = t e 22	k ǝ ³³ + t e ²²	84-1	253
+1184	Northern Pa-Hng	tail	84	pahn1237	tai33=tai22	t a i 33 = t a i 22	t a i ³³ + t a i ²²	84-1	253
+1185	Southern Pa-Hng	tail	84	pahn1237	tɦɤ33=tɤ31	tɦ ɤ 33 = t ɤ 31	tʰ ɤ ³³ + t ɤ ³¹	84-1	253
+1186	Hm-Nai	tail	84	wuna1248	tei33=tei13	t e i 33 = t e i 13	t e i ³³ + t e i ¹³	84-1	253
+1187	Western Xiangxi	that1	85	nort2748	ä3	ä 3	æ ³/	85-1	255
+1188	Eastern Xiangxi	that1	85	east2371	tɛ55=ɛ55	t ɛ 55 = ɛ 55	t ɛ ⁵⁵ + ɛ ⁵⁵	85-1	255
+1189	Qiandong	that1	85	east2369	i3	i 3	i ³/	85-1	255
+1190	Chuanqiandian	that1	85	nort3244	ʔi3	ʔ i 3	ʔ i ³/	85-1	255
+1191	Diandongbei	that1	85	larg1235	tʰao5	tʰ a o 5	tʰ a o ⁵/	85-2	257
+1192	Hmong Daw	that1	85	hmon1333	ndǝw8	n d ǝ w 8	n d ǝ w ⁸/	85-2	257
+1193	Hmong Njua	that1	85	hmon1264	ndaʉ7	n d a ʉ 7	n d a ʉ ⁷/	85-2	257
+1194	Bunu	that1	85	buna1273	uŋ1	u ŋ 1	u ŋ ¹/	85-3	258
+1195	Baonao	that1	85	buna1273	ɔ1	ɔ 1	ɔ ¹/	85-3	258
+1196	Numao	that1	85	numa1251	yi4	y i 4	j i ⁴/	85-1	255
+1197	Longhua Jiongnai	that1	85	jion1236	mi44	m i 44	m i ⁴⁴	85-9	262
+1198	Liuxiang Jiongnai	that1	85	jion1236	mi44	m i 44	m i ⁴⁴	85-9	262
+1199	Xiaozhai Younuo	that1	85	youn1235	ni31	n i 31	n i ³¹	85-5	260
+1200	Huangluo Younuo	that1	85	youn1235	ni22	n i 22	n i ²²	85-5	260
+1201	Northern Pa-Hng	that1	85	pahn1237	ŋ̩55	ŋ̩ 55	ŋ̩ ⁵⁵	85-10	256
+1202	Southern Pa-Hng	that1	85	pahn1237	ŋ̩55	ŋ̩ 55	ŋ̩ ⁵⁵	85-10	256
+1203	Hm-Nai	that1	85	wuna1248	wo55	w o 55	w o ⁵⁵	85-10	256
+1204	Western Xiangxi	that2	85	nort2748	ʑi1	ʑ i 1	ʑ i ¹/	85-4	259
+1205	Qiandong	that2	85	east2369	nen3	n e n 3	n e n ³/	85-5	260
+1206	Diandongbei	that2	85	larg1235	ɳc̢i7	ɳ c̢ i 7	ɳ tʂ i ⁷/	85-6	261
+1502	Western Xiangxi	thin	107	nort2748	ʆu1	ʆ u 1	ɕ u ¹/	107-1	17
+1503	Eastern Xiangxi	thin	107	east2371	ʆi35	ʆ i 35	ɕ i ³⁵	107-1	17
+1504	Hmong Daw	thin	107	hmon1333	ɲi̯a5	ɲ i̯ a 5	ɲ j a ⁵/	107-2	18
+1505	Hmong Njua	thin	107	hmon1264	ɲa6	ɲ a 6	ɲ a ⁶/	107-2	18
+1506	Bunu	thin	107	buna1273	sʰaŋ1	sʰ a ŋ 1	sʰ a ŋ ¹/	107-3	19
+1507	Baonao	thin	107	buna1273	mǝ4	m ǝ 4	m ǝ ⁴/	107-4	20
+1508	Numao	thin	107	numa1251	ncʰɑy3	n cʰ ɑ y 3	n tsʰ ɑ j ³/	107-5	21
+1509	Longhua Jiongnai	thin	107	jion1236	ɲiŋ31	ɲ i ŋ 31	ɲ i ŋ ³¹	107-2	18
+1510	Liuxiang Jiongnai	thin	107	jion1236	ɲiŋ53	ɲ i ŋ 53	ɲ i ŋ ⁵³	107-2	18
+1511	Xiaozhai Younuo	thin	107	youn1235	ɲi22	ɲ i 22	ɲ i ²²	107-2	18
+1512	Huangluo Younuo	thin	107	youn1235	ɲi22	ɲ i 22	ɲ i ²²	107-2	18
+1513	Northern Pa-Hng	thin	107	pahn1237	ɲi22	ɲ i 22	ɲ i ²²	107-2	18
+1514	Southern Pa-Hng	thin	107	pahn1237	ɲɦı31	ɲɦ ı 31	ɲʱ i ³¹	107-2	18
+1515	Hm-Nai	thin	107	wuna1248	n̩22	n̩ 22	n̩ ²²	107-2	18
+1207	Western Xiangxi	this	86	nort2748	nen3	n e n 3	n e n ³/	86-1	263
+1208	Eastern Xiangxi	this	86	east2371	ne55	n e 55	n e ⁵⁵	86-1	263
+1209	Qiandong	this	86	east2369	noŋ3	n o ŋ 3	n o ŋ ³/	86-1	263
+1210	Chuanqiandian	this	86	nort3244	na3	n a 3	n a ³/	86-1	263
+1211	Diandongbei	this	86	larg1235	ni3	n i 3	n i ³/	86-1	263
+1212	Hmong Daw	this	86	hmon1333	nɔ4	n ɔ 4	n ɔ ⁴/	86-1	263
+1213	Hmong Njua	this	86	hmon1264	nu̯a2	n u̯ a 2	n w a ²/	86-1	263
+1214	Bunu	this	86	buna1273	nɔŋ3	n ɔ ŋ 3	n ɔ ŋ ³/	86-1	263
+1215	Baonao	this	86	buna1273	naǝ3	n a ǝ 3	n a ǝ ³/	86-1	263
+1216	Numao	this	86	numa1251	ney3	n e y 3	n e j ³/	86-1	263
+1217	Longhua Jiongnai	this	86	jion1236	ne53	n e 53	n e ⁵³	86-1	263
+1218	Liuxiang Jiongnai	this	86	jion1236	ni35	n i 35	n i ³⁵	86-1	263
+1219	Xiaozhai Younuo	this	86	youn1235	no22	n o 22	n o ²²	86-1	263
+1220	Huangluo Younuo	this	86	youn1235	no22	n o 22	n o ²²	86-1	263
+1221	Northern Pa-Hng	this	86	pahn1237	ŋ̩22	ŋ̩ 22	ŋ̩ ²²	86-1	263
+1222	Southern Pa-Hng	this	86	pahn1237	ŋ̩31	ŋ̩ 31	ŋ̩ ³¹	86-1	263
+1223	Hm-Nai	this	86	wuna1248	ne13	n e 13	n e ¹³	86-1	263
+1224	Western Xiangxi	thou	87	nort2748	mɯ2	m ɯ 2	m ɯ ²/	87-1	264
+1225	Eastern Xiangxi	thou	87	east2371	mu31	m u 31	m u ³¹	87-1	264
+1226	Qiandong	thou	87	east2369	moŋ2	m o ŋ 2	m o ŋ ²/	87-1	264
+1227	Chuanqiandian	thou	87	nort3244	ne2	n e 2	n e ²/	87-2	265
+1228	Diandongbei	thou	87	larg1235	ɕü6	ɕ ü 6	tɕ y ⁶/	87-3	266
+1229	Hmong Daw	thou	87	hmon1333	kɔ2	k ɔ 2	k ɔ ²/	87-4	267
+1230	Hmong Njua	thou	87	hmon1264	kao5	k a o 5	k a o ⁵/	87-4	267
+1231	Bunu	thou	87	buna1273	kau2	k au 2	k a u ²/	87-4	267
+1232	Baonao	thou	87	buna1273	kǝ2	k ǝ 2	k ǝ ²/	87-4	267
+1233	Numao	thou	87	numa1251	köy2	k ö y 2	k œ j ²/	87-4	267
+1234	Longhua Jiongnai	thou	87	jion1236	maŋ33	m a ŋ 33	m a ŋ ³³	87-1	264
+1235	Liuxiang Jiongnai	thou	87	jion1236	mǝŋ31	m ǝ ŋ 31	m ǝ ŋ ³¹	87-1	264
+1236	Xiaozhai Younuo	thou	87	youn1235	ŋ̩13	ŋ̩ 13	ŋ̩ ¹³	87-1	264
+1237	Huangluo Younuo	thou	87	youn1235	ŋ̩13	ŋ̩ 13	ŋ̩ ¹³	87-1	264
+1238	Northern Pa-Hng	thou	87	pahn1237	mu33	m u 33	m u ³³	87-1	264
+1239	Southern Pa-Hng	thou	87	pahn1237	mɦʉ33	mɦ ʉ 33	mʱ ʉ ³³	87-1	264
+1240	Hm-Nai	thou	87	wuna1248	m̩31	m̩ 31	m̥ ³¹	87-1	264
+1241	Western Xiangxi	tongue	88	nort2748	qo1=mi̯a4	q o 1 = m i̯ a 4	q o ¹/ + m j a ⁴/	88-1	268
+1242	Western Xiangxi	tooth	89	nort2748	qo1=ʆɛ̃3	q o 1 = ʆ ɛ̃ 3	q o ¹/ + ɕ ɛ̃ ³/	89-1	269
+1243	Eastern Xiangxi	tooth	89	east2371	qu53=sɛ55	q u 53 =s ɛ 55	q u ⁵³ + s ɛ ⁵⁵	89-1	269
+1244	Qiandong	tooth	89	east2369	m̥ʰi3	m̥ʰ i 3	m̥ʰ i ³/	89-2	270
+1245	Chuanqiandian	tooth	89	nort3244	na3	n a 3	n a ³/	89-2	270
+1246	Diandongbei	tooth	89	larg1235	n̥ie3	n̥ i e 3	n̥ i e ³/	89-2	270
+1247	Hmong Daw	tooth	89	hmon1333	n̥i̯a3	n̥ i̯ a 3	n̥ j a ³/	89-2	270
+1248	Hmong Njua	tooth	89	hmon1264	na2	n a 2	n a ²/	89-2	270
+1249	Bunu	tooth	89	buna1273	fa3=m̥iŋ3	f a 3 = m̥ i ŋ 3	f a ³/ + m̥ i ŋ ³/	89-2	270
+1250	Baonao	tooth	89	buna1273	m̥ay3	m̥ a y 3	m̥ a j ³/	89-2	270
+1251	Numao	tooth	89	numa1251	m̥ɑy3	m̥ ɑ y 3	m̥ ɑ j ³/	89-2	270
+1252	Longhua Jiongnai	tooth	89	jion1236	m̥ay53	m̥ a y 53	m̥ a j ⁵³	89-2	270
+1253	Liuxiang Jiongnai	tooth	89	jion1236	m̥ɛ35	m̥ ɛ 35	m̥ ɛ ³⁵	89-2	270
+1254	Xiaozhai Younuo	tooth	89	youn1235	fun22	f u n 22	f u n ²²	89-3	271
+1255	Huangluo Younuo	tooth	89	youn1235	fun22	f u n 22	f u n ²²	89-3	271
+1256	Northern Pa-Hng	tooth	89	pahn1237	qa44=ɲ̥i22	q a 44 = ɲ̥ i 22	q a ⁴⁴ + ɲ̥ i ²²	89-2	270
+1257	Southern Pa-Hng	tooth	89	pahn1237	m̥ı31	m̥ ı 31	m̥ i ³¹	89-2	270
+1258	Hm-Nai	tooth	89	wuna1248	tei33=m̥iŋ13	t e i 33 = m̥ i ŋ 13	t e i ³³ + m̥ i ŋ ¹³	89-2	270
+1259	Western Xiangxi	tree	90	nort2748	qo1=ntu5	q o 1 = n t u 5	q o ¹/ + n t u ⁵/	90-1	273
+1260	Eastern Xiangxi	tree	90	east2371	dɔ31	d ɔ 31	d ɔ ³¹	90-1	273
+1261	Qiandong	tree	90	east2369	tǝu5	t ǝ u 5	t ǝ u ⁵/	90-1	273
+1262	Chuanqiandian	tree	90	nort3244	ntoŋ5	n t o ŋ 5	n t o ŋ ⁵/	90-1	273
+1263	Diandongbei	tree	90	larg1235	ntao5	n t a o 5	n t a o ⁵/	90-1	273
+1264	Hmong Daw	tree	90	hmon1333	ndõ4	n d õ 4	n d õ ⁴/	90-1	273
+1265	Hmong Njua	tree	90	hmon1264	ndoŋ3	n d o ŋ 3	n d o ŋ ³/	90-1	273
+1266	Bunu	tree	90	buna1273	ntaŋ5	n t a ŋ 5	n t a ŋ ⁵/	90-1	273
+1267	Baonao	tree	90	buna1273	ntɔŋ5	n t ɔ ŋ 5	n t ɔ ŋ ⁵/	90-1	273
+1268	Numao	tree	90	numa1251	ntou5	n t o u 5	n t o u ⁵/	90-1	273
+1269	Longhua Jiongnai	tree	90	jion1236	ntɔuŋ35	n t ɔ u ŋ 35	n t ɔ u ŋ ³⁵	90-1	273
+1270	Liuxiang Jiongnai	tree	90	jion1236	ntaŋ22	n t a ŋ 22	n t a ŋ ²²	90-1	273
+1271	Xiaozhai Younuo	tree	90	youn1235	fɔ33	f ɔ 33	f ɔ ³³	90-2	274
+1272	Huangluo Younuo	tree	90	youn1235	fɔ33	f ɔ 33	f ɔ ³³	90-2	274
+1273	Northern Pa-Hng	tree	90	pahn1237	ti̯a35	t i̯ a 35	t j a ³⁵	90-3	275
+1274	Southern Pa-Hng	tree	90	pahn1237	pi̯a35	p i̯ a 35	p j a ³⁵	90-3	275
+1275	Hm-Nai	tree	90	wuna1248	ca35	c a 35	ts a ³⁵	90-3	275
+1276	Western Xiangxi	two	91	nort2748	ɯ1	ɯ 1	ɯ ¹/	91-1	276
+1277	Eastern Xiangxi	two	91	east2371	ʋ53	ʋ 53	ʋ ⁵³	91-1	276
+1278	Qiandong	two	91	east2369	o1	o 1	o ¹/	91-1	276
+1279	Chuanqiandian	two	91	nort3244	ʔao1	ʔ a o 1	ʔ a o ¹/	91-1	276
+1280	Diandongbei	two	91	larg1235	a1	a 1	a ¹/	91-1	276
+1281	Hmong Daw	two	91	hmon1333	o1	o 1	o ¹/	91-1	276
+1282	Hmong Njua	two	91	hmon1264	ʔao1	ʔ a o 1	ʔ a o ¹/	91-1	276
+1283	Bunu	two	91	buna1273	au1	au 1	a u ¹/	91-1	276
+1284	Baonao	two	91	buna1273	uɔ1	u ɔ 1	u ɔ ¹/	91-1	276
+1285	Numao	two	91	numa1251	öy1	ö y 1	œ j ¹/	91-1	276
+1286	Longhua Jiongnai	two	91	jion1236	u44	u 44	u ⁴⁴	91-1	276
+1287	Liuxiang Jiongnai	two	91	jion1236	u44	u 44	u ⁴⁴	91-1	276
+1288	Xiaozhai Younuo	two	91	youn1235	u33	u 33	u ³³	91-1	276
+1289	Huangluo Younuo	two	91	youn1235	u33	u 33	u ³³	91-1	276
+1290	Northern Pa-Hng	two	91	pahn1237	va35	v a 35	v a ³⁵	91-1	276
+1291	Southern Pa-Hng	two	91	pahn1237	va35	v a 35	v a ³⁵	91-1	276
+1292	Hm-Nai	two	91	wuna1248	wa53	w a 53	w a ⁵³	91-1	276
+1293	Western Xiangxi	walk (go)	92	nort2748	moŋ4	m o ŋ 4	m o ŋ ⁴/	92-1	277
+1294	Eastern Xiangxi	walk (go)	92	east2371	maŋ33	m a ŋ 33	m a ŋ ³³	92-1	277
+1295	Qiandong	walk (go)	92	east2369	moŋ4	m o ŋ 4	m o ŋ ⁴/	92-1	277
+1296	Chuanqiandian	walk (go)	92	nort3244	moŋ4	m o ŋ 4	m o ŋ ⁴/	92-1	277
+1297	Diandongbei	walk (go)	92	larg1235	mao4	m a o 4	m a o ⁴/	92-1	277
+1298	Hmong Daw	walk (go)	92	hmon1333	mu5	m u 5	m u ⁵/	92-1	277
+1299	Hmong Njua	walk (go)	92	hmon1264	moŋ6	m o ŋ 6	m o ŋ ⁶/	92-1	277
+1300	Bunu	walk (go)	92	buna1273	muŋ4	m u ŋ 4	m u ŋ ⁴/	92-1	277
+1301	Baonao	walk (go)	92	buna1273	mu4	m u 4	m u ⁴/	92-1	277
+1302	Numao	walk (go)	92	numa1251	muŋ4	m u ŋ 4	m u ŋ ⁴/	92-1	277
+1303	Longhua Jiongnai	walk (go)	92	jion1236	ŋ̥ŋ31	ŋ̥ŋ 31	ŋ ŋ̊ ³¹	92-1	277
+1304	Liuxiang Jiongnai	walk (go)	92	jion1236	ŋ̥ŋ53	ŋ̥ŋ 53	ŋ ŋ̊ ⁵³	92-1	277
+1305	Xiaozhai Younuo	walk (go)	92	youn1235	ŋ̩22	ŋ̩ 22	ŋ̩ ²²	92-1	277
+1306	Huangluo Younuo	walk (go)	92	youn1235	ŋ̩22	ŋ̩ 22	ŋ̩ ²²	92-1	277
+1307	Northern Pa-Hng	walk (go)	92	pahn1237	ɲi33	ɲ i 33	ɲ i ³³	92-1	277
+1308	Southern Pa-Hng	walk (go)	92	pahn1237	ɲɦı33	ɲɦ ı 33	ɲʱ i ³³	92-1	277
+1309	Hm-Nai	walk (go)	92	wuna1248	m̩33	m̩ 33	m̥ ³³	92-1	277
+1310	Western Xiangxi	warm (hot)	93	nort2748	ʆo3	ʆ o 3	ɕ o ³/	93-1	278
+1311	Eastern Xiangxi	warm (hot)	93	east2371	kɯ53	k ɯ 53	k ɯ ⁵³	93-2	279
+1312	Qiandong	warm (hot)	93	east2369	ʃʰǝu3	ʃʰ ǝ u 3	ɕʰ ǝ u ³/	93-1	278
+1313	Western Xiangxi	water	94	nort2748	u1	u 1	u ¹/	94-1	280
+1314	Eastern Xiangxi	water	94	east2371	ʋ53	ʋ 53	ʋ ⁵³	94-1	280
+1315	Qiandong	water	94	east2369	ǝu1	ǝ u 1	ǝ u ¹/	94-1	280
+1316	Chuanqiandian	water	94	nort3244	tle2	t l e 2	t l e ²/	94-2	281
+1317	Diandongbei	water	94	larg1235	ao1	a o 1	a o ¹/	94-1	280
+1318	Hmong Daw	water	94	hmon1333	ʼde2	ʼd e 2	ˀd e ²/	94-2	281
+1319	Hmong Njua	water	94	hmon1264	ƛe5	ƛ e 5	tɬ e ⁵/	94-2	281
+1320	Bunu	water	94	buna1273	aŋ1	a ŋ 1	a ŋ ¹/	94-1	280
+1321	Baonao	water	94	buna1273	ɔŋ1	ɔ ŋ 1	ɔ ŋ ¹/	94-1	280
+1322	Numao	water	94	numa1251	ou1	o u 1	o u ¹/	94-1	280
+1323	Longhua Jiongnai	water	94	jion1236	ɔuŋ44	ɔ u ŋ 44	ɔ u ŋ ⁴⁴	94-1	280
+1324	Liuxiang Jiongnai	water	94	jion1236	aŋ44	a ŋ 44	a ŋ ⁴⁴	94-1	280
+1325	Xiaozhai Younuo	water	94	youn1235	ŋ̩33	ŋ̩ 33	ŋ̩ ³³	94-1	280
+1326	Huangluo Younuo	water	94	youn1235	ŋ̩33	ŋ̩ 33	ŋ̩ ³³	94-1	280
+1327	Northern Pa-Hng	water	94	pahn1237	aŋ35	a ŋ 35	a ŋ ³⁵	94-1	280
+1328	Southern Pa-Hng	water	94	pahn1237	ɔ̃35	ɔ̃ 35	ɔ̃ ³⁵	94-1	280
+1329	Hm-Nai	water	94	wuna1248	aŋ35	a ŋ 35	a ŋ ³⁵	94-1	280
+1330	Western Xiangxi	we	95	nort2748	pɯ1	p ɯ 1	p ɯ ¹/	95-1	282
+1331	Eastern Xiangxi	we	95	east2371	pʋ53	p ʋ 53	p ʋ ⁵³	95-1	282
+1332	Qiandong	we	95	east2369	pi1	p i 1	p i ¹/	95-1	282
+1333	Chuanqiandian	we	95	nort3244	pe1	p e 1	p e ¹/	95-1	282
+1334	Diandongbei	we	95	larg1235	pi1	p i 1	p i ¹/	95-1	282
+1335	Hmong Daw	we	95	hmon1333	pe1	p e 1	p e ¹/	95-1	282
+1336	Hmong Njua	we	95	hmon1264	pe1	p e 1	p e ¹/	95-1	282
+1337	Bunu	we	95	buna1273	pe1	p e 1	p e ¹/	95-1	282
+1338	Baonao	we	95	buna1273	pey1	p e y 1	p e j ¹/	95-1	282
+1339	Numao	we	95	numa1251	pɑ1	p ɑ 1	p ɑ ¹/	95-1	282
+1340	Longhua Jiongnai	we	95	jion1236	pa44	p a 44	p a ⁴⁴	95-1	282
+1341	Liuxiang Jiongnai	we	95	jion1236	pa44	p a 44	p a ⁴⁴	95-1	282
+1342	Xiaozhai Younuo	we	95	youn1235	pou33	p o u 33	p o u ³³	95-1	282
+1343	Huangluo Younuo	we	95	youn1235	pou33	p o u 33	p o u ³³	95-1	282
+1344	Northern Pa-Hng	we	95	pahn1237	pu35	p u 35	p u ³⁵	95-1	282
+1345	Southern Pa-Hng	we	95	pahn1237	pʉ35	p ʉ 35	p ʉ ³⁵	95-1	282
+1346	Hm-Nai	we	95	wuna1248	waŋ22-kaŋ13	w a ŋ 22 - k a ŋ 13	w a ŋ ²² + k a ŋ ¹³	95-2	283
+1347	Western Xiangxi	what	96	nort2748	qo1=ɳaŋ1	q o 1 = ɳ a ŋ 1	q o ¹/ + ɳ a ŋ ¹/	96-1	284
+1348	Eastern Xiangxi	what	96	east2371	mɛ55-yɤ31	m ɛ 55 - y ɤ 31	m ɛ ⁵⁵ + j ɤ ³¹	96-2	285
+1349	Qiandong	what	96	east2369	qei2=ʃi3	q e i 2 =ʃ i 3	q e i ²/ → ɕ i ³/	96-3	286
+1350	Chuanqiandian	what	96	nort3244	lua6=c̢i5	l u a 6 = c̢ i 5	l u a ⁶/ + tʂ i ⁵/	96-3	286
+1351	Diandongbei	what	96	larg1235	qa1=ši5	q a 1 = š i 5	q a ¹/ + ʃ i ⁵/	96-3	286
+1352	Hmong Daw	what	96	hmon1333	ʼda1=či4	ʼd a 1 = č i 4	ˀd a ¹/ + tʃ i ⁴/	96-3	286
+1353	Hmong Njua	what	96	hmon1264	ƛaŋ1=čɨ3	ƛ a ŋ 1 = č ɨ 3	tɬ a ŋ ¹/ + tʃ ɨ ³/	96-3	286
+1354	Longhua Jiongnai	what	96	jion1236	laŋ44-ða35	l a ŋ 44 - ð a 35	l a ŋ ⁴⁴ + ð a ³⁵	96-4	287
+1355	Liuxiang Jiongnai	what	96	jion1236	ney53-ʑã31	n e y 53 - ʑ ã 31	n e j ⁵³ + ʑ ã ³¹	96-5	288
+1356	Xiaozhai Younuo	what	96	youn1235	kǝ33-li33	k ǝ 33 - l i 33	k ǝ ³³ + l i ³³	96-6	289
+1357	Huangluo Younuo	what	96	youn1235	hoŋ13-nǝn33	h o ŋ 13 - n ǝ n 33	h o ŋ ¹³ + n ǝ n ³³	96-7	290
+1358	Northern Pa-Hng	what	96	pahn1237	ka55-yaŋ53	k a 55 - y a ŋ 53	k a ⁵⁵ + j a ŋ ⁵³	96-8	291
+1359	Southern Pa-Hng	what	96	pahn1237	qa35-yɔ̃53	q a 35 - y ɔ̃ 53	q a ³⁵ + j ɔ̃ ⁵³	96-8	291
+1360	Hm-Nai	what	96	wuna1248	hou35=mpou33	h o u 35 = m p o u 33	h o u ³⁵ + m p o u ³³	96-9	292
+1361	Western Xiangxi	white	97	nort2748	qu̯ɤ1	q u̯ ɤ 1	q w ɤ ¹/	97-1	293
+1362	Eastern Xiangxi	white	97	east2371	qwa53	qw a 53	q w a ⁵³	97-1	293
+1363	Qiandong	white	97	east2369	ɬu1	ɬ u 1	ɬ u ¹/	97-1	293
+1364	Chuanqiandian	white	97	nort3244	tleu1	t l e u 1	t l e u ¹/	97-1	293
+1365	Diandongbei	white	97	larg1235	ƛoey1-nci6-lie4	ƛ o e y 1 - n c i 6 - l i e 4	tɬ o e j ¹/ + n ts i ⁶/ + l i e ⁴/	97-1	293
+1366	Hmong Daw	white	97	hmon1333	ʼdǝw1	ʼd ǝ w 1	ˀd ǝ w ¹/	97-1	293
+1367	Hmong Njua	white	97	hmon1264	ƛaʉ1	ƛ a ʉ 1	tɬ a ʉ ¹/	97-1	293
+1368	Bunu	white	97	buna1273	ƛo1	ƛ o 1	tɬ o ¹/	97-1	293
+1369	Baonao	white	97	buna1273	ƛou1	ƛ o u 1	tɬ o u ¹/	97-1	293
+1370	Numao	white	97	numa1251	ƛi̯o1	ƛ i̯ o 1	tɬ j o ¹/	97-1	293
+1371	Longhua Jiongnai	white	97	jion1236	klau44	k l au 44	k l a u ⁴⁴	97-1	293
+1372	Liuxiang Jiongnai	white	97	jion1236	klɔ44	k l ɔ 44	k l ɔ ⁴⁴	97-1	293
+1373	Xiaozhai Younuo	white	97	youn1235	ki̯e33	k i̯ e 33	k j e ³³	97-1	293
+1374	Huangluo Younuo	white	97	youn1235	ki̯u33	k i̯ u 33	k j u ³³	97-1	293
+1375	Northern Pa-Hng	white	97	pahn1237	kɔ35	k ɔ 35	k ɔ ³⁵	97-1	293
+1376	Southern Pa-Hng	white	97	pahn1237	kwɔ35	kw ɔ 35	k w ɔ ³⁵	97-1	293
+1377	Hm-Nai	white	97	wuna1248	kwau35	kw au 35	k w a u ³⁵	97-1	293
+1378	Western Xiangxi	who	98	nort2748	ɕi3-le1	ɕ i 3 - l e 1	tɕ i ³/ + l e ¹/	98-1	294
+1379	Eastern Xiangxi	who	98	east2371	pɛ55	p ɛ 55	p ɛ ⁵⁵	98-2	295
+1380	Qiandong	who	98	east2369	tɛ4=ʃi3	t ɛ 4 =ʃ i 3	t ɛ ⁴/ → ɕ i ³/	98-1	294
+1381	Chuanqiandian	who	98	nort3244	lo1=ʔi5	l o 1 = ʔ i 5	l o ¹/ + ʔ i ⁵/	98-3	296
+1382	Diandongbei	who	98	larg1235	qa3=tɨ4	q a 3 = t ɨ 4	q a ³/ + t ɨ ⁴/	98-4	297
+1383	Hmong Daw	who	98	hmon1333	tɨ6	t ɨ 6	t ɨ ⁶/	98-4	297
+1384	Hmong Njua	who	98	hmon1264	leŋ5=tʉ6	l e ŋ 5 = t ʉ 6	l e ŋ ⁵/ + t ʉ ⁶/	98-4	297
+1385	Bunu	who	98	buna1273	po3=tau6	p o 3 = t au 6	p o ³/ + t a u ⁶/	98-4	297
+1386	Baonao	who	98	buna1273	ey2=sey6	e y 2 =s e y 6	e j ²/ + s e j ⁶/	98-5	298
+1387	Numao	who	98	numa1251	iu1=yi3	i u 1 = y i 3	i u ¹/ + j i ³/	98-1	294
+1388	Longhua Jiongnai	who	98	jion1236	n̥a53	n̥ a 53	n̥ a ⁵³	98-6	299
+1389	Liuxiang Jiongnai	who	98	jion1236	n̥a35	n̥ a 35	n̥ a ³⁵	98-6	299
+1390	Xiaozhai Younuo	who	98	youn1235	a53-nɔ13	a 53 - n ɔ 13	a ⁵³ + n ɔ ¹³	98-7	300
+1391	Huangluo Younuo	who	98	youn1235	kǝ33-lou13	k ǝ 33 - l o u 13	k ǝ ³³ + l o u ¹³	98-8	301
+1392	Northern Pa-Hng	who	98	pahn1237	ti31-lɛ33	t i 31 - l ɛ 33	t i ³¹ + l ɛ ³³	98-4	297
+1393	Southern Pa-Hng	who	98	pahn1237	ti44-lɦɛ̃33	t i 44 - lɦ ɛ̃ 33	t i ⁴⁴ + lʱ ɛ̃ ³³	98-4	297
+1394	Hm-Nai	who	98	wuna1248	ti35-nai33	t i 35 - n a i 33	t i ³⁵ + n a i ³³	98-4	297
+1516	Western Xiangxi	wind	108	nort2748	ki5	k i 5	k i ⁵/	108-1	22
+1517	Eastern Xiangxi	wind	108	east2371	ɕi31	ɕ i 31	tɕ i ³¹	108-1	22
+1518	Qiandong	wind	108	east2369	ɕen5	ɕ e n 5	tɕ e n ⁵/	108-1	22
+1519	Chuanqiandian	wind	108	nort3244	ɕua5	ɕ u a 5	tɕ u a ⁵/	108-1	22
+1520	Diandongbei	wind	108	larg1235	ɕa5	ɕ a 5	tɕ a ⁵/	108-1	22
+1521	Hmong Daw	wind	108	hmon1333	ɕu̯ǝ4	ɕ u̯ ǝ 4	tɕ w ǝ ⁴/	108-1	22
+1522	Hmong Njua	wind	108	hmon1264	ɕu̯a3	ɕ u̯ a 3	tɕ w a ³/	108-1	22
+1523	Bunu	wind	108	buna1273	ka3=ɕi5	k a 3 =ɕ i 5	k a ³/ + tɕ i ⁵/	108-1	22
+1524	Baonao	wind	108	buna1273	ɕi5	ɕ i 5	tɕ i ⁵/	108-1	22
+1525	Numao	wind	108	numa1251	ɕi5	ɕ i 5	tɕ i ⁵/	108-1	22
+1526	Longhua Jiongnai	wind	108	jion1236	či35	č i 35	tʃ i ³⁵	108-1	22
+1527	Liuxiang Jiongnai	wind	108	jion1236	či22	č i 22	tʃ i ²²	108-1	22
+1528	Xiaozhai Younuo	wind	108	youn1235	ki35	k i 35	k i ³⁵	108-1	22
+1529	Huangluo Younuo	wind	108	youn1235	ki53	k i 53	k i ⁵³	108-1	22
+1530	Northern Pa-Hng	wind	108	pahn1237	aŋ35=ɕi55	a ŋ 35 =ɕ i 55	a ŋ ³⁵ + tɕ i ⁵⁵	108-1	22
+1531	Southern Pa-Hng	wind	108	pahn1237	ɔ̃35=ɕi55	ɔ̃ 35 =ɕ i 55	ɔ̃ ³⁵ + tɕ i ⁵⁵	108-1	22
+1532	Hm-Nai	wind	108	wuna1248	aŋ35=ɕi55	a ŋ 35 =ɕ i 55	a ŋ ³⁵ + tɕ i ⁵⁵	108-1	22
+1395	Western Xiangxi	woman	99	nort2748	qo1=mpʰa3	q o 1 = m pʰ a 3	q o ¹/ + m pʰ a ³/	99-1	302
+1396	Eastern Xiangxi	woman	99	east2371	qei35=pʰa35	q e i 35 = pʰ a 35	q e i ³⁵ + pʰ a ³⁵	99-1	302
+1397	Qiandong	woman	99	east2369	a3	a 3	a ³/	99-2	303
+1398	Chuanqiandian	woman	99	nort3244	po2	p o 2	p o ²/	99-3	304
+1399	Diandongbei	woman	99	larg1235	a5=po2	a 5 = p o 2	a ⁵/ + p o ²/	99-3	304
+1400	Hmong Daw	woman	99	hmon1333	pɔ2-ni̯a7	p ɔ 2 - n i̯ a 7	p ɔ ²/ + n j a ⁷/	99-3	304
+1401	Hmong Njua	woman	99	hmon1264	qu̯a4=pu5	q u̯ a 4 = p u 5	q w a ⁴/ + p u ⁵/	99-3	304
+1533	Western Xiangxi	worm	109	nort2748	ta1=kin1	t a 1 = k i n 1	t a ¹/ + k i n ¹/	109-1	23
+1534	Eastern Xiangxi	worm	109	east2371	ɕi53	ɕ i 53	tɕ i ⁵³	109-1	23
+1535	Qiandong	worm	109	east2369	kaŋ1	k a ŋ 1	k a ŋ ¹/	109-1	23
+1536	Chuanqiandian	worm	109	nort3244	kaŋ1	k a ŋ 1	k a ŋ ¹/	109-1	23
+1537	Diandongbei	worm	109	larg1235	pi1=kaɯ1	p i 1 = k a ɯ 1	p i ¹/ + k a ɯ ¹/	109-1	23
+1538	Hmong Daw	worm	109	hmon1333	ɕu̯ǝ4-na1	ɕ u̯ ǝ 4 - n a 1	tɕ w ǝ ⁴/ + n a ¹/	109-2	24
+1539	Hmong Njua	worm	109	hmon1264	kaŋ4	k a ŋ 4	k a ŋ ⁴/	109-1	23
+1540	Bunu	worm	109	buna1273	ka1=ɕɔŋ1	k a 1 =ɕ ɔ ŋ 1	k a ¹/ + tɕ ɔ ŋ ¹/	109-3	25
+1541	Baonao	worm	109	buna1273	ɕey1=ŋi̯a5	ɕ e y 1 = ŋ i̯ a 5	tɕ e j ¹/ + ŋ j a ⁵/	109-2	24
+1542	Numao	worm	109	numa1251	ŋkɑu4	ŋ k ɑ u 4	ŋ k ɑ u ⁴/	109-4	26
+1543	Longhua Jiongnai	worm	109	jion1236	ka44=ʑaŋ44	k a 44 =ʑ a ŋ 44	k a ⁴⁴ → ʑ a ŋ ⁴⁴	109-5	27
+1544	Liuxiang Jiongnai	worm	109	jion1236	kɛ44=ʑaŋ44	k ɛ 44 =ʑ a ŋ 44	k ɛ ⁴⁴ → ʑ a ŋ ⁴⁴	109-5	27
+1545	Xiaozhai Younuo	worm	109	youn1235	ki13=ki̯aŋ33	k i 13 = k i̯ a ŋ 33	k i ¹³ + k j a ŋ ³³	109-1	23
+1546	Huangluo Younuo	worm	109	youn1235	ki13=ki̯aŋ33	k i 13 = k i̯ a ŋ 33	k i ¹³ + k j a ŋ ³³	109-1	23
+1547	Northern Pa-Hng	worm	109	pahn1237	qa22=yoŋ35	q a 22 = y o ŋ 35	q a ²² + j o ŋ ³⁵	109-6	28
+1548	Southern Pa-Hng	worm	109	pahn1237	qɤ35=yõ35	q ɤ 35 = y õ 35	q ɤ ³⁵ + j õ ³⁵	109-6	28
+1549	Hm-Nai	worm	109	wuna1248	qei35=ɕuŋ35	q e i 35 =ɕ u ŋ 35	q e i ³⁵ + tɕ u ŋ ³⁵	109-3	25
+1550	Western Xiangxi	year	110	nort2748	ɕu5	ɕ u 5	tɕ u ⁵/	110-1	38
+1551	Eastern Xiangxi	year	110	east2371	cɔ31	c ɔ 31	ts ɔ ³¹	110-1	38
+1552	Qiandong	year	110	east2369	n̥ʰiu5	n̥ʰ i u 5	n̥ʰ i u ⁵/	110-2	39
+1553	Chuanqiandian	year	110	nort3244	ʆoŋ5	ʆ o ŋ 5	ɕ o ŋ ⁵/	110-1	38
+1554	Diandongbei	year	110	larg1235	ʆao7	ʆ a o 7	ɕ a o ⁷/	110-1	38
+1555	Hmong Daw	year	110	hmon1333	ʆõ4	ʆ õ 4	ɕ õ ⁴/	110-1	38
+1556	Hmong Njua	year	110	hmon1264	ʆoŋ3	ʆ o ŋ 3	ɕ o ŋ ³/	110-1	38
+1557	Bunu	year	110	buna1273	saŋ5	s a ŋ 5	s a ŋ ⁵/	110-1	38
+1558	Baonao	year	110	buna1273	sɔŋ5	s ɔ ŋ 5	s ɔ ŋ ⁵/	110-1	38
+1559	Numao	year	110	numa1251	ci̯ou5	c i̯ o u 5	ts j o u ⁵/	110-1	38
+1560	Longhua Jiongnai	year	110	jion1236	ɲ̥ɔuŋ35	ɲ̥ ɔ u ŋ 35	ɲ̥ ɔ u ŋ ³⁵	110-2	39
+1561	Liuxiang Jiongnai	year	110	jion1236	ɲ̥ɔ22	ɲ̥ ɔ 22	ɲ̥ ɔ ²²	110-2	39
+1562	Xiaozhai Younuo	year	110	youn1235	ti̯uŋ35	t i̯ u ŋ 35	t j u ŋ ³⁵	110-3	40
+1563	Huangluo Younuo	year	110	youn1235	ti̯uŋ53	t i̯ u ŋ 53	t j u ŋ ⁵³	110-3	40
+1564	Northern Pa-Hng	year	110	pahn1237	ɕaŋ55	ɕ a ŋ 55	tɕ a ŋ ⁵⁵	110-1	38
+1565	Southern Pa-Hng	year	110	pahn1237	ɕɔ̃55	ɕ ɔ̃ 55	tɕ ɔ̃ ⁵⁵	110-1	38
+1566	Hm-Nai	year	110	wuna1248	ɕuŋ55	ɕ u ŋ 55	tɕ u ŋ ⁵⁵	110-1	38
+1402	Western Xiangxi	yellow	100	nort2748	qu̯en2	q u̯ e n 2	q w e n ²/	100-1	9
+1403	Eastern Xiangxi	yellow	100	east2371	gwɛ31	gw ɛ 31	g w ɛ ³¹	100-1	9
+1404	Qiandong	yellow	100	east2369	faŋ2	f a ŋ 2	f a ŋ ²/	100-1	9
+1405	Chuanqiandian	yellow	100	nort3244	tlaŋ2	t l a ŋ 2	t l a ŋ ²/	100-1	9
+1406	Diandongbei	yellow	100	larg1235	vaɯ2	v a ɯ 2	v a ɯ ²/	100-1	9
+1407	Hmong Daw	yellow	100	hmon1333	ʼda2	ʼd a 2	ˀd a ²/	100-1	9
+1408	Hmong Njua	yellow	100	hmon1264	ƛaŋ5	ƛ a ŋ 5	tɬ a ŋ ⁵/	100-1	9
+1409	Bunu	yellow	100	buna1273	kwen2	kw e n 2	k w e n ²/	100-1	9
+1410	Baonao	yellow	100	buna1273	kwa2	kw a 2	k w a ²/	100-1	9
+1411	Numao	yellow	100	numa1251	kuɑn2 ~ ʔpan2	ʔ p a n 2	ʔ p a n ²/	100-1	9
+1412	Longhua Jiongnai	yellow	100	jion1236	kwen33	kw e n 33	k w e n ³³	100-1	9
+1413	Liuxiang Jiongnai	yellow	100	jion1236	kwan31	kw a n 31	k w a n ³¹	100-1	9
+1414	Xiaozhai Younuo	yellow	100	youn1235	kwǝn13	kw ǝ n 13	k w ǝ n ¹³	100-1	9
+1415	Huangluo Younuo	yellow	100	youn1235	kwǝn13	kw ǝ n 13	k w ǝ n ¹³	100-1	9
+1416	Northern Pa-Hng	yellow	100	pahn1237	kwei33	kw e i 33	k w e i ³³	100-1	9
+1417	Southern Pa-Hng	yellow	100	pahn1237	kɦwɤ33	kɦ w ɤ 33	kʰ w ɤ ³³	100-1	9
+1418	Hm-Nai	yellow	100	wuna1248	kwei33	kw e i 33	k w e i ³³	100-1	9
