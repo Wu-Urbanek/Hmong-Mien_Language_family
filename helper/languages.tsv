@@ -1,5 +1,22 @@
 LANGUAGE	GLOTTOLOG	SOURCE
-Western Xiangxi	nort2748	
+Western Xiangxi	nort2748 @book{1992汉苗词典,
+  title={汉苗词典/湘西方言/中国少数民族语言系列词典丛书: },
+  author={中国社会科学院. 民族研究所},
+  lccn={93131158},
+  series={中国少数民族语言系列词典丛书},
+  url={https://books.google.de/books?id=MD-8AAAAIAAJ},
+  year={1992},
+  publisher={四川民族出版社}
+}
+@book{2004苗语东部方言土语比较,
+  title={苗语东部方言土语比较},
+  isbn={9787105063277},
+  lccn={2006358965},
+  url={https://books.google.de/books?id=k603AAAAMAAJ},
+  year={2004},
+  publisher={民族出版社}
+}
+	
 Eastern Xiangxi	east2371	
 Qiandong	east2369	
 Chuanqiandian	nort3244	
