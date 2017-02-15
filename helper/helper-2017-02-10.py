@@ -8,11 +8,18 @@ t = Tokenizer('orthography.tsv')
 D = {0: ['doculect', 'concept', 'concept_id', 'glottolog', 'word_is',
     'segments_is', 'segments', 'cog']}
 
+correct = {
+        'pa31 #': "pa31",
+        "ɲɕʰɔ4 #": "ɲɕʰɔ4",
+        }
+
 # load csv file with help of the csv2list function in lingpy
 csv = csv2list('output.csv', sep=',')
 for i, (concept_id, concept, language, glottolog, words, cogid) in enumerate(csv):
+
     # only take the second element if there are more words
     ipa = words.split(' ~ ')[-1]
+    ipa = correct.get(ipa, ipa)
     cognacy = '{0}-{1}'.format(concept_id, cogid)
     D[i+1] = [language, concept, concept_id, glottolog, words, t(ipa), t(ipa, 'IPA'), cognacy]
 wl = Wordlist(D)
