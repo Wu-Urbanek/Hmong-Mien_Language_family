@@ -30,5 +30,21 @@ The script [helper-2017-02-10.py](https://github.com/MacyL/Hmong-Mien_Language_f
 
 ### Lingpy : detecting cognates automatically
 
+** Problems one might encounter : ** 
+Lingpy required python-igraph. To install python-igraph for python 2.7, the commandline is . <br />
+```shell
+pip install python-igraph
+```
+However, Ubuntu 16.04 users who work with **python 3.5.2** might run into some installation problems. Mostly, the problems occur when there is no C compiler installed or missing igraph-dependent libraries.  <br />
+Try the following methods. 
+1. Download the package from their github repository
+2. Execute the following commands. 
+
+```shell
+sudo apt-get install pkg-config 
+sudo apt-get install -y libigraph0-dev
+cd python-igraph-master
+sudo python3 setup.py install
+```
 
 
