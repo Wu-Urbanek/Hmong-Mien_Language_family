@@ -1112,7 +1112,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_ID	GLOTTOLOG	WORD_IS	SEGMENTS_IS	SEGMENTS	COG	COGID
 1045	Southern Pa-Hng	skin	75	pahn1237	qa31=li̯ʉ55	q a 31 = l i̯ ʉ 55	q a ³¹ + l j ʉ ⁵⁵	75-4	224
 1046	Hm-Nai	skin	75	wuna1248	qʰau35	qʰ au 35	qʰ a u ³⁵	75-5	225
 1047	Western Xiangxi	sleep	76	nort2748	pɤ5=nqu̯e1	p ɤ 5 = n q u̯ e 1	p ɤ ⁵/ + n q w e ¹/	76-1	226
-1048	Eastern Xiangxi	sleep	76	east2371	pa31 #	p a 31 # #	p a ³¹ # #	76-2	227
+1048	Eastern Xiangxi	sleep	76	east2371	pa31 #	p a 31	p a ³¹	76-2	227
 1049	Qiandong	sleep	76	east2369	pi5	p i 5	p i ⁵/	76-2	227
 1050	Chuanqiandian	sleep	76	nort3244	pu5	p u 5	p u ⁵/	76-2	227
 1051	Diandongbei	sleep	76	larg1235	pu5	p u 5	p u ⁵/	76-2	227
@@ -1151,7 +1151,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_ID	GLOTTOLOG	WORD_IS	SEGMENTS_IS	SEGMENTS	COG	COGID
 1084	Qiandong	smoke	78	east2369	ǝu1=i1	ǝ u 1 = i 1	ǝ u ¹/ + i ¹/	78-2	238
 1085	Chuanqiandian	smoke	78	nort3244	paŋ5=nɕʰo5	p a ŋ 5 = nɕʰ o 5	p a ŋ ⁵/ + n tɕʰ o ⁵/	78-1	237
 1086	Diandongbei	smoke	78	larg1235	paɯ5=nɕʰo5	p a ɯ 5 = nɕʰ o 5	p a ɯ ⁵/ + n tɕʰ o ⁵/	78-1	237
-1087	Hmong Daw	smoke	78	hmon1333	ɲɕʰɔ4 #	ɲɕʰ ɔ 4 # #	ɲ tɕʰ ɔ ⁴/ # #	78-1	237
+1087	Hmong Daw	smoke	78	hmon1333	ɲɕʰɔ4 #	ɲɕʰ ɔ 4	ɲ tɕʰ ɔ ⁴/	78-1	237
 1088	Hmong Njua	smoke	78	hmon1264	paŋ3-taʉ6	p a ŋ 3 - t a ʉ 6	p a ŋ ³/ + t a ʉ ⁶/	78-3	239
 1089	Bunu	smoke	78	buna1273	ka3=pɔŋ5-to4	k a 3 = p ɔ ŋ 5 - t o 4	k a ³/ + p ɔ ŋ ⁵/ + t o ⁴/	78-3	239
 1090	Baonao	smoke	78	buna1273	pɒ5-tiu4	p ɒ 5 - t i u 4	p ɒ ⁵/ + t i u ⁴/	78-3	239
