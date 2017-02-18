@@ -29,6 +29,11 @@ python3 convert_wordlist.py hmo.xls hmo_complate_wl.csv
 The script [helper-2017-02-10.py](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/helper-2017-02-10.py) can be used to convert the GLD-specific orthographies to IPA-like sounds, it also corrects for certain GLD-specific idiosyncrasies of annotation which make it difficult to process the data with lingpy. The file will create a TSV-file [hm-111-17.sv](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/hm-111-17.tsv) that can directly be used in lingpy for cognate detection analysis.
 
 ### Lingpy : detecting cognates automatically
+** Full pipeline in python script : ** 
+```shell
+python3	congnate_detect_pipeline.py input orthography output
+```
+The input data is in word list format, the orthography provides a template for tokenizing the words. And the output is the name we wish have. This pipeline generated three files. cognates, scores, and partial cognates. 
 
 ** Problems one might encounter : ** 
 Lingpy required python-igraph. To install python-igraph for python 2.7, the commandline is . <br />
