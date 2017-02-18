@@ -24,7 +24,7 @@ correct = {
         'pa31 #': "pa31",
         "ɲɕʰɔ4 #": "ɲɕʰɔ4"
         }
-
+# Process start 
 ## tokenize, full cognate
 for i, (concept_id, concept, language, glottolog, words, cogid) in enumerate(csv):
     # only take the second element if there are more words
@@ -47,7 +47,7 @@ except:
 	part.get_scorer(runs=10000)
 	part.output('tsv', filename='{0}-{1}-{2}'.format(sys.argv[3],'partial','temp'))
 
-# manually correct error in data
+## manually correct error in data
 part.partial_cluster(method='lexstat', cluster_method='infomap', threshold=0.6,
         ref='cogids')
 
