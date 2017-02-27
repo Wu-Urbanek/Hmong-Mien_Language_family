@@ -1,4 +1,5 @@
-import lingpy 
+import lingpy
+from lingpy import *
 
 # load the hand manual alignment file as wordlist object
 wl=Wordlist('hm-111-17_16feb.tsv')
