@@ -5,7 +5,7 @@ from lingpy import *
 wl=Wordlist('hm-111-17_16feb.tsv')
 
 # this will get the dictionary which cogid is key and the index of the row is value 
-wl_paps=wl.get_paps(ref="COGID",entry='concept',,missing="?",modify_ref=False)
+wl_paps=wl.get_paps(ref="COGID",entry='concept',missing="?",modify_ref=False)
 
 # create taxa, check the "get_entries" first 
 wl_entres=wl.get_entries("DOCULECT") # this one has full taxa 
