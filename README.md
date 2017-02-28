@@ -35,6 +35,14 @@ python3	congnate_detect_pipeline.py input orthography output
 ```
 The input data is in word list format, the orthography provides a template for tokenizing the words. And the output is the name we wish have. This pipeline generated three files. cognates, scores, and partial cognates. 
 
+### Lingpy : generating NEX file 
+** commandline executable python script : **
+```shell
+python3	congnate_detect_pipeline.py input output
+```
+The input data is in word list format. Following the input file is the output file name. Please make sure that the input file has a column named "COGIDS", or change the script accordingly. 
+
+
 ** Problems one might encounter : ** 
 Lingpy required python-igraph. To install python-igraph for python 2.7, the commandline is . <br />
 ```shell
