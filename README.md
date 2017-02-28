@@ -28,7 +28,8 @@ python3 convert_wordlist.py hmo.xls hmo_complate_wl.csv
 ```
 
 #### 2. Preprocessing data
-**Generating the orthography data 
+
+**Generating the orthography data** 
 
 ```
 lingpy ortho_profile -i output.csv --column=ipa
@@ -37,15 +38,14 @@ The purpose of having this process is to generate a orthography.tsv file for tok
 **This command line does not work with latest version of lingpy properly. Further checking needed!** 
 
 
+#### 3. Detecting cognates automatically ( Lingpy )
 **Converting phonetic symbols to IPA symbols**
 
 The script [helper-2017-02-10.py](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/helper-2017-02-10.py) can be used to convert the GLD-specific orthographies to IPA-like sounds, it also corrects for certain GLD-specific idiosyncrasies of annotation which make it difficult to process the data with lingpy. The file will create a TSV-file [hm-111-17.sv](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/hm-111-17.tsv) that can directly be used in lingpy for cognate detection analysis.
 
-
-#### 3. Detecting cognates automatically ( Lingpy )
-**Pipeline to generate cognates:** 
+**Full pipeline to generate cognates:** 
 ```shell
-python3	congnate_detect_pipeline.py input orthography output
+python3	congnate_detect_pipeline.py [input wordlist] [orthography file] [output file name]
 ```
 The input data is in word list format, the orthography provides a template for tokenizing the words. And the output is the name we wish have. This pipeline generated three files. cognates, scores, and partial cognates. 
 
