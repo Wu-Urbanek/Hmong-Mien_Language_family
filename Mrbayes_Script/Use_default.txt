@@ -1,0 +1,12 @@
+begin mrbayes;
+   set autoclose=yes nowarn=yes;
+   execute /home/admin1/Documents/MOLE/StepByStep/github/Data/HM-manual-NEX.nex;
+   lset nst=6 rates=gamma;
+   mcmcp nruns=2 nchains=4 diagnfreq=1000 diagnstat=maxstddev;
+   mcmcp ngen=20000000 savebrlens=yes samplefreq=100;
+   mcmc file=HM-manual-NEX.nex1;
+   mcmc file=HM-manual-NEX.nex2;
+   sump file=HM-manual-NEXsump;
+   sumt filename=HM-manual-NEXsump burnin=20
+end;
+
