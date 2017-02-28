@@ -7,7 +7,7 @@ The results will be compared with manually aligned cognates. In contrast to most
 Phylogenetic tree will be reconstructed by using our own cogante data.
 
 ### Method 
-#### Data download 
+#### 1. Data download 
 The Global Lexicostatistical Database at 
 http://starling.rinet.ru/cgi-bin/main.cgi?root=new100&encoding=utf-eng 
 
@@ -24,11 +24,12 @@ Note that the [LexiBank](glottobank.org/) project of the Glottobank group has al
 ```
 python3 convert_wordlist.py hmo.xls hmo_complate_wl.csv
 ```
+#### 2. Preprocessing data
 **Converting phonetic symbols to IPA symbols**
 
 The script [helper-2017-02-10.py](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/helper-2017-02-10.py) can be used to convert the GLD-specific orthographies to IPA-like sounds, it also corrects for certain GLD-specific idiosyncrasies of annotation which make it difficult to process the data with lingpy. The file will create a TSV-file [hm-111-17.sv](https://github.com/MacyL/Hmong-Mien_Language_family/blob/master/helper/hm-111-17.tsv) that can directly be used in lingpy for cognate detection analysis.
 
-### Lingpy : detecting cognates automatically
+#### 3. Detecting cognates automatically ( Lingpy )
 **Pipeline to generate cognates:** 
 ```shell
 python3	congnate_detect_pipeline.py input orthography output
