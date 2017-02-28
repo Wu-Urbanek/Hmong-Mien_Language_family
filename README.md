@@ -62,9 +62,18 @@ python3	PaptoNex.py input output
 ```
 The input data is in word list format. Following the input file is the output file name. Please make sure that the input file has a column named "COGIDS", or change the script accordingly. 
 
+#### 4. Phylogenetic tree ( MrBayes )
+To generate the language tree, we applied MCMC method. <br />
+Mrbayes can execute from commandlies. The script is located in Mrbayes_Script.
+```shell
+./mb Use_default.txt log.txt&
+```
+
 ### Notes for the project ###
 
-**Problems one might encounter :** 
+**Lingpy installation:**
+To view the detail instruction, visit : https://github.com/lingpy/lingpy <br />
+
 Lingpy required python-igraph. To install python-igraph for python 2.7, the commandline is . <br />
 ```shell
 pip install python-igraph
@@ -80,5 +89,5 @@ sudo apt-get install -y libigraph0-dev
 cd python-igraph-master
 sudo python3 setup.py install
 ```
-
-
+**NEX file**
+The script above can generate the nex file. However, the dialect/language names should contains no white space. For example, we altered *Eastern Xiangxi* to *Eastern-Xiangxi*. 
