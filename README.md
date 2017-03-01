@@ -64,9 +64,10 @@ The input data is in word list format. Following the input file is the output fi
 
 #### 4. Phylogenetic tree ( MrBayes )
 To generate the language tree, we applied MCMC method. <br />
-Mrbayes can execute from commandlies. The script is located in Mrbayes_Script.
+Mrbayes can execute in batch mode. The script is located in Mrbayes_Script.
+And the command is :
 ```shell
-./mb Use_default.txt log.txt&
+./mb < Use_default.txt >log.txt&
 ```
 
 ### Notes for the project ###
