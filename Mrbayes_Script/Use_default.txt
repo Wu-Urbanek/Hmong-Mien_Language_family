@@ -1,0 +1,9 @@
+set autoclose=yes nowarn=yes
+execute /home/admin1/Documents/MOLE/StepByStep/github/Data/HM-manual-NEX.nex
+lset nst=6 rates=gamma
+mcmcp ngen=20000000 nruns=2 nchains=4 diagnfreq=1000 diagnstat=maxstddev savebrlens=yes samplefreq=100 file=HM-manual-NEX-batch.nex1
+mcmc file=HM-manual-NEX-batch.nex2
+mcmc file=HM-manual-NEX-batch.nex3
+sump
+sumt
+quit
