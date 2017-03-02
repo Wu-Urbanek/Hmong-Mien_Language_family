@@ -37,7 +37,21 @@ wl = Wordlist(D)
 wl.renumber('cog')
 print('Saving full cognate file...')
 wl.output('tsv', filename='{0}-{1}'.format(sys.argv[3],'cognate'),prettify=False, ignore='all')
-
+###### automatic cognate detect section 
+## get cognate 
+try:
+	full=LexStat('tsv',filename='{0}-{1}-{2}'.format(sys.argv[3],'full','temp'),segments='segments')
+except:
+	full=LexStat('{0}-{1}.tsv'.format(sys.argv[3],'cognate'),segments='segments')
+	full.get_scorer(runs=10000)
+	full.output('tsv',filename='')
+	full.output('tsv', filename='{0}-{1}-{2}'.format(sys.argv[3],'full','temp'),prettify=False, ignore='all')
+	
+full.cluster(method='lexstat',cluster_method='infomap',threshold=0.6,ref='cogids')
+full.add_entries('note','cogid',lambda x: '')
+full.add_entries('morphemes','cogid',lambda x: '')
+print('Saving full cognate file')
+full.output('tsv', filename='{0}-{1}-{2}'.format(sys.argv[3],'full','final'), ignore='all', prettify=False)	
 
 ## get partical cognate
 try:
